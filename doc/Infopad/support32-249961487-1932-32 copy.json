@@ -1,0 +1,4300 @@
+{
+   "forms": {
+      "projectnumber": 249961487,
+      "NextToken": "",
+      "form": [
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - Baseline Pasient",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:07:27",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "name": "KLINISK BESLUTNINGSSTØTTESYSTEM I FYSIOTERAPI"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "name": "HVA INNEBÆRER PROSJEKTET?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "name": "MULIGE FORDELER OG ULEMPER"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "name": "FRIVILLIG DELTAKELSE OG MULIGHET FOR Å TREKKE SITT SAMTYKKE"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "name": "HVA SKJER MED OPPLYSNINGENE OM DEG? "
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "name": "GODKJENNING"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "name": "KONTAKTOPPLYSNINGER"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Jeg samtykker"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg samtykker IKKE"
+                           }
+                        ],
+                        "name": "JEG SAMTYKKER TIL Å DELTA I PROSJEKTET OG TIL AT MINE PERSONOPPLYSNINGER BRUKES SLIK DET ER BESKREVET"
+                     }
+                  ],
+                  "name": "FORESPØRSEL OM DELTAKELSE I FORSKNINGSPROSJEKTET"
+               }
+            },
+            "end": "11-05-2020 12:07:32",
+            "id": 258916056,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "Samtykke - SupportPRIM"
+         },
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - Baseline Pasient",
+            "preweb": "https://www.infopad.no/Admin/api/PrewebRedirect",
+            "scores": {
+               "score": [
+                  {
+                     "content": "Hode",
+                     "points": 1
+                  },
+                  {
+                     "content": "Nakke",
+                     "points": ""
+                  },
+                  {
+                     "content": "Skuldre",
+                     "points": 1
+                  },
+                  {
+                     "content": "Øvre del rygg",
+                     "points": 3
+                  },
+                  {
+                     "content": "Albuer",
+                     "points": ""
+                  },
+                  {
+                     "content": "Håndledd / hender",
+                     "points": 1
+                  },
+                  {
+                     "content": "Hofter / lår",
+                     "points": 1
+                  },
+                  {
+                     "content": "Korsrygg",
+                     "points": ""
+                  },
+                  {
+                     "content": "Ankler / føtter",
+                     "points": 1
+                  },
+                  {
+                     "content": "Knær",
+                     "points": 1
+                  },
+                  {
+                     "content": "Totalt antall ruter:",
+                     "points": 9
+                  },
+                  {
+                     "content": "Antall affiserte regioner:",
+                     "points": 7
+                  }
+               ]
+            },
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:07:23",
+            "groups": {
+               "group": {
+                  "nameAsForm": true,
+                  "question": {
+                     "nameAsGroup": true,
+                     "name": "Smertetegning",
+                     "bodymap": {
+                        "square": [
+                           {
+                              "side": 0,
+                              "x": 4,
+                              "y": 4
+                           },
+                           {
+                              "side": 1,
+                              "x": 4,
+                              "y": 3
+                           },
+                           {
+                              "side": 1,
+                              "x": 3,
+                              "y": 3
+                           },
+                           {
+                              "side": 1,
+                              "x": 2,
+                              "y": 3
+                           },
+                           {
+                              "side": 1,
+                              "x": 3,
+                              "y": 9
+                           },
+                           {
+                              "side": 1,
+                              "x": 3,
+                              "y": 10
+                           },
+                           {
+                              "side": 1,
+                              "x": 4,
+                              "y": 12
+                           },
+                           {
+                              "side": 1,
+                              "x": 4,
+                              "y": 0
+                           },
+                           {
+                              "side": 1,
+                              "x": 6,
+                              "y": 7
+                           }
+                        ]
+                     }
+                  },
+                  "name": "Smertetegning"
+               }
+            },
+            "end": "11-05-2020 12:07:32",
+            "id": 258916058,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "Smertetegning siste uke (med regional angivelse)"
+         },
+         {
+            "verdicts": {
+               "verdict": "Revmatisk sykdom,Hjertesykdom"
+            },
+            "Project": "SupportPRIM - Baseline Pasient",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:05:35",
+            "groups": {
+               "group": [
+                  {
+                     "nameAsForm": false,
+                     "question": [
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": true,
+                                 "content": "For det meste stillesittende arbeid (f.eks skrivebordsarbeid, montering)"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Arbeid som krever at du går mye (f.eks ekspeditørarbeid, lett industriarbeid, undervisning)"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Arbeid hvor du går og løfter mye (f.eks postbud, pleier, bygningsarbeider)"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Tungt kroppsarbeid (f.eks skogsarbeider, tungt jordbruksarbeid, tungt bygningsarbeid)"
+                              }
+                           ],
+                           "name": "Hvordan vil du beskrive arbeidet ditt (lønnet eller ulønnet)?"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": true,
+                                 "content": "Svært redusert"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Ganske redusert"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Litt redusert"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Ikke redusert"
+                              }
+                           ],
+                           "name": "Hvor redusert er ditt daglige aktivitetsnivå på grunn av smerter eller plager?"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": "Annen fysioterapeut"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Manuellterapeut"
+                              },
+                              {
+                                 "selected": true,
+                                 "content": "Kiropraktor"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Legespesialist"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Psykolog"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Alternative behandlere"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Fastlege"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Andre"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Nei, ingen"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Psykomotorisk fysioterapeut"
+                              }
+                           ],
+                           "name": "Har du vært hos noen annen behandler for dine nåværende plager i løpet av de siste 12 måneder?"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": 0
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 1
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 2
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 3
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 4
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 5
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 6
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 7
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 8
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 9
+                              },
+                              {
+                                 "selected": true,
+                                 "content": 10
+                              }
+                           ],
+                           "name": "Arbeidsevne"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": 0
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 1
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 2
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 3
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 4
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 5
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 6
+                              },
+                              {
+                                 "selected": true,
+                                 "content": 7
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 8
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 9
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 10
+                              }
+                           ],
+                           "name": "Hvor engstelig er du for at dine plager forverres med fysisk aktivitet eller bevegelse?"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "name": "Spesifiser:"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": "1 - 5"
+                              },
+                              {
+                                 "selected": true,
+                                 "content": "6 - 10"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Mer enn 10"
+                              }
+                           ],
+                           "name": "Hvor mange slike behandlinger har du hatt i løpet av de siste 12 måneder?"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": true,
+                                 "content": "Svært god"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "God"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Middels"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Vanskelig"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Svært vanskelig"
+                              }
+                           ],
+                           "name": "Når du tenker på barndommen/ oppveksten din, vil du beskrive den som: "
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": true,
+                                 "content": "Revmatisk sykdom"
+                              },
+                              {
+                                 "selected": true,
+                                 "content": "Hjertesykdom"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Astma/ lungesykdom"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Nevrologisk sykdom (f.eks tidligere hjerneslag eller MS)"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Kreft/ tidligere kreft"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Psykiske plager"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Demens/ kognitiv svikt"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Osteoporose"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Diabetes"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Magesmerter"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Hodepine/svimmelhet"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Utmattelse"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Annet"
+                              }
+                           ],
+                           "name": "Andre nåværende sykdommer eller plager:"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "name": "Beskriv annet:"
+                        }
+                     ],
+                     "name": "Bakgrunnsdata "
+                  },
+                  {
+                     "nameAsForm": false,
+                     "question": {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "I lønnet arbeid"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Skoleelev / Student"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Pensjonist"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Uføretrygdet"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Sykmeldt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Arbeidsavklaring"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ulønnet arbeid (eks. hjemme/frivillighetsarbeid)"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Arbeidsledig"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Foreldrepermisjon"
+                           }
+                        ],
+                        "name": "Hva er din arbeidssituasjon nå? "
+                     },
+                     "name": "Arbeidssituasjon"
+                  },
+                  {
+                     "nameAsForm": false,
+                     "question": [
+                        {
+                           "nameAsGroup": false,
+                           "answer": 100,
+                           "name": "Angi stillingsprosent"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "name": "Angi uføregrad i prosent"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "name": "Angi sykmeldingsgrad i prosent"
+                        }
+                     ],
+                     "name": "Oppfølging arbeidssituasjon"
+                  },
+                  {
+                     "nameAsForm": false,
+                     "question": [
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": true,
+                                 "content": "Mann"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Kvinne"
+                              }
+                           ],
+                           "name": "Kjønn"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": 175,
+                           "name": "Høyde"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": 70,
+                           "name": "Vekt"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": true,
+                                 "content": "Nei"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Ja"
+                              }
+                           ],
+                           "name": "Røyker du?"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": "Grunnskole eller lavere"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Videregående skole"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Inntil 4 år høyere utdanning"
+                              },
+                              {
+                                 "selected": true,
+                                 "content": "Mer enn 4 år høyere utdanning"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Annet"
+                              }
+                           ],
+                           "name": "Ditt høyeste utdanningsnivå:"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": "Europa med i EU eller EØS"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Europa utenfor EU og EØS"
+                              },
+                              {
+                                 "selected": true,
+                                 "content": "Norge"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Afrika"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Asia"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Nord-Amerika"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Sør- eller Mellom-Amerika"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Oseania"
+                              }
+                           ],
+                           "name": "Hvor er du født?"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": true,
+                                 "content": "Gift / Samboer"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Skilt"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Enke / Enkemann"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Enslig"
+                              }
+                           ],
+                           "name": "Sivilstand"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": "Eget hjem alene"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Institusjon"
+                              },
+                              {
+                                 "selected": true,
+                                 "content": "Eget hjem sammen med andre"
+                              }
+                           ],
+                           "name": "Bosituasjon"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": 2,
+                           "name": "Hvor mange barn under 18 år har du daglig omsorg for?"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "name": "Hva er høyeste utdanning?"
+                        }
+                     ],
+                     "name": "Bakgrunnsdata"
+                  },
+                  {
+                     "nameAsForm": false,
+                     "question": [
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": true,
+                                 "content": "Nei"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Ja"
+                              }
+                           ],
+                           "name": "Bruker du ganghjelpemidler?"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": "Går uten ganghjelpemiddel"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "En krykke/stokk"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "To krykker/stokker"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Rullator/gåramme"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Prekestol"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Rullestol, går med personstøtte"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Rullestol, kan ikke gå"
+                              }
+                           ],
+                           "name": "Ganghjelpemiddel innendørs"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": "Går uten ganghjelpemiddel"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "En krykke/stokk"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "To krykker/stokker"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Rullator/gåramme"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Prekestol"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Rullestol, går med personstøtte"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Rullestol, kan ikke gå"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Går ikke ute"
+                              },
+                              {
+                                 "selected": false,
+                                 "content": "Staver"
+                              }
+                           ],
+                           "name": "Ganghjelpemiddel utendørs"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "name": "Jeg har ikke vært ute siden"
+                        }
+                     ],
+                     "name": "Ganghjelpemidler"
+                  },
+                  {
+                     "nameAsForm": false,
+                     "question": {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Helt enig"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Enig"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Verken enig eller uenig"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Uenig"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Helt uenig"
+                           }
+                        ],
+                        "name": "Jeg tror at fysioterapi vil bedre min funksjon:"
+                     },
+                     "name": "Tro på behandlingen"
+                  }
+               ]
+            },
+            "end": "11-05-2020 12:07:32",
+            "id": 258916059,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "Bakgrunnsdata - supportPRIM"
+         },
+         {
+            "verdicts": {
+               "verdict": [
+                  "Søvn: Lette søvnproblemer",
+                  "Livskraft: Frisk og energisk."
+               ]
+            },
+            "Project": "SupportPRIM - Baseline Pasient",
+            "preweb": "https://www.infopad.no/Admin/api/PrewebRedirect",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:07:29",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Jeg er i stand til å sove normalt, dvs. jeg har ingen problemer med å sove."
+                           },
+                           {
+                              "selected": true,
+                              "content": "Jeg har lette søvnproblemer, f.eks. vanskelig for å falle i søvn eller våkner av og til om natten."
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg har moderate søvnproblemer, f.eks. forstyrret søvn eller føler jeg ikke har sovet nok."
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg har store søvnproblemer, f.eks.må bruke sovemedisiner ofte eller rutinemessig, eller våkner om natten og/ eller for tidlig om morgenen."
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg lider av alvorlig søvnløshet, f.eks. er søvn nesten umulig selv med bruk av sovemedisiner, eller jeg forblir våken det meste av natten."
+                           }
+                        ],
+                        "name": "Søvn"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Jeg føler meg frisk og energisk."
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg føler meg litt sliten, trett eller svak."
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg føler meg middels sliten, trett eller svak."
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg føler meg svært sliten, trett eller svak, nesten utslitt."
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg føler meg ekstremt sliten, trett eller svak, totalt utslitt."
+                           }
+                        ],
+                        "name": "Livskraft"
+                     }
+                  ],
+                  "name": "Søvn og livskraft"
+               }
+            },
+            "end": "11-05-2020 12:07:32",
+            "id": 258916060,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "Søvn og livskraft"
+         },
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - Baseline Pasient",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:07:29",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Aldri"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Sjelden"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Av og til"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ofte"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Alltid"
+                           }
+                        ],
+                        "name": "Har du vanskelig for å forstå helseinformasjon som du mottar? "
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Meget dårlig"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Dårlig"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Hverken god eller dårlig"
+                           },
+                           {
+                              "selected": false,
+                              "content": "God"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Meget god"
+                           }
+                        ],
+                        "name": "Synes du at du har en god forståelse av din nåværende helsesituasjon (muligheter og begrensninger)?"
+                     }
+                  ],
+                  "name": "Health literacy"
+               }
+            },
+            "end": "11-05-2020 12:07:32",
+            "id": 258916065,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "Health literacy - supportPRIM"
+         },
+         {
+            "verdicts": {
+               "verdict": [
+                  "Gange: Middels store problemer",
+                  "Personlig hygiene: Litt problemer",
+                  "Vanlige gjøremål: Middels store problemer",
+                  "Smerter og ubehag: Hverken smerter eller ubehag.",
+                  "Angst/ depresjon: Verken engstelig eller deprimert."
+               ]
+            },
+            "Project": "SupportPRIM - Baseline Pasient",
+            "preweb": "https://www.infopad.no/Admin/api/PrewebRedirect",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:07:25",
+            "groups": {
+               "group": [
+                  {
+                     "nameAsForm": true,
+                     "question": {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Jeg har ingen problemer med å gå omkring"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg har litt problemer med å gå omkring"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Jeg har middels store problemer med å gå omkring"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg har store problemer med å gå omkring"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg er ute av stand til å gå omkring"
+                           }
+                        ],
+                        "name": "Gange"
+                     },
+                     "name": "Marker den ENE boksen som best beskriver helsen din I DAG"
+                  },
+                  {
+                     "nameAsForm": true,
+                     "question": {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Jeg har ingen problemer med å vaske meg eller kle meg"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Jeg har litt problemer med å vaske meg eller kle meg"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg har middels store problemer med å vaske meg eller kle meg"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg har store problemer med å vaske meg eller kle meg"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg er ute av stand til å vaske meg eller kle meg"
+                           }
+                        ],
+                        "name": "Personlig stell"
+                     },
+                     "name": "Marker den ENE boksen som best beskriver helsen din I DAG"
+                  },
+                  {
+                     "nameAsForm": true,
+                     "question": {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Jeg har ingen problemer med å utføre mine vanlige gjøremål"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg har litt problemer med å utføre mine vanlige gjøremål"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Jeg har middels store problemer med å utføre mine vanlige gjøremål"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg har store problemer med å utføre mine vanlige gjøremål"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg er ute av stand til å utføre mine vanlige gjøremål"
+                           }
+                        ],
+                        "name": "Vanlige gjøremål "
+                     },
+                     "name": "Marker den ENE boksen som best beskriver helsen din I DAG"
+                  },
+                  {
+                     "nameAsForm": true,
+                     "question": {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Jeg har verken smerter eller ubehag"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg har litt smerter eller ubehag"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg har middels smerter eller ubehag"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg har sterke smerter eller ubehag"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg har svært sterke smerter eller ubehag"
+                           }
+                        ],
+                        "name": "Smerter/ ubehag"
+                     },
+                     "name": "Marker den ENE boksen som best beskriver helsen din I DAG"
+                  },
+                  {
+                     "nameAsForm": true,
+                     "question": {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Jeg er verken engstelig eller deprimert"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg er litt engstelig eller deprimert"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg er middels engstelig eller deprimert"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg er svært engstelig eller deprimert"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Jeg er ekstremt engstelig eller deprimert"
+                           }
+                        ],
+                        "name": "Angst/ depresjon"
+                     },
+                     "name": "Marker den ENE boksen som best beskriver helsen din I DAG"
+                  }
+               ]
+            },
+            "end": "11-05-2020 12:07:32",
+            "id": 258916073,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "Fem spørsmål om helsen din"
+         },
+         {
+            "verdicts": {
+               "verdict": [
+                  "Rødt flagg. Sjekk ut",
+                  "Rødt flagg. Sjekk ut"
+               ]
+            },
+            "Project": "SupportPRIM - Baseline Pasient",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:07:27",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "Store nattsmerter?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "Tidligere kreftdiagnose?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "Uforklarlig vekttap, dårlig matlyst, uforklarlig feber?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "Problemer med vannlating, avføring og/eller seksualfunksjon?"
+                     }
+                  ],
+                  "name": "Har du:"
+               }
+            },
+            "end": "11-05-2020 12:07:32",
+            "id": 258916075,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "Flagg - supportPRIM"
+         },
+         {
+            "verdicts": {
+               "verdict": "Score: 62 (0-100) som indikerer økt risiko (51-100) for å utvikle langvarige muskel- og skjelettplager."
+            },
+            "Project": "SupportPRIM - Baseline Pasient",
+            "preweb": "https://www.infopad.no/Admin/api/PrewebRedirect",
+            "scores": {
+               "score": {
+                  "content": "Totalskår:",
+                  "points": 62
+               }
+            },
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:07:20",
+            "groups": {
+               "group": [
+                  {
+                     "nameAsForm": true,
+                     "question": {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "0 - 1 uker"
+                           },
+                           {
+                              "selected": false,
+                              "content": "1 - 2 uker"
+                           },
+                           {
+                              "selected": false,
+                              "content": "3 - 4 uker"
+                           },
+                           {
+                              "selected": false,
+                              "content": "4 - 5 uker"
+                           },
+                           {
+                              "selected": true,
+                              "content": "6 - 8 uker"
+                           },
+                           {
+                              "selected": false,
+                              "content": "9 - 11 uker"
+                           },
+                           {
+                              "selected": false,
+                              "content": "3 - 6 måneder"
+                           },
+                           {
+                              "selected": false,
+                              "content": "6 - 9 måneder"
+                           },
+                           {
+                              "selected": false,
+                              "content": "9 - 12 måneder"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Over ett år"
+                           }
+                        ],
+                        "name": "1. Hvor lenge har du hatt dine nåværende plager?"
+                     },
+                     "name": "Örebro Screening skjema"
+                  },
+                  {
+                     "nameAsForm": true,
+                     "question": [
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": 0
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 1
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 2
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 3
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 4
+                              },
+                              {
+                                 "selected": true,
+                                 "content": 5
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 6
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 7
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 8
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 9
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 10
+                              }
+                           ],
+                           "name": "2. Hvor mye smerter har du hatt den SISTE UKEN?"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": 0
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 1
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 2
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 3
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 4
+                              },
+                              {
+                                 "selected": true,
+                                 "content": 5
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 6
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 7
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 8
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 9
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 10
+                              }
+                           ],
+                           "name": "3. Jeg kan utføre lettere arbeid under en time."
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": 0
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 1
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 2
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 3
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 4
+                              },
+                              {
+                                 "selected": true,
+                                 "content": 5
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 6
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 7
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 8
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 9
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 10
+                              }
+                           ],
+                           "name": "4. Jeg kan sove på natten."
+                        }
+                     ],
+                     "name": "Ørebro Screening skjema"
+                  },
+                  {
+                     "nameAsForm": true,
+                     "question": [
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": 0
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 1
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 2
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 3
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 4
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 5
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 6
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 7
+                              },
+                              {
+                                 "selected": true,
+                                 "content": 8
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 9
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 10
+                              }
+                           ],
+                           "name": "5. Hvor anspent eller stresset har du kjent deg den SISTE UKEN?"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": 0
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 1
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 2
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 3
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 4
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 5
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 6
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 7
+                              },
+                              {
+                                 "selected": true,
+                                 "content": 8
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 9
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 10
+                              }
+                           ],
+                           "name": "6. I hvilken grad har du kjent deg nedstemt den SISTE UKEN?"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": 0
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 1
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 2
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 3
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 4
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 5
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 6
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 7
+                              },
+                              {
+                                 "selected": true,
+                                 "content": 8
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 9
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 10
+                              }
+                           ],
+                           "name": "7. Hvor stor risiko mener du det er for at dine nåværende plager kan bli langvarige?"
+                        }
+                     ],
+                     "name": "Ørebro Screening skjema"
+                  },
+                  {
+                     "nameAsForm": true,
+                     "question": [
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": 0
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 1
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 2
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 3
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 4
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 5
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 6
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 7
+                              },
+                              {
+                                 "selected": true,
+                                 "content": 8
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 9
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 10
+                              }
+                           ],
+                           "name": "8. Ut fra din vurdering, hvor stor er sjansen for at du er i arbeid om TRE MÅNEDER?"
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": 0
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 1
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 2
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 3
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 4
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 5
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 6
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 7
+                              },
+                              {
+                                 "selected": true,
+                                 "content": 8
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 9
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 10
+                              }
+                           ],
+                           "name": "9. Om plagene øker, er det et signal på at jeg bør slutte med det jeg holder på med, til plagene minker."
+                        },
+                        {
+                           "nameAsGroup": false,
+                           "answer": [
+                              {
+                                 "selected": false,
+                                 "content": 0
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 1
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 2
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 3
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 4
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 5
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 6
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 7
+                              },
+                              {
+                                 "selected": true,
+                                 "content": 8
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 9
+                              },
+                              {
+                                 "selected": false,
+                                 "content": 10
+                              }
+                           ],
+                           "name": "10. Jeg bør ikke utføre mine normale aktiviteter eller arbeid med den smerten jeg har nå."
+                        }
+                     ],
+                     "name": "Ørebro screening skjema"
+                  }
+               ]
+            },
+            "end": "11-05-2020 12:07:32",
+            "id": 258916082,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "Örebro screening skjema - Fysioprim"
+         },
+         {
+            "verdicts": {
+               "verdict": "Pasienten har kontinuerlige smerter som ikke varierer i intensitet."
+            },
+            "Project": "SupportPRIM - Baseline Pasient",
+            "preweb": "https://www.infopad.no/Admin/api/PrewebRedirect",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:07:17",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Ja, jeg kjenner den hele tiden"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Nei, den er av og på"
+                           }
+                        ],
+                        "name": "Er smerten kontinuerlig"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei, den er stabil"
+                           }
+                        ],
+                        "name": "Er smerten av varierende intensitet?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Den varierer innenfor døgnet"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Den varierer fra dag til dag"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Annet"
+                           }
+                        ],
+                        "name": "Hvordan vil du beskrive smertevariasjonen best?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Hver dag"
+                           },
+                           {
+                              "selected": false,
+                              "content": "En eller flere ganger i uken"
+                           },
+                           {
+                              "selected": false,
+                              "content": "En eller flere ganger i måneden"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Sjeldnere enn 1 gang i måneden"
+                           }
+                        ],
+                        "name": "Hvor ofte har du vanligvis disse smertene?"
+                     }
+                  ],
+                  "name": "Tidsaspekt smerte"
+               }
+            },
+            "end": "11-05-2020 12:07:33",
+            "id": 258916129,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "Smertekartlegging fysioprim"
+         },
+         {
+            "verdicts": {
+               "verdict": [
+                  "Smertemedisin den siste uken: .",
+                  "Daglig medisinbruk: 0."
+               ]
+            },
+            "Project": "SupportPRIM - Baseline Pasient",
+            "preweb": "https://www.infopad.no/Admin/api/PrewebRedirect",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:07:29",
+            "groups": {
+               "group": {
+                  "nameAsForm": true,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Nei"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Ja"
+                           }
+                        ],
+                        "name": "Har du brukt noen medisiner mot smerte i løpet av den siste uken?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Paracetamol, Paracet, Panodil, Pimol, Pinex eller Perfalgan"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Albyl-E (500 mg), Aspirin, Globoid eller Dispril"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ibuprofen, Ibux, Ibuprox, Ibumetin, Brufen, Naproxen, Naprosyn eller Ladox"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Andre"
+                           }
+                        ],
+                        "name": "Hvilke medisiner?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": 0
+                           },
+                           {
+                              "selected": false,
+                              "content": "1- 4"
+                           },
+                           {
+                              "selected": false,
+                              "content": "5 eller flere"
+                           }
+                        ],
+                        "name": "Antall medisiner du bruker daglig:"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "name": "Hvilke andre medisiner?"
+                     }
+                  ],
+                  "name": "medisinbruk"
+               }
+            },
+            "end": "11-05-2020 12:07:33",
+            "id": 258916135,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "Medisinbruk - Fysioprim"
+         },
+         {
+            "verdicts": {
+               "verdict": "Score: 3,1 (1-4) som er over grensen (1.85) for symptomer på psykisk stress."
+            },
+            "Project": "SupportPRIM - Baseline Pasient",
+            "preweb": "https://www.infopad.no/Admin/api/PrewebRedirect",
+            "scores": {
+               "score": {
+                  "content": "Gjennomsnitt:",
+                  "points": 3.1
+               }
+            },
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:07:24",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "En god del"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Svært mye"
+                           }
+                        ],
+                        "name": "1. Plutselig skremt uten grunn"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": true,
+                              "content": "En god del"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Svært mye"
+                           }
+                        ],
+                        "name": "2. Føler du deg svimmel eller kraftesløs"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": true,
+                              "content": "En god del"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Svært mye"
+                           }
+                        ],
+                        "name": "3. Føler deg anspent eller opphisset"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": true,
+                              "content": "En god del"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Svært mye"
+                           }
+                        ],
+                        "name": "4. Anfall av redsel eller panikk"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": true,
+                              "content": "En god del"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Svært mye"
+                           }
+                        ],
+                        "name": "5. Anklager deg selv for ting"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": true,
+                              "content": "En god del"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Svært mye"
+                           }
+                        ],
+                        "name": "6. Vanskelig for å sove"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": true,
+                              "content": "En god del"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Svært mye"
+                           }
+                        ],
+                        "name": "7. Følelse av håpløshet mhp. framtiden"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": true,
+                              "content": "En god del"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Svært mye"
+                           }
+                        ],
+                        "name": "8. Føler deg nedfor"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": true,
+                              "content": "En god del"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Svært mye"
+                           }
+                        ],
+                        "name": "9. Føler at alt krever stor anstrengelse"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": true,
+                              "content": "En god del"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Svært mye"
+                           }
+                        ],
+                        "name": "10. Føler at du ikke er noe verd"
+                     }
+                  ],
+                  "name": "Hvordan har du det?"
+               }
+            },
+            "end": "11-05-2020 12:07:33",
+            "id": 258916168,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "Hvordan har du det? (HSCL 10)"
+         },
+         {
+            "verdicts": {
+               "verdict": [
+                  "Mosjon og trening (gjennomsnitt): Sjeldnere enn en gang i uken og tar det hardt i mindre enn 15 min.",
+                  "Fysisk aktivitet indeks: Inaktiv (0)"
+               ]
+            },
+            "Project": "SupportPRIM - Baseline Pasient",
+            "preweb": "https://www.infopad.no/Admin/api/PrewebRedirect",
+            "scores": {
+               "score": {
+                  "content": "Fysisk aktivitet indeks:",
+                  "points": ""
+               }
+            },
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:07:29",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Aldri"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Sjeldnere enn en gang i uken"
+                           },
+                           {
+                              "selected": false,
+                              "content": "En gang i uken"
+                           },
+                           {
+                              "selected": false,
+                              "content": "2 - 3 ganger i uken"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Omtrent hver dag"
+                           }
+                        ],
+                        "name": "Hvor ofte driver du mosjon eller trening?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Tar det rolig uten å bli andpusten eller svett"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Tar det så hardt at jeg blir andpusten og svett"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Tar meg nesten helt ut"
+                           }
+                        ],
+                        "name": "Hvor hardt mosjonerer / trener du?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Mindre enn 15 minutter"
+                           },
+                           {
+                              "selected": false,
+                              "content": "15 - 29 minutter"
+                           },
+                           {
+                              "selected": false,
+                              "content": "30 minutter - 1 time"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Mer enn 1 time"
+                           }
+                        ],
+                        "name": "Hvor lenge holder du på hver gang?"
+                     }
+                  ],
+                  "name": "Mosjon og Trening"
+               }
+            },
+            "end": "11-05-2020 12:07:34",
+            "id": 258916201,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "Mosjon og Trening Fysioprim"
+         },
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - Baseline Pasient",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:07:25",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": 0
+                           },
+                           {
+                              "selected": true,
+                              "content": 1
+                           },
+                           {
+                              "selected": false,
+                              "content": 2
+                           },
+                           {
+                              "selected": false,
+                              "content": 3
+                           },
+                           {
+                              "selected": false,
+                              "content": 4
+                           },
+                           {
+                              "selected": false,
+                              "content": 5
+                           },
+                           {
+                              "selected": false,
+                              "content": 6
+                           },
+                           {
+                              "selected": false,
+                              "content": 7
+                           },
+                           {
+                              "selected": false,
+                              "content": 8
+                           },
+                           {
+                              "selected": false,
+                              "content": 9
+                           },
+                           {
+                              "selected": false,
+                              "content": 10
+                           }
+                        ],
+                        "name": "1) Hvor intense var smertene i gjennomsnitt (der 0 er \"ingen smerte\" og 10 er \"så vondt som det går an å ha\")?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "2) Føler du deg ofte usikker på hvordan du skal håndtere smertene dine?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "3) Har smertene dine plaget deg mye de siste to ukene?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "4) Har du bare klart å gå korte avstander på grunn av smertene dine?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "5) Har du vært plaget med ledd- eller muskelsmerter flere steder i kroppen?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "6) Tror du plagene dine kommer til å vare lenge?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "7) Har du andre vesentlige helseplager?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "8) Har smertene gjort deg nedtrykt eller deprimert de siste to ukene?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "9) Føler du at det er utrygt for deg, med din helsetilstand, å være fysisk aktiv (f.eks. å gå, løfte, trene, bøye seg)?"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "10) Har du hatt dine nåværende smerteproblemer i 6 måneder eller lenger?"
+                     }
+                  ],
+                  "name": "Keele STarT MSK skjema© "
+               }
+            },
+            "end": "11-05-2020 12:07:34",
+            "id": 258916211,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "Keele STarT MSK skjema© Selvrapporteringsversjon"
+         },
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - Baseline Pasient",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:07:17",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Moderat"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Ganske intense"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Veldig intense"
+                           }
+                        ],
+                        "name": "1. Smerte/stivhet i løpet av dagen"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Moderat"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Ganske intense"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Veldig intense"
+                           }
+                        ],
+                        "name": "2. Smerter/stivhet om natten."
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Moderat"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Veldig"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Har ikke kunnet gå"
+                           }
+                        ],
+                        "name": "3. Gange"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Moderat"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Veldig"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Klarer ikke å vaske eller kle på meg"
+                           }
+                        ],
+                        "name": "4. Vaske seg/påkledning"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Moderat"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Veldig"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke vært i stand til å være fysisk aktiv"
+                           }
+                        ],
+                        "name": "5. Fysisk aktivitetsnivå"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Moderat"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Veldig"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ekstremt"
+                           }
+                        ],
+                        "name": "6. Arbeid/daglige aktiviteter"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Moderat"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Veldig"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ekstremt"
+                           }
+                        ],
+                        "name": "7. Sosiale aktiviteter og hobbyer"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Aldri"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Sjeldent"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Noen ganger"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ofte"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Hele tiden"
+                           }
+                        ],
+                        "name": "8. Behov for hjelp"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Aldri"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Sjeldent"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Noen ganger"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ofte"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Hver natt"
+                           }
+                        ],
+                        "name": "9. Søvn"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ingen"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Moderat"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Veldig"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Ekstremt"
+                           }
+                        ],
+                        "name": "10. Utmattelse eller lite energi "
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ingen"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Moderat"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Veldig"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Ekstremt"
+                           }
+                        ],
+                        "name": "11. Følelsesmessig velvære"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Fullstendig"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Veldig godt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Moderat"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           }
+                        ],
+                        "name": "12. Forståelse av dine helseplager og pågående behandling"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ekstremt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Veldig"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Moderat"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Ikke i det hele tatt"
+                           }
+                        ],
+                        "name": "13. Tro på å mestre symptomene dine"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke i det hele tatt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Litt"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Moderat"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Veldig mye"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Ekstremt"
+                           }
+                        ],
+                        "name": "14. Generell påvirkning"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ingen dager"
+                           },
+                           {
+                              "selected": false,
+                              "content": "1 dag"
+                           },
+                           {
+                              "selected": false,
+                              "content": "2 dager"
+                           },
+                           {
+                              "selected": false,
+                              "content": "3 dager"
+                           },
+                           {
+                              "selected": false,
+                              "content": "4 dager"
+                           },
+                           {
+                              "selected": true,
+                              "content": "5 dager"
+                           },
+                           {
+                              "selected": false,
+                              "content": "6 dager"
+                           },
+                           {
+                              "selected": false,
+                              "content": "7 dager"
+                           }
+                        ],
+                        "name": "Fysisk aktivitetsnivå"
+                     }
+                  ],
+                  "name": "SPØRRESKJEMA OM MUSKEL- OG SKJELETTHELSE (MSK-HQ)"
+               }
+            },
+            "end": "11-05-2020 12:07:34",
+            "id": 258916213,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "SPØRRESKJEMA OM MUSKEL- OG SKJELETTHELSE (MSK-HQ)"
+         },
+         {
+            "verdicts": {
+               "verdict": [
+                  "",
+                  "Score: 9 (0-12) som indikerer god (8-12) mestringstro."
+               ]
+            },
+            "Project": "SupportPRIM - Baseline Pasient",
+            "preweb": "https://www.infopad.no/Admin/api/PrewebRedirect",
+            "scores": {
+               "score": {
+                  "content": "Totalskår:",
+                  "points": 9
+               }
+            },
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:07:33",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke sikker i det hele tatt 0"
+                           },
+                           {
+                              "selected": false,
+                              "content": 1
+                           },
+                           {
+                              "selected": false,
+                              "content": 2
+                           },
+                           {
+                              "selected": false,
+                              "content": 3
+                           },
+                           {
+                              "selected": false,
+                              "content": 4
+                           },
+                           {
+                              "selected": false,
+                              "content": 5
+                           },
+                           {
+                              "selected": true,
+                              "content": "Helt sikker 6"
+                           }
+                        ],
+                        "name": "1. Jeg kan gjøre noen former for arbeid, til tross for smerten (arbeid inkluderer husarbeid og lønnet/ulønnet arbeid)"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ikke sikker i det hele tatt 0"
+                           },
+                           {
+                              "selected": false,
+                              "content": 1
+                           },
+                           {
+                              "selected": false,
+                              "content": 2
+                           },
+                           {
+                              "selected": true,
+                              "content": 3
+                           },
+                           {
+                              "selected": false,
+                              "content": 4
+                           },
+                           {
+                              "selected": false,
+                              "content": 5
+                           },
+                           {
+                              "selected": false,
+                              "content": "Helt sikker 6"
+                           }
+                        ],
+                        "name": "2. Jeg kan leve en normal livsstil, til tross for smerten"
+                     }
+                  ],
+                  "name": "Smerte"
+               }
+            },
+            "end": "11-05-2020 12:07:36",
+            "id": 258916260,
+            "projectid": 249961487,
+            "taskid": 249961490,
+            "Name": "Pain Self-Efficacy Questionnaire (PSEQ-2)"
+         },
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - Baseline Felles",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:10:54",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "kan ikke0"
+                           },
+                           {
+                              "selected": false,
+                              "content": 1
+                           },
+                           {
+                              "selected": false,
+                              "content": 2
+                           },
+                           {
+                              "selected": false,
+                              "content": 3
+                           },
+                           {
+                              "selected": false,
+                              "content": 4
+                           },
+                           {
+                              "selected": false,
+                              "content": 5
+                           },
+                           {
+                              "selected": true,
+                              "content": 6
+                           },
+                           {
+                              "selected": false,
+                              "content": 7
+                           },
+                           {
+                              "selected": false,
+                              "content": 8
+                           },
+                           {
+                              "selected": false,
+                              "content": 9
+                           },
+                           {
+                              "selected": false,
+                              "content": "kan utføre10"
+                           }
+                        ],
+                        "name": "spille fotball"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "kan ikke0"
+                           },
+                           {
+                              "selected": false,
+                              "content": 1
+                           },
+                           {
+                              "selected": false,
+                              "content": 2
+                           },
+                           {
+                              "selected": false,
+                              "content": 3
+                           },
+                           {
+                              "selected": false,
+                              "content": 4
+                           },
+                           {
+                              "selected": true,
+                              "content": 5
+                           },
+                           {
+                              "selected": false,
+                              "content": 6
+                           },
+                           {
+                              "selected": false,
+                              "content": 7
+                           },
+                           {
+                              "selected": false,
+                              "content": 8
+                           },
+                           {
+                              "selected": false,
+                              "content": 9
+                           },
+                           {
+                              "selected": false,
+                              "content": "kan utføre10"
+                           }
+                        ],
+                        "name": "løpe"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "kan ikke0"
+                           },
+                           {
+                              "selected": false,
+                              "content": 1
+                           },
+                           {
+                              "selected": true,
+                              "content": 2
+                           },
+                           {
+                              "selected": false,
+                              "content": 3
+                           },
+                           {
+                              "selected": false,
+                              "content": 4
+                           },
+                           {
+                              "selected": false,
+                              "content": 5
+                           },
+                           {
+                              "selected": false,
+                              "content": 6
+                           },
+                           {
+                              "selected": false,
+                              "content": 7
+                           },
+                           {
+                              "selected": false,
+                              "content": 8
+                           },
+                           {
+                              "selected": false,
+                              "content": 9
+                           },
+                           {
+                              "selected": false,
+                              "content": "kan utføre10"
+                           }
+                        ],
+                        "name": "løfte knebøy"
+                     }
+                  ],
+                  "name": "Pasientspesifikk funksjonsskala"
+               }
+            },
+            "end": "11-05-2020 12:11:17",
+            "id": 258916432,
+            "projectid": 249961487,
+            "taskid": 249961492,
+            "Name": "Pasientspesifikk funksjonsskala - SupportPRIM"
+         },
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - Baseline Felles",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:11:06",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": {
+                     "nameAsGroup": false,
+                     "answer": "Kunne spille fotballkamper",
+                     "name": "Hva er hovedmålet med behandlingen"
+                  },
+                  "name": "Hovedmål med behandlingen"
+               }
+            },
+            "end": "11-05-2020 12:11:17",
+            "id": 258916452,
+            "projectid": 249961487,
+            "taskid": 249961492,
+            "Name": "Hovedmål - supportPRIM"
+         },
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - Baseline Felles",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:11:09",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": {
+                     "nameAsGroup": false,
+                     "answer": [
+                        {
+                           "selected": false,
+                           "content": "Nakke"
+                        },
+                        {
+                           "selected": false,
+                           "content": "Skulder"
+                        },
+                        {
+                           "selected": false,
+                           "content": "Rygg"
+                        },
+                        {
+                           "selected": false,
+                           "content": "Hofte"
+                        },
+                        {
+                           "selected": true,
+                           "content": "Kne"
+                        },
+                        {
+                           "selected": false,
+                           "content": "Utbredte plager/ sammensatt"
+                        }
+                     ],
+                     "name": "Definer hovedproblem (dette utløser spesifikke tester for gitt område)"
+                  },
+                  "name": "Diagnose"
+               }
+            },
+            "end": "11-05-2020 12:11:18",
+            "id": 258916464,
+            "projectid": 249961487,
+            "taskid": 249961492,
+            "Name": "Diagnose - supportPRIM"
+         },
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - Baseline Felles",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:10:47",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "Reduserte og/eller smertefulle aktive bevegelsesutslag"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Fleksjon"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Ekstensjon"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke reduserte bevegelsesutslag"
+                           }
+                        ],
+                        "name": "Reduserte bevegelsesutslag i"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Fleksjon"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Ekstensjon"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ingen smerter ved aktive bevegelser"
+                           }
+                        ],
+                        "name": "Smerter ved"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Nei"
+                           }
+                        ],
+                        "name": "Reduserte og/eller smertefulle passive bevegelsesutslag "
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Fleksjon"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Ekstensjon"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke reduserte bevegelsesutslag"
+                           }
+                        ],
+                        "name": "Reduserte bevegelsesutslag i"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Fleksjon"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Ekstensjon"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ingen smerter ved passive bevegelser"
+                           }
+                        ],
+                        "name": "Smerter ved"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Nei"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke aktuelt"
+                           }
+                        ],
+                        "name": "Er det hydrops i kneet\t"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Nei"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke aktuelt"
+                           }
+                        ],
+                        "name": "Har pasienten vært utsatt for et traume"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Nei"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke aktuelt"
+                           }
+                        ],
+                        "name": "Positiv Pivot Shift test"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Nei"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke aktuelt"
+                           }
+                        ],
+                        "name": "Positiv Lachman test uten endepunkt"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": true,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Nei"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke aktuelt"
+                           }
+                        ],
+                        "name": "Positiv Sag test\t"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke aktuelt"
+                           }
+                        ],
+                        "name": "Gjenkjennbar smerte ved McMurrays test\t"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke aktuelt"
+                           }
+                        ],
+                        "name": "Gjenkjennbar smerte ved palpasjon i leddspalten"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke aktuelt"
+                           }
+                        ],
+                        "name": "Forøket valgus ved stress test på ekstendert kne"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke aktuelt"
+                           }
+                        ],
+                        "name": "Forøket valgus ved stress test på 20 graders flektert kne"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke aktuelt"
+                           }
+                        ],
+                        "name": "Forøket varus ved stress test på ekstendert kne"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "Ja"
+                           },
+                           {
+                              "selected": true,
+                              "content": "Nei"
+                           },
+                           {
+                              "selected": false,
+                              "content": "Ikke aktuelt"
+                           }
+                        ],
+                        "name": "Forøket varus ved stress test på 20 graders flektert kne"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": "bla bla",
+                        "name": "Eventuelt kommentarer:"
+                     }
+                  ],
+                  "name": "Kneundersøkelse"
+               }
+            },
+            "end": "11-05-2020 12:11:19",
+            "id": 258916476,
+            "projectid": 249961487,
+            "taskid": 249961492,
+            "Name": "Kneundersøkelse - supportPRIM"
+         },
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - Baseline Felles",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:11:08",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": "L",
+                        "name": "Bokstav"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": 9,
+                        "name": "Nummerkode"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": "TEsttest",
+                        "name": "Fritekst (må fylles ut)"
+                     }
+                  ],
+                  "name": "ICPC kode/ Diagnose"
+               }
+            },
+            "end": "11-05-2020 12:11:19",
+            "id": 258916509,
+            "projectid": 249961487,
+            "taskid": 249961492,
+            "Name": "ICPC kode/ diagnose - SupportPRIM"
+         },
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - SMS uke 1",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:13:17",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "kan ikke0"
+                           },
+                           {
+                              "selected": false,
+                              "content": 1
+                           },
+                           {
+                              "selected": false,
+                              "content": 2
+                           },
+                           {
+                              "selected": false,
+                              "content": 3
+                           },
+                           {
+                              "selected": false,
+                              "content": 4
+                           },
+                           {
+                              "selected": true,
+                              "content": 5
+                           },
+                           {
+                              "selected": false,
+                              "content": 6
+                           },
+                           {
+                              "selected": false,
+                              "content": 7
+                           },
+                           {
+                              "selected": false,
+                              "content": 8
+                           },
+                           {
+                              "selected": false,
+                              "content": 9
+                           },
+                           {
+                              "selected": false,
+                              "content": "kan utføre10"
+                           }
+                        ],
+                        "name": "spille fotball"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "kan ikke0"
+                           },
+                           {
+                              "selected": false,
+                              "content": 1
+                           },
+                           {
+                              "selected": false,
+                              "content": 2
+                           },
+                           {
+                              "selected": false,
+                              "content": 3
+                           },
+                           {
+                              "selected": false,
+                              "content": 4
+                           },
+                           {
+                              "selected": false,
+                              "content": 5
+                           },
+                           {
+                              "selected": true,
+                              "content": 6
+                           },
+                           {
+                              "selected": false,
+                              "content": 7
+                           },
+                           {
+                              "selected": false,
+                              "content": 8
+                           },
+                           {
+                              "selected": false,
+                              "content": 9
+                           },
+                           {
+                              "selected": false,
+                              "content": "kan utføre10"
+                           }
+                        ],
+                        "name": "løpe"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "kan ikke0"
+                           },
+                           {
+                              "selected": false,
+                              "content": 1
+                           },
+                           {
+                              "selected": false,
+                              "content": 2
+                           },
+                           {
+                              "selected": false,
+                              "content": 3
+                           },
+                           {
+                              "selected": false,
+                              "content": 4
+                           },
+                           {
+                              "selected": false,
+                              "content": 5
+                           },
+                           {
+                              "selected": true,
+                              "content": 6
+                           },
+                           {
+                              "selected": false,
+                              "content": 7
+                           },
+                           {
+                              "selected": false,
+                              "content": 8
+                           },
+                           {
+                              "selected": false,
+                              "content": 9
+                           },
+                           {
+                              "selected": false,
+                              "content": "kan utføre10"
+                           }
+                        ],
+                        "name": "løfte knebøy"
+                     }
+                  ],
+                  "name": "Pasientspesifikk funksjonsskala"
+               }
+            },
+            "end": "11-05-2020 12:13:23",
+            "id": 258916531,
+            "projectid": 249961487,
+            "taskid": 249966392,
+            "Name": "Pasientspesifikk funksjonsskala - SupportPRIM"
+         },
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - SMS uke 1",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:13:21",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": {
+                     "nameAsGroup": false,
+                     "answer": [
+                        {
+                           "selected": false,
+                           "content": 0
+                        },
+                        {
+                           "selected": false,
+                           "content": 1
+                        },
+                        {
+                           "selected": false,
+                           "content": 2
+                        },
+                        {
+                           "selected": false,
+                           "content": 3
+                        },
+                        {
+                           "selected": false,
+                           "content": 4
+                        },
+                        {
+                           "selected": false,
+                           "content": 5
+                        },
+                        {
+                           "selected": false,
+                           "content": 6
+                        },
+                        {
+                           "selected": true,
+                           "content": 7
+                        },
+                        {
+                           "selected": false,
+                           "content": 8
+                        },
+                        {
+                           "selected": false,
+                           "content": 9
+                        },
+                        {
+                           "selected": false,
+                           "content": 10
+                        }
+                     ],
+                     "name": "Arbeidsevne"
+                  },
+                  "name": "Arbeidsevne"
+               }
+            },
+            "end": "11-05-2020 12:13:23",
+            "id": 258916543,
+            "projectid": 249961487,
+            "taskid": 249966392,
+            "Name": "Arbeidsevne - Fysioprim"
+         },
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - SMS uke 2",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:13:52",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": [
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "kan ikke0"
+                           },
+                           {
+                              "selected": false,
+                              "content": 1
+                           },
+                           {
+                              "selected": false,
+                              "content": 2
+                           },
+                           {
+                              "selected": false,
+                              "content": 3
+                           },
+                           {
+                              "selected": true,
+                              "content": 4
+                           },
+                           {
+                              "selected": false,
+                              "content": 5
+                           },
+                           {
+                              "selected": false,
+                              "content": 6
+                           },
+                           {
+                              "selected": false,
+                              "content": 7
+                           },
+                           {
+                              "selected": false,
+                              "content": 8
+                           },
+                           {
+                              "selected": false,
+                              "content": 9
+                           },
+                           {
+                              "selected": false,
+                              "content": "kan utføre10"
+                           }
+                        ],
+                        "name": "spille fotball"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "kan ikke0"
+                           },
+                           {
+                              "selected": false,
+                              "content": 1
+                           },
+                           {
+                              "selected": false,
+                              "content": 2
+                           },
+                           {
+                              "selected": false,
+                              "content": 3
+                           },
+                           {
+                              "selected": true,
+                              "content": 4
+                           },
+                           {
+                              "selected": false,
+                              "content": 5
+                           },
+                           {
+                              "selected": false,
+                              "content": 6
+                           },
+                           {
+                              "selected": false,
+                              "content": 7
+                           },
+                           {
+                              "selected": false,
+                              "content": 8
+                           },
+                           {
+                              "selected": false,
+                              "content": 9
+                           },
+                           {
+                              "selected": false,
+                              "content": "kan utføre10"
+                           }
+                        ],
+                        "name": "løpe"
+                     },
+                     {
+                        "nameAsGroup": false,
+                        "answer": [
+                           {
+                              "selected": false,
+                              "content": "kan ikke0"
+                           },
+                           {
+                              "selected": false,
+                              "content": 1
+                           },
+                           {
+                              "selected": false,
+                              "content": 2
+                           },
+                           {
+                              "selected": false,
+                              "content": 3
+                           },
+                           {
+                              "selected": false,
+                              "content": 4
+                           },
+                           {
+                              "selected": true,
+                              "content": 5
+                           },
+                           {
+                              "selected": false,
+                              "content": 6
+                           },
+                           {
+                              "selected": false,
+                              "content": 7
+                           },
+                           {
+                              "selected": false,
+                              "content": 8
+                           },
+                           {
+                              "selected": false,
+                              "content": 9
+                           },
+                           {
+                              "selected": false,
+                              "content": "kan utføre10"
+                           }
+                        ],
+                        "name": "løfte knebøy"
+                     }
+                  ],
+                  "name": "Pasientspesifikk funksjonsskala"
+               }
+            },
+            "end": "11-05-2020 12:13:55",
+            "id": 258916682,
+            "projectid": 249961487,
+            "taskid": 249966394,
+            "Name": "Pasientspesifikk funksjonsskala - SupportPRIM"
+         },
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - SMS uke 2",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:13:53",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": {
+                     "nameAsGroup": false,
+                     "answer": [
+                        {
+                           "selected": false,
+                           "content": 0
+                        },
+                        {
+                           "selected": false,
+                           "content": 1
+                        },
+                        {
+                           "selected": false,
+                           "content": 2
+                        },
+                        {
+                           "selected": false,
+                           "content": 3
+                        },
+                        {
+                           "selected": false,
+                           "content": 4
+                        },
+                        {
+                           "selected": false,
+                           "content": 5
+                        },
+                        {
+                           "selected": false,
+                           "content": 6
+                        },
+                        {
+                           "selected": true,
+                           "content": 7
+                        },
+                        {
+                           "selected": false,
+                           "content": 8
+                        },
+                        {
+                           "selected": false,
+                           "content": 9
+                        },
+                        {
+                           "selected": false,
+                           "content": 10
+                        }
+                     ],
+                     "name": "Arbeidsevne"
+                  },
+                  "name": "Arbeidsevne"
+               }
+            },
+            "end": "11-05-2020 12:13:55",
+            "id": 258916694,
+            "projectid": 249961487,
+            "taskid": 249966394,
+            "Name": "Arbeidsevne - Fysioprim"
+         },
+         {
+            "verdicts": "",
+            "Project": "SupportPRIM - SMS uke 2",
+            "scores": "",
+            "patient": {
+               "birthYear": 1932,
+               "medicalOffice": "support32",
+               "journalId": 32
+            },
+            "start": "11-05-2020 12:13:43",
+            "groups": {
+               "group": {
+                  "nameAsForm": false,
+                  "question": {
+                     "nameAsGroup": false,
+                     "answer": [
+                        {
+                           "selected": false,
+                           "content": 0
+                        },
+                        {
+                           "selected": false,
+                           "content": 1
+                        },
+                        {
+                           "selected": false,
+                           "content": 2
+                        },
+                        {
+                           "selected": false,
+                           "content": 3
+                        },
+                        {
+                           "selected": false,
+                           "content": 4
+                        },
+                        {
+                           "selected": false,
+                           "content": 5
+                        },
+                        {
+                           "selected": false,
+                           "content": 6
+                        },
+                        {
+                           "selected": false,
+                           "content": 7
+                        },
+                        {
+                           "selected": true,
+                           "content": 8
+                        },
+                        {
+                           "selected": false,
+                           "content": 9
+                        },
+                        {
+                           "selected": false,
+                           "content": 10
+                        }
+                     ],
+                     "name": "Hvor mye smerter har du hatt den SISTE UKEN?"
+                  },
+                  "name": "Smerteintensitet"
+               }
+            },
+            "end": "11-05-2020 12:13:56",
+            "id": 258916698,
+            "projectid": 249961487,
+            "taskid": 249966394,
+            "Name": "Smerteintensitet - SupportPRIM"
+         }
+      ],
+      "lastid": 258916698,
+      "totalforms": 61,
+      "firstid": 258916056
+   }
+}

@@ -1,0 +1,18 @@
+{
+  "patient": {
+    "demographics": {
+      "name": {
+        "middle": "",
+        "last": "jaiswal",
+        "first": "amar"
+      },
+      "address": {
+        "street": "ntnu",
+        "home": "99B"
+      },
+      "contact": {
+        "phone": "+4712121212"
+      }
+    }
+  }
+}

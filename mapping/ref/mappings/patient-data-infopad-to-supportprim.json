@@ -1,0 +1,51 @@
+{
+   "patient": {
+      "id":0,
+      "demographics": {
+         "birthYear":{
+            "value": 1980
+            "type": "short",
+            "description": "birth year of the patient",
+            "min": 1920            
+         }
+         "gender": {
+            "value": "male",
+            "datatype": "string",
+            "type": "keyword",
+            "description": "Sex of the patient",
+            "constraints":["female","male"]
+         },
+         "latency":{
+
+         },
+
+      },
+      "disabilityAndFunction": {
+
+      },
+      "disabilityAndFunction": {
+
+      },
+      "employmentAndWork": {
+
+      },
+      "pain": {
+
+      },
+      "psychological": {
+
+      },
+      "regionSpecificQuestionnaires": {
+
+      },
+      "treatmentEvaluation": {
+
+      },
+      "treatmentDetails":{
+
+      },
+      "physiotherapistDetails":{
+
+      }
+   }
+}

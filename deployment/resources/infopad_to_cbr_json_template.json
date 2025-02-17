@@ -1,0 +1,6 @@
+{
+  "first": "<<first_name>>",
+  "last": "<<last_name>>",
+  "home": "<<address$home>>",
+  "street": "<<address$street>>"
+}

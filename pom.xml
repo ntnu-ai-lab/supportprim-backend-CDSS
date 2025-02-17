@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>no.ntnu.supportprim</groupId>
+	<artifactId>supportprim-backend</artifactId>
+	<version>0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<name>supportprim-backend</name>
+	<description>SupportPrim-Backend Parent Module</description>
+
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.2.7.RELEASE</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+
+	<properties>
+		<java.version>1.8</java.version>
+		<springfox.version>2.9.2</springfox.version> <!--The Latest Swagger version-->
+		<spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
+	</properties>
+
+	<modules>
+		<module>discovery-server</module>
+		<module>myCBR-sdk</module>
+		<module>mycbr-rest</module>
+		<module>infopad-interface</module>
+		<module>elastic-interface</module>
+		<module>lca-calculator</module>
+		<module>transformer</module>
+		<module>data-management</module>
+		<module>cbr-interface</module>
+		<module>mapping</module>
+		<module>security</module>
+		<module>cbr-research-interface</module>
+    </modules>
+
+	<!--
+	<module>mapping</module>
+	<module>security</module>
+	<module>cbr-research-interface</module>
+	-->
+
+
+</project>

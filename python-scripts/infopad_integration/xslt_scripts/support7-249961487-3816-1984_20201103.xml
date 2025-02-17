@@ -1,0 +1,3187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<forms projectnumber="249961487" NextToken="" firstid="255475397" lastid="261517775" totalforms="74">
+    <form Name="Søvn og livskraft" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475397" start="03-02-2020 12:15:31" end="03-02-2020 12:15:45" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Søvn: Lette søvnproblemer</verdict>
+            <verdict>Livskraft: Føler seg litt sliten, trett eller svak.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Søvn og livskraft" nameAsForm="false">
+                <question name="Søvn" nameAsGroup="false">
+                    <answer selected="false">Jeg er i stand til å sove normalt, dvs. jeg har ingen problemer med å sove.</answer>
+                    <answer selected="true">Jeg har lette søvnproblemer, f.eks. vanskelig for å falle i søvn eller våkner av og til om natten.</answer>
+                    <answer selected="false">Jeg har moderate søvnproblemer, f.eks. forstyrret søvn eller føler jeg ikke har sovet nok.</answer>
+                    <answer selected="false">Jeg har store søvnproblemer, f.eks.må bruke sovemedisiner ofte eller rutinemessig, eller våkner om natten og/ eller for tidlig om morgenen.</answer>
+                    <answer selected="false">Jeg lider av alvorlig søvnløshet, f.eks. er søvn nesten umulig selv med bruk av sovemedisiner, eller jeg forblir våken det meste av natten.</answer>
+                </question>
+                <question name="Livskraft" nameAsGroup="false">
+                    <answer selected="false">Jeg føler meg frisk og energisk.</answer>
+                    <answer selected="true">Jeg føler meg litt sliten, trett eller svak.</answer>
+                    <answer selected="false">Jeg føler meg middels sliten, trett eller svak.</answer>
+                    <answer selected="false">Jeg føler meg svært sliten, trett eller svak, nesten utslitt.</answer>
+                    <answer selected="false">Jeg føler meg ekstremt sliten, trett eller svak, totalt utslitt.</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Health literacy - supportPRIM" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475398" start="03-02-2020 12:15:22" end="03-02-2020 12:15:45">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Health literacy" nameAsForm="false">
+                <question name="Har du vanskelig for å forstå helseinformasjon som du mottar? " nameAsGroup="false">
+                    <answer selected="false">Aldri</answer>
+                    <answer selected="false">Sjelden</answer>
+                    <answer selected="false">Av og til</answer>
+                    <answer selected="true">Ofte</answer>
+                    <answer selected="false">Alltid</answer>
+                </question>
+                <question name="Synes du at du har en god forståelse av din nåværende helsesituasjon (muligheter og begrensninger)?" nameAsGroup="false">
+                    <answer selected="false">Meget dårlig</answer>
+                    <answer selected="false">Dårlig</answer>
+                    <answer selected="true">Hverken god eller dårlig</answer>
+                    <answer selected="false">God</answer>
+                    <answer selected="false">Meget god</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Flagg - supportPRIM" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475399" start="03-02-2020 12:15:35" end="03-02-2020 12:15:45">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Har du:" nameAsForm="false">
+                <question name="Store nattsmerter?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="true">Nei</answer>
+                </question>
+                <question name="Tidligere kreftdiagnose?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="true">Nei</answer>
+                </question>
+                <question name="Uforklarlig vekttap, dårlig matlyst, uforklarlig feber?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="true">Nei</answer>
+                </question>
+                <question name="Problemer med vannlating, avføring og/eller seksualfunksjon?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="true">Nei</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Bakgrunnsdata - supportPRIM" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475400" start="03-02-2020 12:14:13" end="03-02-2020 12:15:45">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Nei</verdict>
+            <verdict>Nei</verdict>
+            <verdict>Nei</verdict>
+            <verdict>###FT252901357######FT252909352###</verdict>
+        </verdicts>
+        <groups>
+            <group name="Bakgrunnsdata " nameAsForm="false">
+                <question name="Hvordan vil du beskrive arbeidet ditt (lønnet eller ulønnet)?" nameAsGroup="false">
+                    <answer selected="true">For det meste stillesittende arbeid (f.eks skrivebordsarbeid, montering)</answer>
+                    <answer selected="false">Arbeid som krever at du går mye (f.eks ekspeditørarbeid, lett industriarbeid, undervisning)</answer>
+                    <answer selected="false">Arbeid hvor du går og løfter mye (f.eks postbud, pleier, bygningsarbeider)</answer>
+                    <answer selected="false">Tungt kroppsarbeid (f.eks skogsarbeider, tungt jordbruksarbeid, tungt bygningsarbeid)</answer>
+                </question>
+                <question name="Hvor redusert er ditt daglige aktivitetsnivå på grunn av smerter eller plager?" nameAsGroup="false">
+                    <answer selected="false">Svært redusert</answer>
+                    <answer selected="false">Ganske redusert</answer>
+                    <answer selected="true">Litt redusert</answer>
+                    <answer selected="false">Ikke redusert</answer>
+                </question>
+                <question name="Har du vært hos noen annen behandler for dine nåværende plager i løpet av de siste 12 måneder?" nameAsGroup="false">
+                    <answer selected="false">Annen fysioterapeut</answer>
+                    <answer selected="false">Manuellterapeut</answer>
+                    <answer selected="false">Kiropraktor</answer>
+                    <answer selected="false">Legespesialist</answer>
+                    <answer selected="false">Psykolog</answer>
+                    <answer selected="false">Alternative behandlere</answer>
+                    <answer selected="true">Fastlege</answer>
+                    <answer selected="false">Andre</answer>
+                    <answer selected="false">Nei, ingen</answer>
+                    <answer selected="false">Psykomotorisk fysioterapeut</answer>
+                </question>
+                <question name="Arbeidsevne" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="true">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+                <question name="Hvor engstelig er du for at dine plager forverres med fysisk aktivitet eller bevegelse?" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="true">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+                <question name="Spesifiser:" nameAsGroup="false" />
+                <question name="Hvor mange slike behandlinger har du hatt i løpet av de siste 12 måneder?" nameAsGroup="false">
+                    <answer selected="true">1 - 5</answer>
+                    <answer selected="false">6 - 10</answer>
+                    <answer selected="false">Mer enn 10</answer>
+                </question>
+                <question name="Når du tenker på barndommen/ oppveksten din, vil du beskrive den som: " nameAsGroup="false">
+                    <answer selected="true">Svært god</answer>
+                    <answer selected="false">God</answer>
+                    <answer selected="false">Middels</answer>
+                    <answer selected="false">Vanskelig</answer>
+                    <answer selected="false">Svært vanskelig</answer>
+                </question>
+                <question name="Andre nåværende sykdommer eller plager:" nameAsGroup="false">
+                    <answer selected="false">Revmatisk sykdom</answer>
+                    <answer selected="false">Hjertesykdom</answer>
+                    <answer selected="false">Astma/ lungesykdom</answer>
+                    <answer selected="false">Nevrologisk sykdom (f.eks tidligere hjerneslag eller MS)</answer>
+                    <answer selected="false">Kreft/ tidligere kreft</answer>
+                    <answer selected="false">Psykiske plager</answer>
+                    <answer selected="false">Demens/ kognitiv svikt</answer>
+                    <answer selected="false">Osteoporose</answer>
+                    <answer selected="false">Diabetes</answer>
+                    <answer selected="false">Magesmerter</answer>
+                    <answer selected="false">Hodepine/svimmelhet</answer>
+                    <answer selected="false">Utmattelse</answer>
+                    <answer selected="false">Annet</answer>
+                </question>
+                <question name="Beskriv annet:" nameAsGroup="false" />
+            </group>
+            <group name="Arbeidssituasjon" nameAsForm="false">
+                <question name="Hva er din arbeidssituasjon nå? " nameAsGroup="false">
+                    <answer selected="true">I lønnet arbeid</answer>
+                    <answer selected="false">Skoleelev / Student</answer>
+                    <answer selected="false">Pensjonist</answer>
+                    <answer selected="false">Uføretrygdet</answer>
+                    <answer selected="false">Sykmeldt</answer>
+                    <answer selected="false">Arbeidsavklaring</answer>
+                    <answer selected="false">Ulønnet arbeid (eks. hjemme/frivillighetsarbeid)</answer>
+                    <answer selected="false">Arbeidsledig</answer>
+                    <answer selected="false">Foreldrepermisjon</answer>
+                </question>
+            </group>
+            <group name="Oppfølging arbeidssituasjon" nameAsForm="false">
+                <question name="Angi stillingsprosent" nameAsGroup="false">
+                    <answer>100</answer>
+                </question>
+                <question name="Angi uføregrad i prosent" nameAsGroup="false" />
+                <question name="Angi sykmeldingsgrad i prosent" nameAsGroup="false" />
+            </group>
+            <group name="Bakgrunnsdata" nameAsForm="false">
+                <question name="Kjønn" nameAsGroup="false">
+                    <answer selected="true">Mann</answer>
+                    <answer selected="false">Kvinne</answer>
+                </question>
+                <question name="Høyde" nameAsGroup="false">
+                    <answer>184</answer>
+                </question>
+                <question name="Vekt" nameAsGroup="false">
+                    <answer>97</answer>
+                </question>
+                <question name="Røyker du?" nameAsGroup="false">
+                    <answer selected="true">Nei</answer>
+                    <answer selected="false">Ja</answer>
+                </question>
+                <question name="Ditt høyeste utdanningsnivå:" nameAsGroup="false">
+                    <answer selected="false">Grunnskole eller lavere</answer>
+                    <answer selected="false">Videregående skole</answer>
+                    <answer selected="true">Inntil 4 år høyere utdanning</answer>
+                    <answer selected="false">Mer enn 4 år høyere utdanning</answer>
+                    <answer selected="false">Annet</answer>
+                </question>
+                <question name="Hvor er du født?" nameAsGroup="false">
+                    <answer selected="false">Europa med i EU eller EØS</answer>
+                    <answer selected="false">Europa utenfor EU og EØS</answer>
+                    <answer selected="true">Norge</answer>
+                    <answer selected="false">Afrika</answer>
+                    <answer selected="false">Asia</answer>
+                    <answer selected="false">Nord-Amerika</answer>
+                    <answer selected="false">Sør- eller Mellom-Amerika</answer>
+                    <answer selected="false">Oseania</answer>
+                </question>
+                <question name="Sivilstand" nameAsGroup="false">
+                    <answer selected="true">Gift / Samboer</answer>
+                    <answer selected="false">Skilt</answer>
+                    <answer selected="false">Enke / Enkemann</answer>
+                    <answer selected="false">Enslig</answer>
+                </question>
+                <question name="Bosituasjon" nameAsGroup="false">
+                    <answer selected="false">Eget hjem alene</answer>
+                    <answer selected="false">Institusjon</answer>
+                    <answer selected="true">Eget hjem sammen med andre</answer>
+                </question>
+                <question name="Hvor mange barn under 18 år har du daglig omsorg for?" nameAsGroup="false">
+                    <answer>2</answer>
+                </question>
+                <question name="Hva er høyeste utdanning?" nameAsGroup="false" />
+            </group>
+            <group name="Ganghjelpemidler" nameAsForm="false">
+                <question name="Bruker du ganghjelpemidler?" nameAsGroup="false">
+                    <answer selected="true">Nei</answer>
+                    <answer selected="false">Ja</answer>
+                </question>
+                <question name="Ganghjelpemiddel innendørs" nameAsGroup="false">
+                    <answer selected="false">Går uten ganghjelpemiddel</answer>
+                    <answer selected="false">En krykke/stokk</answer>
+                    <answer selected="false">To krykker/stokker</answer>
+                    <answer selected="false">Rullator/gåramme</answer>
+                    <answer selected="false">Prekestol</answer>
+                    <answer selected="false">Rullestol, går med personstøtte</answer>
+                    <answer selected="false">Rullestol, kan ikke gå</answer>
+                </question>
+                <question name="Ganghjelpemiddel utendørs" nameAsGroup="false">
+                    <answer selected="false">Går uten ganghjelpemiddel</answer>
+                    <answer selected="false">En krykke/stokk</answer>
+                    <answer selected="false">To krykker/stokker</answer>
+                    <answer selected="false">Rullator/gåramme</answer>
+                    <answer selected="false">Prekestol</answer>
+                    <answer selected="false">Rullestol, går med personstøtte</answer>
+                    <answer selected="false">Rullestol, kan ikke gå</answer>
+                    <answer selected="false">Går ikke ute</answer>
+                    <answer selected="false">Staver</answer>
+                </question>
+                <question name="Jeg har ikke vært ute siden" nameAsGroup="false" />
+            </group>
+            <group name="Tro på behandlingen" nameAsForm="false">
+                <question name="Jeg tror at fysioterapi vil bedre min funksjon:" nameAsGroup="false">
+                    <answer selected="false">Helt enig</answer>
+                    <answer selected="true">Enig</answer>
+                    <answer selected="false">Verken enig eller uenig</answer>
+                    <answer selected="false">Uenig</answer>
+                    <answer selected="false">Helt uenig</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Samtykke - SupportPRIM" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475402" start="03-02-2020 12:12:08" end="03-02-2020 12:15:45">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="FORESPØRSEL OM DELTAKELSE I FORSKNINGSPROSJEKTET" nameAsForm="false">
+                <question name="KLINISK BESLUTNINGSSTØTTESYSTEM I FYSIOTERAPI" nameAsGroup="false" />
+                <question name="HVA INNEBÆRER PROSJEKTET?" nameAsGroup="false" />
+                <question name="MULIGE FORDELER OG ULEMPER" nameAsGroup="false" />
+                <question name="FRIVILLIG DELTAKELSE OG MULIGHET FOR Å TREKKE SITT SAMTYKKE" nameAsGroup="false" />
+                <question name="HVA SKJER MED OPPLYSNINGENE OM DEG? " nameAsGroup="false" />
+                <question name="GODKJENNING" nameAsGroup="false" />
+                <question name="KONTAKTOPPLYSNINGER" nameAsGroup="false" />
+                <question name="JEG SAMTYKKER TIL Å DELTA I PROSJEKTET OG TIL AT MINE PERSONOPPLYSNINGER BRUKES SLIK DET ER BESKREVET" nameAsGroup="false">
+                    <answer selected="true">Jeg samtykker</answer>
+                    <answer selected="false">Jeg samtykker IKKE</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Fem spørsmål om helsen din" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475406" start="03-02-2020 12:13:39" end="03-02-2020 12:15:45" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Gange: Litt problemer</verdict>
+            <verdict>Personlig stell: Ingen problemer</verdict>
+            <verdict>Vanlige gjøremål: Litt problemer</verdict>
+            <verdict>Smerter og Ubehag: Middels smerter eller ubehag.</verdict>
+            <verdict>Angst/ depresjon: Verken engstelig eller deprimert.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Gange" nameAsGroup="false">
+                    <answer selected="false">Jeg har ingen problemer med å gå omkring</answer>
+                    <answer selected="true">Jeg har litt problemer med å gå omkring</answer>
+                    <answer selected="false">Jeg har middels store problemer med å gå omkring</answer>
+                    <answer selected="false">Jeg har store problemer med å gå omkring</answer>
+                    <answer selected="false">Jeg er ute av stand til å gå omkring</answer>
+                </question>
+            </group>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Personlig stell" nameAsGroup="false">
+                    <answer selected="true">Jeg har ingen problemer med å vaske meg eller kle meg</answer>
+                    <answer selected="false">Jeg har litt problemer med å vaske meg eller kle meg</answer>
+                    <answer selected="false">Jeg har middels store problemer med å vaske meg eller kle meg</answer>
+                    <answer selected="false">Jeg har store problemer med å vaske meg eller kle meg</answer>
+                    <answer selected="false">Jeg er ute av stand til å vaske meg eller kle meg</answer>
+                </question>
+            </group>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Vanlige gjøremål " nameAsGroup="false">
+                    <answer selected="false">Jeg har ingen problemer med å utføre mine vanlige gjøremål</answer>
+                    <answer selected="true">Jeg har litt problemer med å utføre mine vanlige gjøremål</answer>
+                    <answer selected="false">Jeg har middels store problemer med å utføre mine vanlige gjøremål</answer>
+                    <answer selected="false">Jeg har store problemer med å utføre mine vanlige gjøremål</answer>
+                    <answer selected="false">Jeg er ute av stand til å utføre mine vanlige gjøremål</answer>
+                </question>
+            </group>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Smerter/ ubehag" nameAsGroup="false">
+                    <answer selected="false">Jeg har verken smerter eller ubehag</answer>
+                    <answer selected="false">Jeg har litt smerter eller ubehag</answer>
+                    <answer selected="true">Jeg har middels smerter eller ubehag</answer>
+                    <answer selected="false">Jeg har sterke smerter eller ubehag</answer>
+                    <answer selected="false">Jeg har svært sterke smerter eller ubehag</answer>
+                </question>
+            </group>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Angst/ depresjon" nameAsGroup="false">
+                    <answer selected="true">Jeg er verken engstelig eller deprimert</answer>
+                    <answer selected="false">Jeg er litt engstelig eller deprimert</answer>
+                    <answer selected="false">Jeg er middels engstelig eller deprimert</answer>
+                    <answer selected="false">Jeg er svært engstelig eller deprimert</answer>
+                    <answer selected="false">Jeg er ekstremt engstelig eller deprimert</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Örebro screening skjema - Fysioprim" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475460" start="03-02-2020 12:14:46" end="03-02-2020 12:15:46" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="35">Totalskår:</score>
+        </scores>
+        <verdicts>
+            <verdict>Score: 35 (0-100) som indikerer liten risiko (0-50) for å utvikle langvarige muskel- og skjelettplager.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Örebro Screening skjema" nameAsForm="true">
+                <question name="1. Hvor lenge har du hatt dine nåværende plager?" nameAsGroup="false">
+                    <answer selected="false">0 - 1 uker</answer>
+                    <answer selected="false">1 - 2 uker</answer>
+                    <answer selected="false">3 - 4 uker</answer>
+                    <answer selected="false">4 - 5 uker</answer>
+                    <answer selected="false">6 - 8 uker</answer>
+                    <answer selected="false">9 - 11 uker</answer>
+                    <answer selected="false">3 - 6 måneder</answer>
+                    <answer selected="true">6 - 9 måneder</answer>
+                    <answer selected="false">9 - 12 måneder</answer>
+                    <answer selected="false">Over ett år</answer>
+                </question>
+            </group>
+            <group name="Ørebro Screening skjema" nameAsForm="true">
+                <question name="2. Hvor mye smerter har du hatt den SISTE UKEN?" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="true">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+                <question name="3. Jeg kan utføre lettere arbeid under en time." nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="true">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+                <question name="4. Jeg kan sove på natten." nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="true">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+            </group>
+            <group name="Ørebro Screening skjema" nameAsForm="true">
+                <question name="5. Hvor anspent eller stresset har du kjent deg den SISTE UKEN?" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="true">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+                <question name="6. I hvilken grad har du kjent deg nedstemt den SISTE UKEN?" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="true">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+                <question name="7. Hvor stor risiko mener du det er for at dine nåværende plager kan bli langvarige?" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="true">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+            </group>
+            <group name="Ørebro screening skjema" nameAsForm="true">
+                <question name="8. Ut fra din vurdering, hvor stor er sjansen for at du er i arbeid om TRE MÅNEDER?" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="true">10</answer>
+                </question>
+                <question name="9. Om plagene øker, er det et signal på at jeg bør slutte med det jeg holder på med, til plagene minker." nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="true">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+                <question name="10. Jeg bør ikke utføre mine normale aktiviteter eller arbeid med den smerten jeg har nå." nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="true">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Smertetegning siste uke (med regional angivelse)" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475461" start="03-02-2020 12:15:34" end="03-02-2020 12:15:46" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="">Hode</score>
+            <score points="">Nakke</score>
+            <score points="">Skuldre</score>
+            <score points="">Øvre del rygg</score>
+            <score points="1">Albuer</score>
+            <score points="">Håndledd / hender</score>
+            <score points="">Hofter / lår</score>
+            <score points="4">Korsrygg</score>
+            <score points="">Ankler / føtter</score>
+            <score points="">Knær</score>
+            <score points="5">Totalt antall ruter:</score>
+            <score points="2">Antall affiserte regioner:</score>
+        </scores>
+        <verdicts />
+        <groups>
+            <group name="Smertetegning" nameAsForm="true">
+                <question name="Smertetegning" nameAsGroup="true">
+                    <bodymap>
+                        <square x="3" y="7" side="1" />
+                        <square x="3" y="6" side="1" />
+                        <square x="4" y="6" side="1" />
+                        <square x="2" y="7" side="1" />
+                        <square x="2" y="6" side="1" />
+                    </bodymap>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Smertekartlegging fysioprim" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475462" start="03-02-2020 12:15:37" end="03-02-2020 12:15:46" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Pasienten har intermitterende smerte, en eller flere ganger i uken.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Tidsaspekt smerte" nameAsForm="false">
+                <question name="Er smerten kontinuerlig" nameAsGroup="false">
+                    <answer selected="false">Ja, jeg kjenner den hele tiden</answer>
+                    <answer selected="true">Nei, den er av og på</answer>
+                </question>
+                <question name="Er smerten av varierende intensitet?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="false">Nei, den er stabil</answer>
+                </question>
+                <question name="Hvordan vil du beskrive smertevariasjonen best?" nameAsGroup="false">
+                    <answer selected="false">Den varierer innenfor døgnet</answer>
+                    <answer selected="false">Den varierer fra dag til dag</answer>
+                    <answer selected="false">Annet</answer>
+                </question>
+                <question name="Hvor ofte har du vanligvis disse smertene?" nameAsGroup="false">
+                    <answer selected="false">Hver dag</answer>
+                    <answer selected="true">En eller flere ganger i uken</answer>
+                    <answer selected="false">En eller flere ganger i måneden</answer>
+                    <answer selected="false">Sjeldnere enn 1 gang i måneden</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Medisinbruk - Fysioprim" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475491" start="03-02-2020 12:15:42" end="03-02-2020 12:15:47" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Smertemedisin den siste uken: ikke brukt.</verdict>
+            <verdict>Daglig medisinbruk: 0.</verdict>
+        </verdicts>
+        <groups>
+            <group name="medisinbruk" nameAsForm="true">
+                <question name="Har du brukt noen medisiner mot smerte i løpet av den siste uken?" nameAsGroup="false">
+                    <answer selected="true">Nei</answer>
+                    <answer selected="false">Ja</answer>
+                </question>
+                <question name="Hvilke medisiner?" nameAsGroup="false">
+                    <answer selected="false">Paracetamol, Paracet, Panodil, Pimol, Pinex eller Perfalgan</answer>
+                    <answer selected="false">Albyl-E (500 mg), Aspirin, Globoid eller Dispril</answer>
+                    <answer selected="false">Ibuprofen, Ibux, Ibuprox, Ibumetin, Brufen, Naproxen, Naprosyn eller Ladox</answer>
+                    <answer selected="false">Andre</answer>
+                </question>
+                <question name="Antall medisiner du bruker daglig:" nameAsGroup="false">
+                    <answer selected="true">0</answer>
+                    <answer selected="false">1- 4</answer>
+                    <answer selected="false">5 eller flere</answer>
+                </question>
+                <question name="Hvilke andre medisiner?" nameAsGroup="false" />
+            </group>
+        </groups>
+    </form>
+    <form Name="Hvordan har du det? (HSCL 10)" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475517" start="03-02-2020 12:15:16" end="03-02-2020 12:15:49" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="1.4">Gjennomsnitt:</score>
+        </scores>
+        <verdicts>
+            <verdict>Score: 1,4 (1-4) som er under grensen (1.85) for symptomer på psykisk stress.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Hvordan har du det?" nameAsForm="false">
+                <question name="1. Plutselig skremt uten grunn" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="2. Føler du deg svimmel eller kraftesløs" nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="3. Føler deg anspent eller opphisset" nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="4. Anfall av redsel eller panikk" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="5. Anklager deg selv for ting" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="6. Vanskelig for å sove" nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="7. Følelse av håpløshet mhp. framtiden" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="8. Føler deg nedfor" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="9. Føler at alt krever stor anstrengelse" nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="10. Føler at du ikke er noe verd" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Mosjon og Trening Fysioprim" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475538" start="03-02-2020 12:15:37" end="03-02-2020 12:15:49" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="15">Fysisk aktivitet indeks:</score>
+        </scores>
+        <verdicts>
+            <verdict>Mosjon og trening (gjennomsnitt): 2 - 3 ganger i uken og tar det hardt i 30 min. - 1 time.</verdict>
+            <verdict>Fysisk aktivitet indeks: Medium (1-20)</verdict>
+        </verdicts>
+        <groups>
+            <group name="Mosjon og Trening" nameAsForm="false">
+                <question name="Hvor ofte driver du mosjon eller trening?" nameAsGroup="false">
+                    <answer selected="false">Aldri</answer>
+                    <answer selected="false">Sjeldnere enn en gang i uken</answer>
+                    <answer selected="false">En gang i uken</answer>
+                    <answer selected="true">2 - 3 ganger i uken</answer>
+                    <answer selected="false">Omtrent hver dag</answer>
+                </question>
+                <question name="Hvor hardt mosjonerer / trener du?" nameAsGroup="false">
+                    <answer selected="false">Tar det rolig uten å bli andpusten eller svett</answer>
+                    <answer selected="true">Tar det så hardt at jeg blir andpusten og svett</answer>
+                    <answer selected="false">Tar meg nesten helt ut</answer>
+                </question>
+                <question name="Hvor lenge holder du på hver gang?" nameAsGroup="false">
+                    <answer selected="false">Mindre enn 15 minutter</answer>
+                    <answer selected="false">15 - 29 minutter</answer>
+                    <answer selected="true">30 minutter - 1 time</answer>
+                    <answer selected="false">Mer enn 1 time</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Keele STarT MSK skjema© Selvrapporteringsversjon" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475540" start="03-02-2020 12:15:12" end="03-02-2020 12:15:49">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="3">Totalskår:</score>
+        </scores>
+        <verdicts>
+            <verdict>Lav risiko for langvarige plager</verdict>
+        </verdicts>
+        <groups>
+            <group name="Keele STarT MSK skjema© " nameAsForm="false">
+                <question name="1) Hvor intense var smertene i gjennomsnitt (der 0 er &quot;ingen smerte&quot; og 10 er &quot;så vondt som det går an å ha&quot;)?" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="true">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+                <question name="2) Føler du deg ofte usikker på hvordan du skal håndtere smertene dine?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="true">Nei</answer>
+                </question>
+                <question name="3) Har smertene dine plaget deg mye de siste to ukene?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="true">Nei</answer>
+                </question>
+                <question name="4) Har du bare klart å gå korte avstander på grunn av smertene dine?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="true">Nei</answer>
+                </question>
+                <question name="5) Har du vært plaget med ledd- eller muskelsmerter flere steder i kroppen?" nameAsGroup="false">
+                    <answer selected="true">Ja</answer>
+                    <answer selected="false">Nei</answer>
+                </question>
+                <question name="6) Tror du plagene dine kommer til å vare lenge?" nameAsGroup="false">
+                    <answer selected="true">Ja</answer>
+                    <answer selected="false">Nei</answer>
+                </question>
+                <question name="7) Har du andre vesentlige helseplager?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="true">Nei</answer>
+                </question>
+                <question name="8) Har smertene gjort deg nedtrykt eller deprimert de siste to ukene?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="true">Nei</answer>
+                </question>
+                <question name="9) Føler du at det er utrygt for deg, med din helsetilstand, å være fysisk aktiv (f.eks. å gå, løfte, trene, bøye seg)?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="true">Nei</answer>
+                </question>
+                <question name="10) Har du hatt dine nåværende smerteproblemer i 6 måneder eller lenger?" nameAsGroup="false">
+                    <answer selected="true">Ja</answer>
+                    <answer selected="false">Nei</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="SPØRRESKJEMA OM MUSKEL- OG SKJELETTHELSE (MSK-HQ)" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475567" start="03-02-2020 12:14:37" end="03-02-2020 12:15:50">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="44">Totalskår:</score>
+        </scores>
+        <verdicts />
+        <groups>
+            <group name="SPØRRESKJEMA OM MUSKEL- OG SKJELETTHELSE (MSK-HQ)" nameAsForm="false">
+                <question name="1. Smerte/stivhet i løpet av dagen" nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="true">Ganske intense</answer>
+                    <answer selected="false">Veldig intense</answer>
+                </question>
+                <question name="2. Smerter/stivhet om natten." nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Ganske intense</answer>
+                    <answer selected="false">Veldig intense</answer>
+                </question>
+                <question name="3. Gange" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Har ikke kunnet gå</answer>
+                </question>
+                <question name="4. Vaske seg/påkledning" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Klarer ikke å vaske eller kle på meg</answer>
+                </question>
+                <question name="5. Fysisk aktivitetsnivå" nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ikke vært i stand til å være fysisk aktiv</answer>
+                </question>
+                <question name="6. Arbeid/daglige aktiviteter" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="7. Sosiale aktiviteter og hobbyer" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="8. Behov for hjelp" nameAsGroup="false">
+                    <answer selected="true">Aldri</answer>
+                    <answer selected="false">Sjeldent</answer>
+                    <answer selected="false">Noen ganger</answer>
+                    <answer selected="false">Ofte</answer>
+                    <answer selected="false">Hele tiden</answer>
+                </question>
+                <question name="9. Søvn" nameAsGroup="false">
+                    <answer selected="false">Aldri</answer>
+                    <answer selected="true">Sjeldent</answer>
+                    <answer selected="false">Noen ganger</answer>
+                    <answer selected="false">Ofte</answer>
+                    <answer selected="false">Hver natt</answer>
+                </question>
+                <question name="10. Utmattelse eller lite energi " nameAsGroup="false">
+                    <answer selected="false">Ingen</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="11. Følelsesmessig velvære" nameAsGroup="false">
+                    <answer selected="true">Ingen</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="12. Forståelse av dine helseplager og pågående behandling" nameAsGroup="false">
+                    <answer selected="false">Fullstendig</answer>
+                    <answer selected="false">Veldig godt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                </question>
+                <question name="13. Tro på å mestre symptomene dine" nameAsGroup="false">
+                    <answer selected="false">Ekstremt</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                </question>
+                <question name="14. Generell påvirkning" nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig mye</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="Fysisk aktivitetsnivå" nameAsGroup="false">
+                    <answer selected="false">Ingen dager</answer>
+                    <answer selected="false">1 dag</answer>
+                    <answer selected="true">2 dager</answer>
+                    <answer selected="false">3 dager</answer>
+                    <answer selected="false">4 dager</answer>
+                    <answer selected="false">5 dager</answer>
+                    <answer selected="false">6 dager</answer>
+                    <answer selected="false">7 dager</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Pain Self-Efficacy Questionnaire (PSEQ-2)" Project="SupportPRIM - Baseline Pasient" projectid="249961487" taskid="249961490" id="255475578" start="03-02-2020 12:15:41" end="03-02-2020 12:15:51" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Anita Formo Bones" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="12">Totalskår:</score>
+        </scores>
+        <verdicts>
+            <verdict></verdict>
+            <verdict>Score: 12 (0-12) som indikerer god (8-12) mestringstro.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Smerte" nameAsForm="false">
+                <question name="1. Jeg kan gjøre noen former for arbeid, til tross for smerten (arbeid inkluderer husarbeid og lønnet/ulønnet arbeid)" nameAsGroup="false">
+                    <answer selected="false">Ikke sikker i det hele tatt 0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="true">Helt sikker 6</answer>
+                </question>
+                <question name="2. Jeg kan leve en normal livsstil, til tross for smerten" nameAsGroup="false">
+                    <answer selected="false">Ikke sikker i det hele tatt 0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="true">Helt sikker 6</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Pasientspesifikk funksjonsskala - SupportPRIM" Project="SupportPRIM - Baseline Felles" projectid="249961487" taskid="249961492" id="255591385" start="06-02-2020 10:18:50" end="06-02-2020 10:20:44">
+        <patient medicalOffice="support7" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Pasientspesifikk funksjonsskala" nameAsForm="false">
+                <question name="Ligging i sofa" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="true">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+                <question name="Golf" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="true">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+                <question name="Løft" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="true">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Hovedmål - supportPRIM" Project="SupportPRIM - Baseline Felles" projectid="249961487" taskid="249961492" id="255591405" start="06-02-2020 10:20:11" end="06-02-2020 10:20:45">
+        <patient medicalOffice="support7" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Hovedmål med behandlingen" nameAsForm="false">
+                <question name="Hva er hovedmålet med behandlingen" nameAsGroup="false">
+                    <answer>Smertefri, god funksjon, slipper bekymring</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Diagnose - supportPRIM" Project="SupportPRIM - Baseline Felles" projectid="249961487" taskid="249961492" id="255591417" start="06-02-2020 10:20:40" end="06-02-2020 10:20:45">
+        <patient medicalOffice="support7" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Diagnose" nameAsForm="false">
+                <question name="Definer hovedproblem (dette utløser spesifikke tester for gitt område)" nameAsGroup="false">
+                    <answer selected="false">Nakke</answer>
+                    <answer selected="false">Skulder</answer>
+                    <answer selected="true">Rygg</answer>
+                    <answer selected="false">Hofte</answer>
+                    <answer selected="false">Kne</answer>
+                    <answer selected="false">Utbredte plager/ sammensatt</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Ryggundersøkelse - SupportPRIM" Project="SupportPRIM - Baseline Felles" projectid="249961487" taskid="249961492" id="255591429" start="06-02-2020 10:20:00" end="06-02-2020 10:20:45">
+        <patient medicalOffice="support7" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="RYGGUNDERSØKELSE" nameAsForm="false">
+                <question name="Reduserte og/eller smertefulle  aktive bevegelsesutslag i stående stilling" nameAsGroup="false">
+                    <answer selected="true">Ja</answer>
+                    <answer selected="false">Nei</answer>
+                </question>
+                <question name="Reduserte bevegelsesutslag i" nameAsGroup="false">
+                    <answer selected="true">Fleksjon</answer>
+                    <answer selected="true">Ekstensjon</answer>
+                    <answer selected="true">Rotasjon</answer>
+                    <answer selected="true">Lateralfleksjon</answer>
+                    <answer selected="false">Ikke reduserte bevegelsesutslag</answer>
+                </question>
+                <question name="Smerter ved" nameAsGroup="false">
+                    <answer selected="true">Fleksjon</answer>
+                    <answer selected="true">Ekstensjon</answer>
+                    <answer selected="true">Rotasjon</answer>
+                    <answer selected="true">Lateralfleksjon</answer>
+                    <answer selected="false">Ingen smerter ved aktive bevegelser</answer>
+                </question>
+            </group>
+            <group name="Straight leg raise (Lasegues prøve) " nameAsForm="false">
+                <question name="Positiv Straight leg raise (Lasegues prøve) " nameAsGroup="false">
+                    <answer selected="true">Ja</answer>
+                    <answer selected="false">Nei</answer>
+                    <answer selected="false">Ikke aktuelt</answer>
+                </question>
+            </group>
+            <group name="Nevrologiske funn " nameAsForm="false">
+                <question name="Nevrologiske funn " nameAsGroup="false">
+                    <answer selected="false">Ikke aktuelt</answer>
+                    <answer selected="true">Redusert kraft</answer>
+                    <answer selected="true">Redusert sensibilitet</answer>
+                    <answer selected="false">Unormale reflekser</answer>
+                </question>
+                <question name="Kommentar nevrologiske funn" nameAsGroup="false" />
+                <question name="Ev. andre kommentarer:" nameAsGroup="false" />
+            </group>
+        </groups>
+    </form>
+    <form Name="ICPC kode/ diagnose - SupportPRIM" Project="SupportPRIM - Baseline Felles" projectid="249961487" taskid="249961492" id="255591454" start="06-02-2020 10:20:06" end="06-02-2020 10:20:46">
+        <patient medicalOffice="support7" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="ICPC kode/ Diagnose" nameAsForm="false">
+                <question name="Bokstav" nameAsGroup="false">
+                    <answer>L</answer>
+                </question>
+                <question name="Nummerkode" nameAsGroup="false">
+                    <answer>02</answer>
+                </question>
+                <question name="Fritekst (må fylles ut)" nameAsGroup="false">
+                    <answer>Ryggplager, Prolaps</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Pasientspesifikk funksjonsskala - SupportPRIM" Project="SupportPRIM - SMS uke 1" projectid="249961487" taskid="249966392" id="255898103" start="13-02-2020 08:33:29" end="13-02-2020 08:34:07">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Pasientspesifikk funksjonsskala" nameAsForm="false">
+                <question name="Ligging i sofa" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="true">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+                <question name="Golf" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="true">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+                <question name="Løft" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="true">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Arbeidsevne - Fysioprim" Project="SupportPRIM - SMS uke 1" projectid="249961487" taskid="249966392" id="255898104" start="13-02-2020 08:33:57" end="13-02-2020 08:34:07">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="9">Totalskår:</score>
+        </scores>
+        <verdicts />
+        <groups>
+            <group name="Arbeidsevne" nameAsForm="false">
+                <question name="Arbeidsevne" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="true">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Pasientspesifikk funksjonsskala - SupportPRIM" Project="SupportPRIM - SMS uke 2" projectid="249961487" taskid="249966394" id="256083950" start="21-02-2020 16:02:16" end="21-02-2020 16:02:38">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Pasientspesifikk funksjonsskala" nameAsForm="false">
+                <question name="Ligging i sofa" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="true">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+                <question name="Golf" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="true">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+                <question name="Løft" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="true">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Arbeidsevne - Fysioprim" Project="SupportPRIM - SMS uke 2" projectid="249961487" taskid="249966394" id="256083952" start="21-02-2020 16:02:31" end="21-02-2020 16:02:38">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Arbeidsevne" nameAsForm="false">
+                <question name="Arbeidsevne" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="true">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Smerteintensitet - SupportPRIM" Project="SupportPRIM - SMS uke 2" projectid="249961487" taskid="249966394" id="256083966" start="21-02-2020 16:02:34" end="21-02-2020 16:02:40">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Smerteintensitet" nameAsForm="false">
+                <question name="Hvor mye smerter har du hatt den SISTE UKEN?" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="true">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Pain Self-Efficacy Questionnaire (PSEQ-2)" Project="SupportPRIM - SMS uke 2" projectid="249961487" taskid="249966394" id="256083984" start="21-02-2020 16:02:29" end="21-02-2020 16:02:41" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="11">Totalskår:</score>
+        </scores>
+        <verdicts>
+            <verdict></verdict>
+            <verdict>Score: 11 (0-12) som indikerer god (8-12) mestringstro.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Smerte" nameAsForm="false">
+                <question name="1. Jeg kan gjøre noen former for arbeid, til tross for smerten (arbeid inkluderer husarbeid og lønnet/ulønnet arbeid)" nameAsGroup="false">
+                    <answer selected="false">Ikke sikker i det hele tatt 0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="true">Helt sikker 6</answer>
+                </question>
+                <question name="2. Jeg kan leve en normal livsstil, til tross for smerten" nameAsGroup="false">
+                    <answer selected="false">Ikke sikker i det hele tatt 0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="true">5</answer>
+                    <answer selected="false">Helt sikker 6</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Din opplevelse av endring (Global perceived effect)" Project="SupportPRIM - SMS uke 2" projectid="249961487" taskid="249966394" id="256083991" start="21-02-2020 16:02:24" end="21-02-2020 16:02:42" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Din opplevelse av endring" nameAsForm="false">
+                <question name="Siden behandling startet, er jeg :" nameAsGroup="false">
+                    <answer selected="false">Veldig mye bedre</answer>
+                    <answer selected="false">Mye bedre</answer>
+                    <answer selected="true">Minimalt bedre</answer>
+                    <answer selected="false">Uforandret</answer>
+                    <answer selected="false">Minimalt verre</answer>
+                    <answer selected="false">Mye verre</answer>
+                    <answer selected="false">Veldig mye verre</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Pasientspesifikk funksjonsskala - SupportPRIM" Project="SupportPRIM - SMS uke 3" projectid="249961487" taskid="249966418" id="256612656" start="27-02-2020 20:49:28" end="27-02-2020 20:49:44">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Pasientspesifikk funksjonsskala" nameAsForm="false">
+                <question name="Ligging i sofa" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="true">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+                <question name="Golf" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="true">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+                <question name="Løft" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="true">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Arbeidsevne - Fysioprim" Project="SupportPRIM - SMS uke 3" projectid="249961487" taskid="249966418" id="256612660" start="27-02-2020 20:49:35" end="27-02-2020 20:49:44">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Arbeidsevne" nameAsForm="false">
+                <question name="Arbeidsevne" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="true">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Pasientspesifikk funksjonsskala - SupportPRIM" Project="SupportPRIM - SMS uke 4" projectid="249961487" taskid="249966420" id="257283436" start="12-03-2020 08:52:21" end="12-03-2020 08:52:33">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Pasientspesifikk funksjonsskala" nameAsForm="false">
+                <question name="Ligging i sofa" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="true">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+                <question name="Golf" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="true">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+                <question name="Løft" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="true">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">kan utføre10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Arbeidsevne - Fysioprim" Project="SupportPRIM - SMS uke 4" projectid="249961487" taskid="249966420" id="257283442" start="12-03-2020 08:52:29" end="12-03-2020 08:52:33">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Arbeidsevne" nameAsForm="false">
+                <question name="Arbeidsevne" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="true">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Din opplevelse av endring (Global perceived effect)" Project="SupportPRIM - SMS uke 4" projectid="249961487" taskid="249966420" id="257283456" start="12-03-2020 08:52:21" end="12-03-2020 08:52:35" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Din opplevelse av endring" nameAsForm="false">
+                <question name="Siden behandling startet, er jeg :" nameAsGroup="false">
+                    <answer selected="false">Veldig mye bedre</answer>
+                    <answer selected="true">Mye bedre</answer>
+                    <answer selected="false">Minimalt bedre</answer>
+                    <answer selected="false">Uforandret</answer>
+                    <answer selected="false">Minimalt verre</answer>
+                    <answer selected="false">Mye verre</answer>
+                    <answer selected="false">Veldig mye verre</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Pasientspesifikk funksjonsskala - SupportPRIM" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775647" start="06-05-2020 17:38:27" end="06-05-2020 17:38:39">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Pasientspesifikk funksjonsskala" nameAsForm="false">
+                <question name="Ligging i sofa" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="true">kan utføre10</answer>
+                </question>
+                <question name="Golf" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="true">kan utføre10</answer>
+                </question>
+                <question name="Løft" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="true">kan utføre10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Fem spørsmål om helsen din" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775656" start="06-05-2020 17:38:23" end="06-05-2020 17:38:39" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Personlig stell: Ingen problemer</verdict>
+            <verdict>Vanlige gjøremål: Ingen problemer</verdict>
+            <verdict>Smerter og ubehag:Litt smerter eller ubehag.</verdict>
+            <verdict>Angst/ depresjon: Verken engstelig eller deprimert.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Gange" nameAsGroup="false">
+                    <answer selected="true">Jeg har ingen problemer med å gå omkring</answer>
+                    <answer selected="false">Jeg har litt problemer med å gå omkring</answer>
+                    <answer selected="false">Jeg har middels store problemer med å gå omkring</answer>
+                    <answer selected="false">Jeg har store problemer med å gå omkring</answer>
+                    <answer selected="false">Jeg er ute av stand til å gå omkring</answer>
+                </question>
+            </group>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Personlig stell" nameAsGroup="false">
+                    <answer selected="true">Jeg har ingen problemer med å vaske meg eller kle meg</answer>
+                    <answer selected="false">Jeg har litt problemer med å vaske meg eller kle meg</answer>
+                    <answer selected="false">Jeg har middels store problemer med å vaske meg eller kle meg</answer>
+                    <answer selected="false">Jeg har store problemer med å vaske meg eller kle meg</answer>
+                    <answer selected="false">Jeg er ute av stand til å vaske meg eller kle meg</answer>
+                </question>
+            </group>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Vanlige gjøremål " nameAsGroup="false">
+                    <answer selected="true">Jeg har ingen problemer med å utføre mine vanlige gjøremål</answer>
+                    <answer selected="false">Jeg har litt problemer med å utføre mine vanlige gjøremål</answer>
+                    <answer selected="false">Jeg har middels store problemer med å utføre mine vanlige gjøremål</answer>
+                    <answer selected="false">Jeg har store problemer med å utføre mine vanlige gjøremål</answer>
+                    <answer selected="false">Jeg er ute av stand til å utføre mine vanlige gjøremål</answer>
+                </question>
+            </group>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Smerter/ ubehag" nameAsGroup="false">
+                    <answer selected="false">Jeg har verken smerter eller ubehag</answer>
+                    <answer selected="true">Jeg har litt smerter eller ubehag</answer>
+                    <answer selected="false">Jeg har middels smerter eller ubehag</answer>
+                    <answer selected="false">Jeg har sterke smerter eller ubehag</answer>
+                    <answer selected="false">Jeg har svært sterke smerter eller ubehag</answer>
+                </question>
+            </group>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Angst/ depresjon" nameAsGroup="false">
+                    <answer selected="true">Jeg er verken engstelig eller deprimert</answer>
+                    <answer selected="false">Jeg er litt engstelig eller deprimert</answer>
+                    <answer selected="false">Jeg er middels engstelig eller deprimert</answer>
+                    <answer selected="false">Jeg er svært engstelig eller deprimert</answer>
+                    <answer selected="false">Jeg er ekstremt engstelig eller deprimert</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Smerteintensitet - SupportPRIM" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775706" start="06-05-2020 17:38:35" end="06-05-2020 17:38:44">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Smerteintensitet" nameAsForm="false">
+                <question name="Hvor mye smerter har du hatt den SISTE UKEN?" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="true">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Søvn og livskraft" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775710" start="06-05-2020 17:38:38" end="06-05-2020 17:38:45" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Søvn: Sover normalt, har ingen problemer med å sove</verdict>
+            <verdict>Livskraft: Frisk og energisk.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Søvn og livskraft" nameAsForm="false">
+                <question name="Søvn" nameAsGroup="false">
+                    <answer selected="true">Jeg er i stand til å sove normalt, dvs. jeg har ingen problemer med å sove.</answer>
+                    <answer selected="false">Jeg har lette søvnproblemer, f.eks. vanskelig for å falle i søvn eller våkner av og til om natten.</answer>
+                    <answer selected="false">Jeg har moderate søvnproblemer, f.eks. forstyrret søvn eller føler jeg ikke har sovet nok.</answer>
+                    <answer selected="false">Jeg har store søvnproblemer, f.eks.må bruke sovemedisiner ofte eller rutinemessig, eller våkner om natten og/ eller for tidlig om morgenen.</answer>
+                    <answer selected="false">Jeg lider av alvorlig søvnløshet, f.eks. er søvn nesten umulig selv med bruk av sovemedisiner, eller jeg forblir våken det meste av natten.</answer>
+                </question>
+                <question name="Livskraft" nameAsGroup="false">
+                    <answer selected="true">Jeg føler meg frisk og energisk.</answer>
+                    <answer selected="false">Jeg føler meg litt sliten, trett eller svak.</answer>
+                    <answer selected="false">Jeg føler meg middels sliten, trett eller svak.</answer>
+                    <answer selected="false">Jeg føler meg svært sliten, trett eller svak, nesten utslitt.</answer>
+                    <answer selected="false">Jeg føler meg ekstremt sliten, trett eller svak, totalt utslitt.</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Smertetegning siste uke (med regional angivelse)" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775717" start="06-05-2020 17:38:23" end="06-05-2020 17:38:46" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="">Hode</score>
+            <score points="">Nakke</score>
+            <score points="">Skuldre</score>
+            <score points="">Øvre del rygg</score>
+            <score points="">Albuer</score>
+            <score points="">Håndledd / hender</score>
+            <score points="">Hofter / lår</score>
+            <score points="1">Korsrygg</score>
+            <score points="">Ankler / føtter</score>
+            <score points="">Knær</score>
+            <score points="1">Totalt antall ruter:</score>
+            <score points="1">Antall affiserte regioner:</score>
+        </scores>
+        <verdicts />
+        <groups>
+            <group name="Smertetegning" nameAsForm="true">
+                <question name="Smertetegning" nameAsGroup="true">
+                    <bodymap>
+                        <square x="3" y="7" side="1" />
+                    </bodymap>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Smertekartlegging fysioprim" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775731" start="06-05-2020 17:38:40" end="06-05-2020 17:38:50" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Pasienten har episodisk smerte, en eller flere ganger i måneden.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Tidsaspekt smerte" nameAsForm="false">
+                <question name="Er smerten kontinuerlig" nameAsGroup="false">
+                    <answer selected="false">Ja, jeg kjenner den hele tiden</answer>
+                    <answer selected="true">Nei, den er av og på</answer>
+                </question>
+                <question name="Er smerten av varierende intensitet?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="false">Nei, den er stabil</answer>
+                </question>
+                <question name="Hvordan vil du beskrive smertevariasjonen best?" nameAsGroup="false">
+                    <answer selected="false">Den varierer innenfor døgnet</answer>
+                    <answer selected="false">Den varierer fra dag til dag</answer>
+                    <answer selected="false">Annet</answer>
+                </question>
+                <question name="Hvor ofte har du vanligvis disse smertene?" nameAsGroup="false">
+                    <answer selected="false">Hver dag</answer>
+                    <answer selected="false">En eller flere ganger i uken</answer>
+                    <answer selected="true">En eller flere ganger i måneden</answer>
+                    <answer selected="false">Sjeldnere enn 1 gang i måneden</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Medisinbruk - Fysioprim" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775737" start="06-05-2020 17:38:46" end="06-05-2020 17:38:50" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Smertemedisin den siste uken: ikke brukt.</verdict>
+            <verdict>Daglig medisinbruk: 0.</verdict>
+        </verdicts>
+        <groups>
+            <group name="medisinbruk" nameAsForm="true">
+                <question name="Har du brukt noen medisiner mot smerte i løpet av den siste uken?" nameAsGroup="false">
+                    <answer selected="true">Nei</answer>
+                    <answer selected="false">Ja</answer>
+                </question>
+                <question name="Hvilke medisiner?" nameAsGroup="false">
+                    <answer selected="false">Paracetamol, Paracet, Panodil, Pimol, Pinex eller Perfalgan</answer>
+                    <answer selected="false">Albyl-E (500 mg), Aspirin, Globoid eller Dispril</answer>
+                    <answer selected="false">Ibuprofen, Ibux, Ibuprox, Ibumetin, Brufen, Naproxen, Naprosyn eller Ladox</answer>
+                    <answer selected="false">Andre</answer>
+                </question>
+                <question name="Antall medisiner du bruker daglig:" nameAsGroup="false">
+                    <answer selected="true">0</answer>
+                    <answer selected="false">1- 4</answer>
+                    <answer selected="false">5 eller flere</answer>
+                </question>
+                <question name="Hvilke andre medisiner?" nameAsGroup="false" />
+            </group>
+        </groups>
+    </form>
+    <form Name="Arbeidssituasjon - FYSIOPRIM - Dynamisk" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775742" start="06-05-2020 17:38:44" end="06-05-2020 17:38:50">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Arbeidssituasjon" nameAsForm="false">
+                <question name="Arbeidssituasjon" nameAsGroup="false">
+                    <answer selected="true">I lønnet arbeid</answer>
+                    <answer selected="false">Skoleelev/ student</answer>
+                    <answer selected="false">Pensjonist</answer>
+                    <answer selected="false">Uføretrygdet</answer>
+                    <answer selected="false">Sykmeldt</answer>
+                    <answer selected="false">Arbeidsavklaring</answer>
+                    <answer selected="false">Ulønnet arbeid (eks. hjemme)</answer>
+                    <answer selected="false">Foreldrepermisjon</answer>
+                </question>
+            </group>
+            <group name="Oppfølging arbeidssituasjon" nameAsForm="false">
+                <question name="Angi stillingsprosent" nameAsGroup="false">
+                    <answer>100</answer>
+                </question>
+                <question name="Angi uføregrad" nameAsGroup="false" />
+                <question name="Angi sykmeldingsgrad" nameAsGroup="false" />
+            </group>
+        </groups>
+    </form>
+    <form Name="Arbeidsevne - Fysioprim" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775753" start="06-05-2020 17:38:46" end="06-05-2020 17:38:51">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Arbeidsevne" nameAsForm="false">
+                <question name="Arbeidsevne" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="true">10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Mosjon og Trening Fysioprim" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775767" start="06-05-2020 17:38:41" end="06-05-2020 17:38:53" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="15">Fysisk aktivitet indeks:</score>
+        </scores>
+        <verdicts>
+            <verdict>Mosjon og trening (gjennomsnitt): 2 - 3 ganger i uken og tar det hardt i 30 min. - 1 time.</verdict>
+            <verdict>Fysisk aktivitet indeks: Medium (1-20)</verdict>
+        </verdicts>
+        <groups>
+            <group name="Mosjon og Trening" nameAsForm="false">
+                <question name="Hvor ofte driver du mosjon eller trening?" nameAsGroup="false">
+                    <answer selected="false">Aldri</answer>
+                    <answer selected="false">Sjeldnere enn en gang i uken</answer>
+                    <answer selected="false">En gang i uken</answer>
+                    <answer selected="true">2 - 3 ganger i uken</answer>
+                    <answer selected="false">Omtrent hver dag</answer>
+                </question>
+                <question name="Hvor hardt mosjonerer / trener du?" nameAsGroup="false">
+                    <answer selected="false">Tar det rolig uten å bli andpusten eller svett</answer>
+                    <answer selected="true">Tar det så hardt at jeg blir andpusten og svett</answer>
+                    <answer selected="false">Tar meg nesten helt ut</answer>
+                </question>
+                <question name="Hvor lenge holder du på hver gang?" nameAsGroup="false">
+                    <answer selected="false">Mindre enn 15 minutter</answer>
+                    <answer selected="false">15 - 29 minutter</answer>
+                    <answer selected="true">30 minutter - 1 time</answer>
+                    <answer selected="false">Mer enn 1 time</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Hvordan har du det? (HSCL 10)" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775784" start="06-05-2020 17:38:32" end="06-05-2020 17:38:56" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="1">Gjennomsnitt:</score>
+        </scores>
+        <verdicts>
+            <verdict>Score: 1 (1-4) som er under grensen (1.85) for symptomer på psykisk stress.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Hvordan har du det?" nameAsForm="false">
+                <question name="1. Plutselig skremt uten grunn" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="2. Føler du deg svimmel eller kraftesløs" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="3. Føler deg anspent eller opphisset" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="4. Anfall av redsel eller panikk" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="5. Anklager deg selv for ting" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="6. Vanskelig for å sove" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="7. Følelse av håpløshet mhp. framtiden" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="8. Føler deg nedfor" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="9. Føler at alt krever stor anstrengelse" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="10. Føler at du ikke er noe verd" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Din opplevelse av endring (Global perceived effect)" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775787" start="06-05-2020 17:38:52" end="06-05-2020 17:38:56" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Din opplevelse av endring" nameAsForm="false">
+                <question name="Siden behandling startet, er jeg :" nameAsGroup="false">
+                    <answer selected="false">Veldig mye bedre</answer>
+                    <answer selected="true">Mye bedre</answer>
+                    <answer selected="false">Minimalt bedre</answer>
+                    <answer selected="false">Uforandret</answer>
+                    <answer selected="false">Minimalt verre</answer>
+                    <answer selected="false">Mye verre</answer>
+                    <answer selected="false">Veldig mye verre</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Fysioprim - behandlingsevaluering" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775798" start="06-05-2020 17:38:50" end="06-05-2020 17:38:57">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Pasienten har i stor grad hatt nytte av fysioterapi</verdict>
+            <verdict>Pasientens forventninger til fysioterapi ble i stor grad innfridd.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Behandlingsevaluering" nameAsForm="true">
+                <question name="I hvilken grad ble dine forventninger til fysioterapi innfridd?" nameAsGroup="false">
+                    <answer selected="false">I svært stor grad</answer>
+                    <answer selected="true">I stor grad</answer>
+                    <answer selected="false">I noen grad</answer>
+                    <answer selected="false">I liten grad</answer>
+                    <answer selected="false">I svært liten grad</answer>
+                </question>
+                <question name="I hvilken grad har du hatt nytte av fysioterapibehandling?" nameAsGroup="false">
+                    <answer selected="false">I svært stor grad</answer>
+                    <answer selected="true">I stor grad</answer>
+                    <answer selected="false">I noen grad</answer>
+                    <answer selected="false">I liten grad</answer>
+                    <answer selected="false">I svært liten grad</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Pasient - terapeut - SupportPRIM" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775810" start="06-05-2020 17:38:49" end="06-05-2020 17:38:58">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="pasient - terapeut" nameAsForm="false">
+                <question name="Jeg ble hørt og forstått av min fysioterapeut?" nameAsGroup="false">
+                    <answer selected="false">Sterkt uenig </answer>
+                    <answer selected="false">Uenig</answer>
+                    <answer selected="false">Nøytral </answer>
+                    <answer selected="false">Enig</answer>
+                    <answer selected="true">Veldig enig</answer>
+                </question>
+                <question name="Jeg har høy tiltro til min fysioterapeuts faglige kvalifikasjoner" nameAsGroup="false">
+                    <answer selected="false">Sterkt uenig </answer>
+                    <answer selected="false">Uenig</answer>
+                    <answer selected="false">Nøytral </answer>
+                    <answer selected="false">Enig</answer>
+                    <answer selected="true">Veldig enig</answer>
+                </question>
+                <question name="Samlet sett er jeg svært godt fornøyd med oppfølgingen jeg fikk av min terapeut" nameAsGroup="false">
+                    <answer selected="false">Sterkt uenig </answer>
+                    <answer selected="false">Uenig</answer>
+                    <answer selected="false">Nøytral</answer>
+                    <answer selected="false">Enig</answer>
+                    <answer selected="true">Veldig enig</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Pasient compliance FYSIOPRIM" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775813" start="06-05-2020 17:38:51" end="06-05-2020 17:38:58">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Jeg har gjennomført øvelser som anbefalt: Ganske regelmessig.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Pasient compliance" nameAsForm="false">
+                <question name="Har du gjennomført øvelsene som anbefalt av fysioterapeuten?" nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="false">Noe</answer>
+                    <answer selected="true">Ganske regelmessig</answer>
+                    <answer selected="false">Veldig regelmessig</answer>
+                    <answer selected="false">Har ikke fått øvelser av fysioterapeuten</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="SPØRRESKJEMA OM MUSKEL- OG SKJELETTHELSE (MSK-HQ)" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775819" start="06-05-2020 17:37:39" end="06-05-2020 17:38:59">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="SPØRRESKJEMA OM MUSKEL- OG SKJELETTHELSE (MSK-HQ)" nameAsForm="false">
+                <question name="1. Smerte/stivhet i løpet av dagen" nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Ganske intense</answer>
+                    <answer selected="false">Veldig intense</answer>
+                </question>
+                <question name="2. Smerter/stivhet om natten." nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Ganske intense</answer>
+                    <answer selected="false">Veldig intense</answer>
+                </question>
+                <question name="3. Gange" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Har ikke kunnet gå</answer>
+                </question>
+                <question name="4. Vaske seg/påkledning" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Klarer ikke å vaske eller kle på meg</answer>
+                </question>
+                <question name="5. Fysisk aktivitetsnivå" nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ikke vært i stand til å være fysisk aktiv</answer>
+                </question>
+                <question name="6. Arbeid/daglige aktiviteter" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="7. Sosiale aktiviteter og hobbyer" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="8. Behov for hjelp" nameAsGroup="false">
+                    <answer selected="true">Aldri</answer>
+                    <answer selected="false">Sjeldent</answer>
+                    <answer selected="false">Noen ganger</answer>
+                    <answer selected="false">Ofte</answer>
+                    <answer selected="false">Hele tiden</answer>
+                </question>
+                <question name="9. Søvn" nameAsGroup="false">
+                    <answer selected="true">Aldri</answer>
+                    <answer selected="false">Sjeldent</answer>
+                    <answer selected="false">Noen ganger</answer>
+                    <answer selected="false">Ofte</answer>
+                    <answer selected="false">Hver natt</answer>
+                </question>
+                <question name="10. Utmattelse eller lite energi " nameAsGroup="false">
+                    <answer selected="false">Ingen</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="11. Følelsesmessig velvære" nameAsGroup="false">
+                    <answer selected="true">Ingen</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="12. Forståelse av dine helseplager og pågående behandling" nameAsGroup="false">
+                    <answer selected="false">Fullstendig</answer>
+                    <answer selected="true">Veldig godt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                </question>
+                <question name="13. Tro på å mestre symptomene dine" nameAsGroup="false">
+                    <answer selected="true">Ekstremt</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                </question>
+                <question name="14. Generell påvirkning" nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig mye</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="Fysisk aktivitetsnivå" nameAsGroup="false">
+                    <answer selected="false">Ingen dager</answer>
+                    <answer selected="false">1 dag</answer>
+                    <answer selected="false">2 dager</answer>
+                    <answer selected="true">3 dager</answer>
+                    <answer selected="false">4 dager</answer>
+                    <answer selected="false">5 dager</answer>
+                    <answer selected="false">6 dager</answer>
+                    <answer selected="false">7 dager</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Pain Self-Efficacy Questionnaire (PSEQ-2)" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775838" start="06-05-2020 17:38:48" end="06-05-2020 17:39:00" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="12">Totalskår:</score>
+        </scores>
+        <verdicts>
+            <verdict></verdict>
+            <verdict>Score: 12 (0-12) som indikerer god (8-12) mestringstro.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Smerte" nameAsForm="false">
+                <question name="1. Jeg kan gjøre noen former for arbeid, til tross for smerten (arbeid inkluderer husarbeid og lønnet/ulønnet arbeid)" nameAsGroup="false">
+                    <answer selected="false">Ikke sikker i det hele tatt 0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="true">Helt sikker 6</answer>
+                </question>
+                <question name="2. Jeg kan leve en normal livsstil, til tross for smerten" nameAsGroup="false">
+                    <answer selected="false">Ikke sikker i det hele tatt 0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="true">Helt sikker 6</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Hovedmål oppnådd - supportPRIM" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775840" start="06-05-2020 17:38:50" end="06-05-2020 17:39:01">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Mål" nameAsForm="false">
+                <question name="Mål" nameAsGroup="false">
+                    <answer selected="false">Oppnådd</answer>
+                    <answer selected="true">Delvis oppnådd</answer>
+                    <answer selected="false">Ikke oppnådd</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Viktigste faktor pasient - SupportPRIM" Project="SupportPRIM - 3 mnd avslutning Pasient" projectid="249961487" taskid="249966782" id="258775852" start="06-05-2020 17:39:03" end="06-05-2020 17:39:05">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Viktigste faktor" nameAsForm="false">
+                <question name="Hva tror du har vært den viktigste faktoren for bedring/ manglende bedring for dine plager (En til to setninger)" nameAsGroup="false" />
+            </group>
+        </groups>
+    </form>
+    <form Name="Pasientspesifikk funksjonsskala - SupportPRIM" Project="SupportPRIM - Avslutning Felles" projectid="249961487" taskid="249966786" id="260391110" start="17-06-2020 19:29:17" end="17-06-2020 19:29:27">
+        <patient medicalOffice="support7" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Pasientspesifikk funksjonsskala" nameAsForm="false">
+                <question name="Ligging i sofa" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="true">kan utføre10</answer>
+                </question>
+                <question name="Golf" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="true">kan utføre10</answer>
+                </question>
+                <question name="Løft" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="true">kan utføre10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Hovedmål oppnådd - supportPRIM" Project="SupportPRIM - Avslutning Felles" projectid="249961487" taskid="249966786" id="260391122" start="17-06-2020 19:29:18" end="17-06-2020 19:29:27">
+        <patient medicalOffice="support7" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Mål" nameAsForm="false">
+                <question name="Mål" nameAsGroup="false">
+                    <answer selected="true">Oppnådd</answer>
+                    <answer selected="false">Delvis oppnådd</answer>
+                    <answer selected="false">Ikke oppnådd</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Fortsetter behandlingen og antall konsultasjoner - supportPRIM" Project="SupportPRIM - Avslutning Felles" projectid="249961487" taskid="249966786" id="260391126" start="17-06-2020 19:29:03" end="17-06-2020 19:29:27">
+        <patient medicalOffice="support7" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Fortsetter beandlingen og antall konsultasjoner" nameAsForm="false">
+                <question name="Fortsetter behandlingen?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="true">Nei</answer>
+                </question>
+                <question name="Antall konsultasjoner totalt" nameAsGroup="false">
+                    <answer>4</answer>
+                </question>
+                <question name="Årsak til avslutning:" nameAsGroup="false">
+                    <answer selected="true">Behov opphørt</answer>
+                    <answer selected="false">Effektstagnasjon</answer>
+                    <answer selected="false">Ingen effekt</answer>
+                    <answer selected="false">Pasienten ønsker ikke videre behandling</answer>
+                    <answer selected="false">Flyttet ut av kommune</answer>
+                    <answer selected="false">Forverret medsinsk tilstand</answer>
+                    <answer selected="false">Død</answer>
+                    <answer selected="false">Annet</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Tiltaksliste - supportPRIM" Project="SupportPRIM - Avslutning Felles" projectid="249961487" taskid="249966786" id="260391132" start="17-06-2020 19:27:49" end="17-06-2020 19:29:28">
+        <patient medicalOffice="support7" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="1. Redusert aktivitet, hvile, avlastning" nameAsForm="false">
+                <question name="Ikke vektlagt" nameAsGroup="true">
+                    <answer selected="true">Ikke</answer>
+                </question>
+                <question name="Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="2. Økt fysisk aktivitet" nameAsForm="false">
+                <question name="2 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="false">Ikke</answer>
+                </question>
+                <question name="2 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="2 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="true">Mye</answer>
+                </question>
+            </group>
+            <group name="3. Å Motvirke frykt for bevegelse og aktivitet" nameAsForm="false">
+                <question name="3 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="false">Ikke</answer>
+                </question>
+                <question name="3 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="3 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="true">Mye</answer>
+                </question>
+            </group>
+            <group name="4. Egenmestring av plagene i hverdagen" nameAsForm="false">
+                <question name="4 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="false">Ikke</answer>
+                </question>
+                <question name="4 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="4 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="true">Mye</answer>
+                </question>
+            </group>
+            <group name="5. Arbeid og tilpasning av arbeid, inkludert oppgaver i hjemmet" nameAsForm="false">
+                <question name="5 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="false">ikke</answer>
+                </question>
+                <question name="5 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="true">Noe</answer>
+                </question>
+                <question name="5 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="6. Søvn" nameAsForm="false">
+                <question name="6 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="true">Ikke</answer>
+                </question>
+                <question name="6 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="6 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="7. Vektendring (økt eller redusert)" nameAsForm="false">
+                <question name="7 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="true">Ikke</answer>
+                </question>
+                <question name="7 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="7 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="8. Sosial deltakelse" nameAsForm="false">
+                <question name="8 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="true">Ikke</answer>
+                </question>
+                <question name="8 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="8 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="9. Mestring av stress, angst, depresjon e.l" nameAsForm="false">
+                <question name="9 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="true">Ikke</answer>
+                </question>
+                <question name="9 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="9 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="10. Forventninger, prognose og forløp" nameAsForm="false">
+                <question name="10 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="false">Ikke</answer>
+                </question>
+                <question name="10 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="true">Noe</answer>
+                </question>
+                <question name="10 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="1. Spesifikke styrkeøvelser" nameAsForm="false">
+                <question name="Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="false">Ikke</answer>
+                </question>
+                <question name="Noe vektlagt" nameAsGroup="false">
+                    <answer selected="true">Noe</answer>
+                </question>
+                <question name="Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="2. Utholdenhetstrening" nameAsForm="false">
+                <question name="2 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="true">Ikke</answer>
+                </question>
+                <question name="2 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="2 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="3. Spesifikke balanse- eller koordinasjonsøvelser" nameAsForm="false">
+                <question name="3 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="true">Ikke</answer>
+                </question>
+                <question name="3 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="3 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="4. Spesifikke muskeltøyninger eller leddmobilisering" nameAsForm="false">
+                <question name="4 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="false">Ikke</answer>
+                </question>
+                <question name="4 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="true">Noe</answer>
+                </question>
+                <question name="4 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="5. Spesifikk trening for postural kontroll, holdning eller avspenning" nameAsForm="false">
+                <question name="5 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="false">Ikke </answer>
+                </question>
+                <question name="5 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="true">Noe</answer>
+                </question>
+                <question name="5 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="6. Generelle øvelser og tøyninger" nameAsForm="false">
+                <question name="6 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="false">Ikke</answer>
+                </question>
+                <question name="6 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="6 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="true">Mye</answer>
+                </question>
+            </group>
+            <group name="1. Spesifikke oppgaver eller øvelser hjemme (skriftlig)" nameAsForm="false">
+                <question name="Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="false">Ikke</answer>
+                </question>
+                <question name="Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="Mye vektlagt" nameAsGroup="false">
+                    <answer selected="true">Mye</answer>
+                </question>
+            </group>
+            <group name="1. Massasje og bløtdelsbehandling, inkludert tverrmassasje" nameAsForm="false">
+                <question name="Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="false">Ikke</answer>
+                </question>
+                <question name="Noe vektlagt" nameAsGroup="false">
+                    <answer selected="true">Noe</answer>
+                </question>
+                <question name="Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="2. Leddmobilisering og -manipulasjon" nameAsForm="false">
+                <question name="Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="true">Ikke</answer>
+                </question>
+                <question name="Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="3. Tøyninger" nameAsForm="false">
+                <question name="20 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="true">Ikke</answer>
+                </question>
+                <question name="20 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="20 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="4. Triggerpunkt-, nålebehandling eller akupunktur" nameAsForm="false">
+                <question name="21 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="true">Ikke</answer>
+                </question>
+                <question name="21 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="21 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="5. Trykkbølgebehandling" nameAsForm="false">
+                <question name="22 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="true">Ikke</answer>
+                </question>
+                <question name="22 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="22 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="Individuell behandling" nameAsForm="false">
+                <question name="Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="false">Ikke </answer>
+                </question>
+                <question name="Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="Mye vektlagt" nameAsGroup="false">
+                    <answer selected="true">Mye</answer>
+                </question>
+            </group>
+            <group name="Behandling i gruppe" nameAsForm="false">
+                <question name="24 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="true">Ikke</answer>
+                </question>
+                <question name="24 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="24 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="false">Mye</answer>
+                </question>
+            </group>
+            <group name="Egentrening" nameAsForm="false">
+                <question name="25 Ikke vektlagt" nameAsGroup="false">
+                    <answer selected="false">Ikke</answer>
+                </question>
+                <question name="25 Noe vektlagt" nameAsGroup="false">
+                    <answer selected="false">Noe</answer>
+                </question>
+                <question name="25 Mye vektlagt" nameAsGroup="false">
+                    <answer selected="true">Mye</answer>
+                </question>
+            </group>
+            <group name="Behandlingen har foregått hos" nameAsForm="false">
+                <question name="Behandlingen har foregått hos" nameAsGroup="false">
+                    <answer selected="true">Allmenn fysioterapeut 	</answer>
+                    <answer selected="false">Psykomotoriker </answer>
+                    <answer selected="false">Manuell terapeut</answer>
+                </question>
+            </group>
+            <group name="Fastlege" nameAsForm="false">
+                <question name="Ja" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                </question>
+                <question name="Nei" nameAsGroup="false">
+                    <answer selected="true">Nei</answer>
+                </question>
+            </group>
+            <group name="Spesialist" nameAsForm="false">
+                <question name="27 Ja" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                </question>
+                <question name="27 Nei" nameAsGroup="false">
+                    <answer selected="true">Nei</answer>
+                </question>
+            </group>
+            <group name="Psykolog" nameAsForm="false">
+                <question name="28 Ja" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                </question>
+                <question name="28 Nei" nameAsGroup="false">
+                    <answer selected="true">Nei</answer>
+                </question>
+            </group>
+            <group name="Annen fysioterapeut" nameAsForm="false">
+                <question name="29 Ja" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                </question>
+                <question name="29 Nei" nameAsGroup="false">
+                    <answer selected="true">Nei</answer>
+                </question>
+            </group>
+            <group name="Annen helseprofesjon" nameAsForm="false">
+                <question name="30 Ja" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                </question>
+                <question name="30 Nei" nameAsGroup="false">
+                    <answer selected="true">Nei</answer>
+                </question>
+            </group>
+            <group name="NAV" nameAsForm="false">
+                <question name="Ja" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                </question>
+                <question name="Nei" nameAsGroup="false">
+                    <answer selected="true">Nei</answer>
+                </question>
+            </group>
+            <group name="Bedriftshelsetjenesten" nameAsForm="false">
+                <question name="32 Ja" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                </question>
+                <question name="32 Nei" nameAsGroup="false">
+                    <answer selected="true">Nei</answer>
+                </question>
+            </group>
+            <group name="Arbeidsgiver" nameAsForm="false">
+                <question name="33 Ja" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                </question>
+                <question name="33 Nei" nameAsGroup="false">
+                    <answer selected="true">Nei</answer>
+                </question>
+            </group>
+            <group name="Familie" nameAsForm="false">
+                <question name="34 Ja" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                </question>
+                <question name="34 Nei" nameAsGroup="false">
+                    <answer selected="true">Nei</answer>
+                </question>
+            </group>
+            <group name="Tiltaksliste" nameAsForm="false">
+                <question name="Tiltaksliste" nameAsGroup="false" />
+            </group>
+        </groups>
+    </form>
+    <form Name="Beskrivelse av tiltak terapeut - supportPRIM" Project="SupportPRIM - Avslutning Felles" projectid="249961487" taskid="249966786" id="260391204" start="17-06-2020 19:23:15" end="17-06-2020 19:29:29">
+        <patient medicalOffice="support7" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Beskriv tiltak som pasienten har fått så godt at en fysioterapikollega kan gjenta behandlingen mest mulig likt deg på sin pasient." nameAsForm="false">
+                <question name="Viktig bakgrunnsinformasjon for behandlingsutfall" nameAsGroup="false">
+                    <answer>Kognitiv funksjonell tilnærming.</answer>
+                </question>
+                <question name="Pasienten har fått følgende behandling:" nameAsGroup="false">
+                    <answer>Klare råd om mestringsstrategier ift smerte. Kognitiv funksjonell tilnærming. Økt grad av aktivitet, fair avoidance. Øvelser: krum og svai, tøyning sete, ryggliggende rotasjon, gange/tur, tilatt smerte(0-10) 3-4. Gradvis økning av aktivitet og tilrettelegging ift målsetning. Bløtvevsbehandling sete, lumbal. </answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Fortsatt til behandling (6 mnd) - Fysioprim" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517618" start="06-08-2020 09:29:06" end="06-08-2020 09:29:15">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="6 mnd oppfølging" nameAsForm="false">
+                <question name="Går du fortsatt til fysioterapi?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="true">Nei</answer>
+                </question>
+                <question name="I snitt, hvor ofte har du hatt fysioterapi de siste 3 månedene?" nameAsGroup="false">
+                    <answer selected="false">1-2 ganger i uken</answer>
+                    <answer selected="false">1-2 ganger i måneden</answer>
+                    <answer selected="false">Sjeldnere enn 1-2 ganger i måneden</answer>
+                </question>
+                <question name="Hva er årsaken til at du har avsluttet fysioterapi?" nameAsGroup="false">
+                    <answer selected="true">Har ikke behov for fysioterapi lengre</answer>
+                    <answer selected="false">Var ikke fornøyd med behandlingen</answer>
+                    <answer selected="false">Tar en pause med fysioterapi</answer>
+                    <answer selected="false">Har startet hos en annen behandler som ikke er fysioterapeut</answer>
+                    <answer selected="false">Annet</answer>
+                </question>
+                <question name="Spesifiser annet:" nameAsGroup="false" />
+            </group>
+        </groups>
+    </form>
+    <form Name="Smerteintensitet - SupportPRIM" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517619" start="06-08-2020 09:28:43" end="06-08-2020 09:29:15">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Smerteintensitet" nameAsForm="false">
+                <question name="Hvor mye smerter har du hatt den SISTE UKEN?" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="true">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="false">10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Pasientspesifikk funksjonsskala - SupportPRIM" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517621" start="06-08-2020 09:29:09" end="06-08-2020 09:29:15">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Pasientspesifikk funksjonsskala" nameAsForm="false">
+                <question name="Ligging i sofa" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="true">kan utføre10</answer>
+                </question>
+                <question name="Golf" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="true">kan utføre10</answer>
+                </question>
+                <question name="Løft" nameAsGroup="false">
+                    <answer selected="false">kan ikke0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="true">kan utføre10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Søvn og livskraft" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517625" start="06-08-2020 09:28:59" end="06-08-2020 09:29:15" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Søvn: Lette søvnproblemer</verdict>
+            <verdict>Livskraft: Frisk og energisk.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Søvn og livskraft" nameAsForm="false">
+                <question name="Søvn" nameAsGroup="false">
+                    <answer selected="false">Jeg er i stand til å sove normalt, dvs. jeg har ingen problemer med å sove.</answer>
+                    <answer selected="true">Jeg har lette søvnproblemer, f.eks. vanskelig for å falle i søvn eller våkner av og til om natten.</answer>
+                    <answer selected="false">Jeg har moderate søvnproblemer, f.eks. forstyrret søvn eller føler jeg ikke har sovet nok.</answer>
+                    <answer selected="false">Jeg har store søvnproblemer, f.eks.må bruke sovemedisiner ofte eller rutinemessig, eller våkner om natten og/ eller for tidlig om morgenen.</answer>
+                    <answer selected="false">Jeg lider av alvorlig søvnløshet, f.eks. er søvn nesten umulig selv med bruk av sovemedisiner, eller jeg forblir våken det meste av natten.</answer>
+                </question>
+                <question name="Livskraft" nameAsGroup="false">
+                    <answer selected="true">Jeg føler meg frisk og energisk.</answer>
+                    <answer selected="false">Jeg føler meg litt sliten, trett eller svak.</answer>
+                    <answer selected="false">Jeg føler meg middels sliten, trett eller svak.</answer>
+                    <answer selected="false">Jeg føler meg svært sliten, trett eller svak, nesten utslitt.</answer>
+                    <answer selected="false">Jeg føler meg ekstremt sliten, trett eller svak, totalt utslitt.</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Fem spørsmål om helsen din" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517628" start="06-08-2020 09:28:58" end="06-08-2020 09:29:15" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Personlig stell: Ingen problemer</verdict>
+            <verdict>Vanlige gjøremål: Ingen problemer</verdict>
+            <verdict>Smerter og ubehag: Hverken smerter eller ubehag.</verdict>
+            <verdict>Angst/ depresjon: Verken engstelig eller deprimert.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Gange" nameAsGroup="false">
+                    <answer selected="true">Jeg har ingen problemer med å gå omkring</answer>
+                    <answer selected="false">Jeg har litt problemer med å gå omkring</answer>
+                    <answer selected="false">Jeg har middels store problemer med å gå omkring</answer>
+                    <answer selected="false">Jeg har store problemer med å gå omkring</answer>
+                    <answer selected="false">Jeg er ute av stand til å gå omkring</answer>
+                </question>
+            </group>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Personlig stell" nameAsGroup="false">
+                    <answer selected="true">Jeg har ingen problemer med å vaske meg eller kle meg</answer>
+                    <answer selected="false">Jeg har litt problemer med å vaske meg eller kle meg</answer>
+                    <answer selected="false">Jeg har middels store problemer med å vaske meg eller kle meg</answer>
+                    <answer selected="false">Jeg har store problemer med å vaske meg eller kle meg</answer>
+                    <answer selected="false">Jeg er ute av stand til å vaske meg eller kle meg</answer>
+                </question>
+            </group>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Vanlige gjøremål " nameAsGroup="false">
+                    <answer selected="true">Jeg har ingen problemer med å utføre mine vanlige gjøremål</answer>
+                    <answer selected="false">Jeg har litt problemer med å utføre mine vanlige gjøremål</answer>
+                    <answer selected="false">Jeg har middels store problemer med å utføre mine vanlige gjøremål</answer>
+                    <answer selected="false">Jeg har store problemer med å utføre mine vanlige gjøremål</answer>
+                    <answer selected="false">Jeg er ute av stand til å utføre mine vanlige gjøremål</answer>
+                </question>
+            </group>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Smerter/ ubehag" nameAsGroup="false">
+                    <answer selected="true">Jeg har verken smerter eller ubehag</answer>
+                    <answer selected="false">Jeg har litt smerter eller ubehag</answer>
+                    <answer selected="false">Jeg har middels smerter eller ubehag</answer>
+                    <answer selected="false">Jeg har sterke smerter eller ubehag</answer>
+                    <answer selected="false">Jeg har svært sterke smerter eller ubehag</answer>
+                </question>
+            </group>
+            <group name="Marker den ENE boksen som best beskriver helsen din I DAG" nameAsForm="true">
+                <question name="Angst/ depresjon" nameAsGroup="false">
+                    <answer selected="true">Jeg er verken engstelig eller deprimert</answer>
+                    <answer selected="false">Jeg er litt engstelig eller deprimert</answer>
+                    <answer selected="false">Jeg er middels engstelig eller deprimert</answer>
+                    <answer selected="false">Jeg er svært engstelig eller deprimert</answer>
+                    <answer selected="false">Jeg er ekstremt engstelig eller deprimert</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Smertetegning siste uke (med regional angivelse)" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517637" start="06-08-2020 09:29:07" end="06-08-2020 09:29:15" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="">Hode</score>
+            <score points="">Nakke</score>
+            <score points="">Skuldre</score>
+            <score points="">Øvre del rygg</score>
+            <score points="">Albuer</score>
+            <score points="">Håndledd / hender</score>
+            <score points="">Hofter / lår</score>
+            <score points="">Korsrygg</score>
+            <score points="1">Ankler / føtter</score>
+            <score points="1">Knær</score>
+            <score points="2">Totalt antall ruter:</score>
+            <score points="2">Antall affiserte regioner:</score>
+        </scores>
+        <verdicts />
+        <groups>
+            <group name="Smertetegning" nameAsForm="true">
+                <question name="Smertetegning" nameAsGroup="true">
+                    <bodymap>
+                        <square x="4" y="11" side="1" />
+                        <square x="4" y="12" side="1" />
+                    </bodymap>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Smertekartlegging fysioprim" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517664" start="06-08-2020 09:29:12" end="06-08-2020 09:29:17" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Pasienten har intermitterende smerte, en eller flere ganger i uken.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Tidsaspekt smerte" nameAsForm="false">
+                <question name="Er smerten kontinuerlig" nameAsGroup="false">
+                    <answer selected="false">Ja, jeg kjenner den hele tiden</answer>
+                    <answer selected="true">Nei, den er av og på</answer>
+                </question>
+                <question name="Er smerten av varierende intensitet?" nameAsGroup="false">
+                    <answer selected="false">Ja</answer>
+                    <answer selected="false">Nei, den er stabil</answer>
+                </question>
+                <question name="Hvordan vil du beskrive smertevariasjonen best?" nameAsGroup="false">
+                    <answer selected="false">Den varierer innenfor døgnet</answer>
+                    <answer selected="false">Den varierer fra dag til dag</answer>
+                    <answer selected="false">Annet</answer>
+                </question>
+                <question name="Hvor ofte har du vanligvis disse smertene?" nameAsGroup="false">
+                    <answer selected="false">Hver dag</answer>
+                    <answer selected="true">En eller flere ganger i uken</answer>
+                    <answer selected="false">En eller flere ganger i måneden</answer>
+                    <answer selected="false">Sjeldnere enn 1 gang i måneden</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Medisinbruk - Fysioprim" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517682" start="06-08-2020 09:29:13" end="06-08-2020 09:29:17" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Smertemedisin den siste uken: ikke brukt.</verdict>
+            <verdict>Daglig medisinbruk: 0.</verdict>
+        </verdicts>
+        <groups>
+            <group name="medisinbruk" nameAsForm="true">
+                <question name="Har du brukt noen medisiner mot smerte i løpet av den siste uken?" nameAsGroup="false">
+                    <answer selected="true">Nei</answer>
+                    <answer selected="false">Ja</answer>
+                </question>
+                <question name="Hvilke medisiner?" nameAsGroup="false">
+                    <answer selected="false">Paracetamol, Paracet, Panodil, Pimol, Pinex eller Perfalgan</answer>
+                    <answer selected="false">Albyl-E (500 mg), Aspirin, Globoid eller Dispril</answer>
+                    <answer selected="false">Ibuprofen, Ibux, Ibuprox, Ibumetin, Brufen, Naproxen, Naprosyn eller Ladox</answer>
+                    <answer selected="false">Andre</answer>
+                </question>
+                <question name="Antall medisiner du bruker daglig:" nameAsGroup="false">
+                    <answer selected="true">0</answer>
+                    <answer selected="false">1- 4</answer>
+                    <answer selected="false">5 eller flere</answer>
+                </question>
+                <question name="Hvilke andre medisiner?" nameAsGroup="false" />
+            </group>
+        </groups>
+    </form>
+    <form Name="Arbeidssituasjon - FYSIOPRIM - Dynamisk" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517692" start="06-08-2020 09:29:11" end="06-08-2020 09:29:18">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Arbeidssituasjon" nameAsForm="false">
+                <question name="Arbeidssituasjon" nameAsGroup="false">
+                    <answer selected="true">I lønnet arbeid</answer>
+                    <answer selected="false">Skoleelev/ student</answer>
+                    <answer selected="false">Pensjonist</answer>
+                    <answer selected="false">Uføretrygdet</answer>
+                    <answer selected="false">Sykmeldt</answer>
+                    <answer selected="false">Arbeidsavklaring</answer>
+                    <answer selected="false">Ulønnet arbeid (eks. hjemme)</answer>
+                    <answer selected="false">Foreldrepermisjon</answer>
+                </question>
+            </group>
+            <group name="Oppfølging arbeidssituasjon" nameAsForm="false">
+                <question name="Angi stillingsprosent" nameAsGroup="false">
+                    <answer>100</answer>
+                </question>
+                <question name="Angi uføregrad" nameAsGroup="false" />
+                <question name="Angi sykmeldingsgrad" nameAsGroup="false" />
+            </group>
+        </groups>
+    </form>
+    <form Name="Arbeidsevne - Fysioprim" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517697" start="06-08-2020 09:29:11" end="06-08-2020 09:29:18">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Arbeidsevne" nameAsForm="false">
+                <question name="Arbeidsevne" nameAsGroup="false">
+                    <answer selected="false">0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="false">6</answer>
+                    <answer selected="false">7</answer>
+                    <answer selected="false">8</answer>
+                    <answer selected="false">9</answer>
+                    <answer selected="true">10</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Mosjon og Trening Fysioprim" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517704" start="06-08-2020 09:29:09" end="06-08-2020 09:29:19" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="15">Fysisk aktivitet indeks:</score>
+        </scores>
+        <verdicts>
+            <verdict>Mosjon og trening (gjennomsnitt): 2 - 3 ganger i uken og tar det hardt i 30 min. - 1 time.</verdict>
+            <verdict>Fysisk aktivitet indeks: Medium (1-20)</verdict>
+            <verdict>Medium (1-20)</verdict>
+        </verdicts>
+        <groups>
+            <group name="Mosjon og Trening" nameAsForm="false">
+                <question name="Hvor ofte driver du mosjon eller trening?" nameAsGroup="false">
+                    <answer selected="false">Aldri</answer>
+                    <answer selected="false">Sjeldnere enn en gang i uken</answer>
+                    <answer selected="false">En gang i uken</answer>
+                    <answer selected="true">2 - 3 ganger i uken</answer>
+                    <answer selected="false">Omtrent hver dag</answer>
+                </question>
+                <question name="Hvor hardt mosjonerer / trener du?" nameAsGroup="false">
+                    <answer selected="false">Tar det rolig uten å bli andpusten eller svett</answer>
+                    <answer selected="true">Tar det så hardt at jeg blir andpusten og svett</answer>
+                    <answer selected="false">Tar meg nesten helt ut</answer>
+                </question>
+                <question name="Hvor lenge holder du på hver gang?" nameAsGroup="false">
+                    <answer selected="false">Mindre enn 15 minutter</answer>
+                    <answer selected="false">15 - 29 minutter</answer>
+                    <answer selected="true">30 minutter - 1 time</answer>
+                    <answer selected="false">Mer enn 1 time</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Hvordan har du det? (HSCL 10)" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517718" start="06-08-2020 09:28:57" end="06-08-2020 09:29:19" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="1">Gjennomsnitt:</score>
+        </scores>
+        <verdicts>
+            <verdict>Score: 1 (1-4) som er under grensen (1.85) for symptomer på psykisk stress.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Hvordan har du det?" nameAsForm="false">
+                <question name="1. Plutselig skremt uten grunn" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="2. Føler du deg svimmel eller kraftesløs" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="3. Føler deg anspent eller opphisset" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="4. Anfall av redsel eller panikk" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="5. Anklager deg selv for ting" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="6. Vanskelig for å sove" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="7. Følelse av håpløshet mhp. framtiden" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="8. Føler deg nedfor" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="9. Føler at alt krever stor anstrengelse" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+                <question name="10. Føler at du ikke er noe verd" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">En god del</answer>
+                    <answer selected="false">Svært mye</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Din opplevelse av endring (Global perceived effect)" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517722" start="06-08-2020 09:29:15" end="06-08-2020 09:29:20" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Din opplevelse av endring" nameAsForm="false">
+                <question name="Siden behandling startet, er jeg :" nameAsGroup="false">
+                    <answer selected="true">Veldig mye bedre</answer>
+                    <answer selected="false">Mye bedre</answer>
+                    <answer selected="false">Minimalt bedre</answer>
+                    <answer selected="false">Uforandret</answer>
+                    <answer selected="false">Minimalt verre</answer>
+                    <answer selected="false">Mye verre</answer>
+                    <answer selected="false">Veldig mye verre</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Pasient compliance FYSIOPRIM" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517729" start="06-08-2020 09:29:14" end="06-08-2020 09:29:20">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Jeg har gjennomført øvelser som anbefalt: Ganske regelmessig.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Pasient compliance" nameAsForm="false">
+                <question name="Har du gjennomført øvelsene som anbefalt av fysioterapeuten?" nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="false">Noe</answer>
+                    <answer selected="true">Ganske regelmessig</answer>
+                    <answer selected="false">Veldig regelmessig</answer>
+                    <answer selected="false">Har ikke fått øvelser av fysioterapeuten</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Fysioprim - behandlingsevaluering" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517730" start="06-08-2020 09:29:08" end="06-08-2020 09:29:20">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts>
+            <verdict>Pasienten har i svært stor grad hatt nytte av fysioterapi</verdict>
+            <verdict>Pasientens forventninger til fysioterapi ble i svært stor grad innfridd.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Behandlingsevaluering" nameAsForm="true">
+                <question name="I hvilken grad ble dine forventninger til fysioterapi innfridd?" nameAsGroup="false">
+                    <answer selected="true">I svært stor grad</answer>
+                    <answer selected="false">I stor grad</answer>
+                    <answer selected="false">I noen grad</answer>
+                    <answer selected="false">I liten grad</answer>
+                    <answer selected="false">I svært liten grad</answer>
+                </question>
+                <question name="I hvilken grad har du hatt nytte av fysioterapibehandling?" nameAsGroup="false">
+                    <answer selected="true">I svært stor grad</answer>
+                    <answer selected="false">I stor grad</answer>
+                    <answer selected="false">I noen grad</answer>
+                    <answer selected="false">I liten grad</answer>
+                    <answer selected="false">I svært liten grad</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="SPØRRESKJEMA OM MUSKEL- OG SKJELETTHELSE (MSK-HQ)" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517749" start="06-08-2020 09:28:14" end="06-08-2020 09:29:20">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="56">Skår</score>
+        </scores>
+        <verdicts />
+        <groups>
+            <group name="SPØRRESKJEMA OM MUSKEL- OG SKJELETTHELSE (MSK-HQ)" nameAsForm="false">
+                <question name="1. Smerte/stivhet i løpet av dagen" nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Ganske intense</answer>
+                    <answer selected="false">Veldig intense</answer>
+                </question>
+                <question name="2. Smerter/stivhet om natten." nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Ganske intense</answer>
+                    <answer selected="false">Veldig intense</answer>
+                </question>
+                <question name="3. Gange" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Har ikke kunnet gå</answer>
+                </question>
+                <question name="4. Vaske seg/påkledning" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Klarer ikke å vaske eller kle på meg</answer>
+                </question>
+                <question name="5. Fysisk aktivitetsnivå" nameAsGroup="false">
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                    <answer selected="true">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ikke vært i stand til å være fysisk aktiv</answer>
+                </question>
+                <question name="6. Arbeid/daglige aktiviteter" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="7. Sosiale aktiviteter og hobbyer" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="8. Behov for hjelp" nameAsGroup="false">
+                    <answer selected="true">Aldri</answer>
+                    <answer selected="false">Sjeldent</answer>
+                    <answer selected="false">Noen ganger</answer>
+                    <answer selected="false">Ofte</answer>
+                    <answer selected="false">Hele tiden</answer>
+                </question>
+                <question name="9. Søvn" nameAsGroup="false">
+                    <answer selected="true">Aldri</answer>
+                    <answer selected="false">Sjeldent</answer>
+                    <answer selected="false">Noen ganger</answer>
+                    <answer selected="false">Ofte</answer>
+                    <answer selected="false">Hver natt</answer>
+                </question>
+                <question name="10. Utmattelse eller lite energi " nameAsGroup="false">
+                    <answer selected="true">Ingen</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="11. Følelsesmessig velvære" nameAsGroup="false">
+                    <answer selected="true">Ingen</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="12. Forståelse av dine helseplager og pågående behandling" nameAsGroup="false">
+                    <answer selected="false">Fullstendig</answer>
+                    <answer selected="true">Veldig godt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                </question>
+                <question name="13. Tro på å mestre symptomene dine" nameAsGroup="false">
+                    <answer selected="false">Ekstremt</answer>
+                    <answer selected="true">Veldig</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Ikke i det hele tatt</answer>
+                </question>
+                <question name="14. Generell påvirkning" nameAsGroup="false">
+                    <answer selected="true">Ikke i det hele tatt</answer>
+                    <answer selected="false">Litt</answer>
+                    <answer selected="false">Moderat</answer>
+                    <answer selected="false">Veldig mye</answer>
+                    <answer selected="false">Ekstremt</answer>
+                </question>
+                <question name="Fysisk aktivitetsnivå" nameAsGroup="false">
+                    <answer selected="false">Ingen dager</answer>
+                    <answer selected="false">1 dag</answer>
+                    <answer selected="false">2 dager</answer>
+                    <answer selected="false">3 dager</answer>
+                    <answer selected="true">4 dager</answer>
+                    <answer selected="false">5 dager</answer>
+                    <answer selected="false">6 dager</answer>
+                    <answer selected="false">7 dager</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Pain Self-Efficacy Questionnaire (PSEQ-2)" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517760" start="06-08-2020 09:29:14" end="06-08-2020 09:29:22" preweb="https://www.infopad.no/Admin/api/PrewebRedirect">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores>
+            <score points="12">Totalskår:</score>
+        </scores>
+        <verdicts>
+            <verdict></verdict>
+            <verdict>Score: 12 (0-12) som indikerer god (8-12) mestringstro.</verdict>
+        </verdicts>
+        <groups>
+            <group name="Smerte" nameAsForm="false">
+                <question name="1. Jeg kan gjøre noen former for arbeid, til tross for smerten (arbeid inkluderer husarbeid og lønnet/ulønnet arbeid)" nameAsGroup="false">
+                    <answer selected="false">Ikke sikker i det hele tatt 0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="true">Helt sikker 6</answer>
+                </question>
+                <question name="2. Jeg kan leve en normal livsstil, til tross for smerten" nameAsGroup="false">
+                    <answer selected="false">Ikke sikker i det hele tatt 0</answer>
+                    <answer selected="false">1</answer>
+                    <answer selected="false">2</answer>
+                    <answer selected="false">3</answer>
+                    <answer selected="false">4</answer>
+                    <answer selected="false">5</answer>
+                    <answer selected="true">Helt sikker 6</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+    <form Name="Hovedmål oppnådd - supportPRIM" Project="SupportPRIM - 6 mnd etter baseline" projectid="249961487" taskid="249973265" id="261517775" start="06-08-2020 09:29:16" end="06-08-2020 09:29:22">
+        <patient medicalOffice="Fredrik Granviken" journalId="3816" birthYear="1984" />
+        <scores />
+        <verdicts />
+        <groups>
+            <group name="Mål" nameAsForm="false">
+                <question name="Mål" nameAsGroup="false">
+                    <answer selected="true">Oppnådd</answer>
+                    <answer selected="false">Delvis oppnådd</answer>
+                    <answer selected="false">Ikke oppnådd</answer>
+                </question>
+            </group>
+        </groups>
+    </form>
+</forms>

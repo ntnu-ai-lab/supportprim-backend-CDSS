@@ -1,0 +1,35 @@
+{
+  "source": {
+    "patient": {
+      "demographics": {
+        "name": {
+          "middle": "",
+          "last": "jaiswal",
+          "first": "amar"
+        },
+        "address": {
+          "street": "ntnu",
+          "home": "99B"
+        },
+        "contact": {
+          "phone": "+4712121212"
+        }
+      }
+    }
+  },
+  "target": {
+    "patient": {
+      "name": {
+        "firstName": "<<patient$demographics$name$first>>",
+        "lastName": "<<patient$demographics$name$last>>"
+      },
+      "address": {
+        "home": "<<patient$demographics$address$home>>",
+        "street": "<<patient$demographics$address$street>>"
+      },
+      "nextToKin": {
+
+      }
+    }
+  }
+}

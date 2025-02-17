@@ -1,0 +1,735 @@
+{
+	"patient": {
+		"pid": "249961487-1506801-1980",
+		"date_time": "",
+		"physio_id": "physio_id",
+		"journal_id": "1506801",
+		"birth_year": "1980",
+		"height": 170,
+		"weight": 78,
+		"bmi": "",
+		"smoking": "Ja",
+		"ethnicity": "Europa med i EU eller EØS",
+		"marital_status": "Gift / Samboer",
+		"sex": "Kvinne",
+		"baseline": {
+			"self": {
+				"date_time": "19-06-2020 08:25:31",
+				"childhood_adolescence_experiences": 1,
+				"comorbidities": {
+					"defined": [
+					    "Revmatisk sykdom",
+						"Hjertesykdom",
+						"Astma/ lungesykdom",
+						"Annet"
+					],
+					"other_details": "Psoriasis"
+				},
+				"pain_interference_in_daily_activity": "Svært redusert",
+				"fear": 2,
+				"treatments_last_year": {
+					"professionals": {
+						"defined": [
+							"other"
+						],
+						"other_details": "soneterapi"
+					},
+					"number_of_treatments": "Mer enn 10"
+				},
+				"work": {
+					"work_situation": [
+						"I lønnet arbeid",
+						"Skoleelev / Student",
+						"Pensjonist",
+						"Uføretrygdet",
+						"Sykmeldt",
+						"Arbeidsavklaring",
+						"Ulønnet arbeid (eks. hjemme/frivillighetsarbeid)",
+						"Arbeidsledig",
+						"Foreldrepermisjon"
+					],
+					"work_ability": 7,
+					"work_type": "For det meste stillesittende arbeid (f.eks skrivebordsarbeid, montering)",
+					"percent_paid_work": "employ_paidp_1",
+					"percent_disability_pension": "employ_disabilityp_1",
+					"percent_sick_leave": "employ_sickp_1"
+				},
+				"education": {
+					"level": "Annet",
+					"other_details": "Livets skole"
+				},
+				"family": {
+					"living_condition": "Eget hjem sammen med andre",
+					"number_of_children": 1
+				},
+				"walking_aid": "ja",
+				"treatment_belief": "Helt enig",
+				"red_flags": {
+					"night_pain": "Ja",
+					"cancer": "Ja"
+				},
+				"health_literacy_info": "Aldri",
+				"health_literacy_self": "Meget dårlig",
+				"eq5d": {
+					"walk": "Jeg har ingen problemer med å gå omkring",
+					"care": "Jeg har ingen problemer med å vaske meg eller kle meg",
+					"adl": "Jeg har ingen problemer med å utføre mine vanlige gjøremål",
+					"pain": "Jeg har verken smerter eller ubehag",
+					"anxiety_depression": "Jeg er verken engstelig eller deprimert"
+				},
+				"quality_of_life_15d": {
+					"q5_sleep": "Jeg har lette søvnproblemer, f.eks. vanskelig for å falle i søvn eller våkner av og til om natten.",
+					"q14_vital": "Jeg føler meg frisk og energisk."
+				},
+				"orebro": {
+					"score": "oreb_score_1",
+					"questions": {
+						"q1": "1 - 2 uker",
+						"q2": 3,
+						"q3": 5,
+						"q4": 5,
+						"q5": 5,
+						"q6": 5,
+						"q7": 5,
+						"q8": "oreb_q8_1",
+						"q9": "oreb_q9_1",
+						"q10": 7
+					}
+				},
+				"pain": {
+					"last_week": {
+						"intensity": 3,
+						"medication": {
+							"used": "Ja",
+							"details": {
+								"number": "medic_number_1",
+								"defined": [
+									"Paracetamol, Paracet, Panodil, Pimol, Pinex eller Perfalgan",
+									"medic_albyle_1",
+									"medic_ibux_1"
+								]
+							}
+						},
+						"pain_site": {
+							"number_of_pain_sites": "painsite_number_1",
+							"regions": {
+								"head": "painsite_head_1",
+								"neck": "painsite_neck_1",
+								"shoulder": "painsite_shou_1",
+								"back_upper": "painsite_uback_1",
+								"elbow": "painsite_elbow_1",
+								"hand": "painsite_hand_1",
+								"thigh": "painsite_thigh_1",
+								"back_lower": "painsite_lback_1",
+								"feet": "painsite_feet_1",
+								"knee": "painsite_knee_1"
+							},
+							"site_map": {
+								"front": [{
+									"x": "",
+									"y": ""
+								}],
+								"back": [{
+									"x": "",
+									"y": ""
+								}]
+							}
+						}
+					},
+					"continuous": "pain_continuous_1",
+					"variation": "Ja",
+					"variation_intensity": "Den varierer innenfor døgnet",
+					"frequency": "_unknown_"
+				},
+				"hscl": {
+					"score": "hscl_score_1",
+					"questions": {
+						"q1": "En god del",
+						"q2": "En god del",
+						"q3": "En god del",
+						"q4": "En god del",
+						"q5": "En god del",
+						"q6": "En god del",
+						"q7": "En god del",
+						"q8": "En god del",
+						"q9": "En god del",
+						"q10": "En god del"
+					}
+				},
+				"physical_activity": {
+					"sum_score": "pa_sum_1",
+					"frequency": "Sjeldnere enn en gang i uken",
+					"intensity": "Tar det rolig uten å bli andpusten eller svett",
+					"duration": "15 - 29 minutter"
+				},
+				"keele_msk_tool": {
+					"risk": "mskt_risk",
+					"questions": {
+						"q1": "mskt_q1_1",
+						"q2": "Nei",
+						"q3": "Ja",
+						"q4": "Ja",
+						"q5": "Ja",
+						"q6": "Ja",
+						"q7": "Ja",
+						"q8": "Ja",
+						"q9": "Nei",
+						"q10": "Nei"
+					}
+				},
+				"msk_hq": {
+					"score": "mskhq_score_1",
+					"questions": {
+						"q1": "Ganske intense",
+						"q2": "Ganske intense",
+						"q3": "Veldig",
+						"q4": "Moderat",
+						"q5": "Moderat",
+						"q6": "Veldig",
+						"q7": "Veldig",
+						"q8": "Ofte",
+						"q9": "Noen ganger",
+						"q10": "Veldig",
+						"q11": "Moderat",
+						"q12": "Moderat",
+						"q13": "Moderat",
+						"q14": "Veldig mye"
+					},
+					"physical_activity": "4 dager"
+				},
+				"pain_self_efficacy": {
+					"score": "pseq_score_1",
+					"questions": {
+						"q1": "Helt sikker 6",
+						"q2": "5"
+					}
+				}
+			},
+			"both": {
+				"date_time": "",
+				"psfs": {
+					"activity_1": {
+						"score": "psfs1_1",
+						"description": "psfs1_act_1"
+					},
+					"activity_2": {
+						"score": "psfs2_1",
+						"description": "psfs2_act_1"
+					},
+					"activity_3": {
+						"score": "psfs3_1",
+						"description": "psfs3_act_1"
+					},
+					"activity_4": {
+						"score": "psfs4_1",
+						"description": "psfs4_act_1"
+					},
+					"activity_5": {
+						"score": "psfs5_1",
+						"description": "psfs5_act_1"
+					}
+				},
+				"treatment_goal": "Å kunne leke med barna",
+				"body_main": "Nakke",
+				"neck_exam": {
+					"reduced_or_painful_moments": "Ja",
+					"reduced_range_of_motion": {
+						"flexion": "true",
+						"extention": "true",
+						"rotation": "true",
+						"lateral_flexion": "true",
+						"no_reduced_range_of_motion": "true"
+					},
+					"pain_with": {
+						"flexion": "true",
+						"extention": "true",
+						"rotation": "true",
+						"lateral_flexion": "true",
+						"no_pain_with_active_moment": "neck_move_pain_not_1"
+					},
+					"spurling_test_positive": "neck_spurling_1",
+					"neurological_signs": {
+						"not_applicable": "true",
+						"defined": {
+							"reduced_power": "true",
+							"reduced_sensibility": "true",
+							"abnormal_reflexes": "true"
+						},
+						"other_details": "utsråling venstre arm"
+					},
+					"assessment_conclusion": "Ingen tegn på alvorlige patologiske forandringer, men med sikker nedsettelse av dagliglivets funksjon",
+					"assessment_comments": "nakkeproblemer etter trafikkulykke"
+				},
+
+				"icpc_letter": "L",
+				"icpc_id": 80,
+				"functional_diagnosis": "Nakkesyndrom"
+			}
+		},
+		"followup": {
+			"month": {
+				"m3": {
+					"self": {
+						"date_time": "",
+						"psfs": {
+							"activity_1": {
+								"score": "psfs1_p_3",
+								"description": "psfs1_act_p_3"
+							},
+							"activity_2": {
+								"score": "psfs2_p_3",
+								"description": "psfs2_act_p_3"
+							},
+							"activity_3": {
+								"score": "psfs3_p_3",
+								"description": "psfs3_act_p_3"
+							},
+							"activity_4": {
+								"score": "psfs4_p_3",
+								"description": "psfs4_act_p_3"
+							},
+							"activity_5": {
+								"score": "psfs5_p_3",
+								"description": "psfs5_act_p_3"
+							}
+						},
+
+						"eq5d": {
+							"walk": "Jeg har ingen problemer med å gå omkring",
+							"care": "Jeg har middels store problemer med å vaske meg eller kle meg",
+							"adl": "Jeg har ingen problemer med å utføre mine vanlige gjøremål",
+							"pain": "Jeg har verken smerter eller ubehag",
+							"anxiety_depression": "Jeg er verken engstelig eller deprimert"
+						},
+						"quality_of_life_15d": {
+							"q5_sleep": "Jeg har lette søvnproblemer, f.eks. vanskelig for å falle i søvn eller våkner av og til om natten.",
+							"q14_vital": "Jeg føler meg frisk og energisk."
+						},
+						"orebro": {
+							"questions": {
+								"q2": "2"
+							}
+						},
+						"pain": {
+							"last_week": {
+								"intensity": "patient.followup.month.m3.self.orebro.questions.q2",
+								"medication": {
+									"used": "medic_3",
+									"details": {
+										"number": "1- 4",
+										"defined": [
+											"medic_paracet_3",
+											"medic_albyle_3",
+											"medic_ibux_3",
+											"medic_other_3"
+										],
+										"other_details": "medic_other_spec_3"
+									}
+								},
+								"pain_site": {
+									"number_of_pain_sites": "painsite_number_3",
+									"regions": {
+										"head": "painsite_head_3",
+										"neck": "painsite_neck_3",
+										"shoulder": "painsite_shou_3",
+										"back_upper": "painsite_uback_3",
+										"elbow": "painsite_elbow_3",
+										"hand": "painsite_hand_3",
+										"thigh": "painsite_thigh_3",
+										"back_lower": "painsite_lback_3",
+										"feet": "painsite_feet_3",
+										"knee": "painsite_knee_3"
+									},
+									"site_map": {
+										"front": [{
+											"x": "",
+											"y": ""
+										}],
+										"back": [{
+											"x": "",
+											"y": ""
+										}]
+									}
+								}
+							},
+							"continuous": "Ja, jeg kjenner den hele tiden",
+							"variation": "Ja",
+							"intensity_variation": "Den varierer innenfor døgnet",
+							"frequency": "_unknown_"
+						},
+						"work": {
+							"work_situation": [
+								"employ_paid_3",
+								"employ_stud_3",
+								"employ_retired_3",
+								"employ_disability_3",
+								"employ_sick_3",
+								"employ_assess_3",
+								"employ_unpaid_3",
+								"employ_unempl_3",
+								"employ_parental_leave_3"
+							],
+							"work_ability": "work_ability_3",
+							"percent_paid_work": "employ_paidp_3",
+							"percent_disability_pension": "employ_disabilityp_3",
+							"percent_sick_leave": "employ_sickp_3"
+						},
+
+						"physical_activity": {
+							"sum_score": "pa_sum_3",
+							"frequency": "Sjeldnere enn en gang i uken",
+							"intensity": "Tar det så hardt at jeg blir andpusten og svett",
+							"duration": "30 minutter - 1 time"
+						},
+
+						"hscl": {
+							"score": "hscl_score_3",
+							"questions": {
+								"q1": "Litt",
+								"q2": "Litt",
+								"q3": "En god del",
+								"q4": "En god del",
+								"q5": "En god del",
+								"q6": "En god del",
+								"q7": "En god del",
+								"q8": "En god del",
+								"q9": "Svært mye",
+								"q10": "Svært mye"
+							}
+						},
+
+						"global_perceived_effect": "gpe_3",
+						"treatment_benefit": "I stor grad",
+						"treatment_expectations": "I svært stor grad",
+						"therapist_assesment": {
+							"understood_me": "Nøytral ",
+							"faith_in_therapist": "Sterkt uenig ",
+							"pleased_with_therapist": "Sterkt uenig "
+						},
+
+						"compliance": "Noe",
+
+						"msk_hq": {
+							"score": "mskhq_score_3",
+							"questions": {
+								"q1": "Veldig intense",
+								"q2": "Veldig intense",
+								"q3": "Har ikke kunnet gå",
+								"q4": "Veldig",
+								"q5": "Veldig",
+								"q6": "Veldig",
+								"q7": "Veldig",
+								"q8": "Ofte",
+								"q9": "Ofte",
+								"q10": "Moderat",
+								"q11": "Veldig",
+								"q12": "Moderat",
+								"q13": "Litt",
+								"q14": "Veldig mye"
+							},
+							"physical_activity": "4 dager"
+						},
+
+						"pain_self_efficacy": {
+							"score": "pseq_score_3",
+							"questions": {
+								"q1": "pseq_q1_3",
+								"q2": "pseq_q2_3"
+							}
+						},
+
+						"goal_evaluation": "Delvis oppnådd",
+						"imp_factors_for_treatment": "fysioterapi"
+					},
+					"both": {
+						"psfs": {
+							"activity_1": {
+								"score": "psfs1_3",
+								"description": "psfs1_act_3"
+							},
+							"activity_2": {
+								"score": "psfs2_3",
+								"description": "psfs2_act_3"
+							},
+							"activity_3": {
+								"score": "psfs3_3",
+								"description": "psfs3_act_3"
+							},
+							"activity_4": {
+								"score": "psfs4_3",
+								"description": "psfs4_act_3"
+							},
+							"activity_5": {
+								"score": "psfs5_3",
+								"description": "psfs5_act_3"
+							}
+						},
+						"goal_evaluation": "eval_goal_3",
+						"imp_factors_for_treatment": "treatmentfactor_patient_3",
+						"treatment_termination_cause": {
+							"defined": {
+								"end_patient_3":"true",
+								"end_effect_3":"true",
+								"end_noeffect_3":"true",
+								"end_followup_3":"true",
+								"end_move_3":"true",
+								"end_medic_3":"true",
+								"end_death_3":"true",
+								"end_other_3":"true"
+							},
+							"other_details": ""
+						},
+						"treatment_continue": "Nei",
+						"number_of_consultations": "consultation_3"
+					}
+				}
+			}
+		},
+		"treatment": {
+			"date_time": "",
+			"advice": {
+				"date_time": "",
+				"1_rest": "Ikke",
+				"2_pa": "Noe",
+				"3_fear": "Noe",
+				"4_selfman": "Noe",
+				"5_work": "Noe",
+				"6_sleep": "Noe",
+				"7_weight": "Noe",
+				"8_social": "Noe",
+				"9_distress": "Noe",
+				"10_expect": "Mye"
+			},
+			"active": {
+				"date_time": "",
+				"1_strength": "Noe",
+				"2_cardio": "Noe",
+				"3_balance": "Noe",
+				"4_stretch": "Noe",
+				"5_posture": "Noe",
+				"6_general": "Mye"
+			},
+			"home_exercise": "Noe",
+			"passive": {
+				"date_time": "",
+				"1_massage": "Noe",
+				"2_joint": "Noe",
+				"3_stretch": "Noe",
+				"4_trigger": "Noe",
+				"5_shockwave": "Noe"
+			},
+			"setting": {
+				"treat_setting_individual": "Mye",
+				"treat_setting_group": "Mye",
+				"treat_setting_self": "Mye"
+			},
+			"therapist_specification": "Allmenn fysioterapeut 	",
+			"other_health_professionals": {
+				"treat_discuss_gp_3":"Ja",
+				"treat_discuss_specialist_3":"Ja",
+				"treat_discuss_psycho_3":"Ja",
+				"treat_discuss_physio_3":"Ja",
+				"treat_discuss_other_3":"Ja"
+			},
+			"other_direct_contact": {
+				"treat_contact_nav_3":"Ja",
+				"treat_contact_occup_3":"Ja",
+				"treat_contact_employ_3":"Ja",
+				"treat_contact_family_3":"Ja"
+			},
+			"therapist_notes": {
+				"date_time": "",
+				"treatment_reprocucibility_description": "Å lytte til pasienten",
+				"background_info": "samtale og trening",
+				"treatment_administered": "fysioterapi"
+			}
+		},
+		"sms": {
+			"week": {
+				"w1": {
+					"date_time": "",
+					"status": {
+						"not_completed": {
+							"date_time": ""
+						},
+						"sent": {
+							"date_time": ""
+						},
+						"completed": {
+							"date_time": ""
+						}
+
+					},
+					"psfs": {
+						"activity_1": {
+							"score": "psfs1_w1",
+							"description": "psfs1_act_w1"
+						},
+						"activity_2": {
+							"score": "psfs2_w1",
+							"description": "psfs2_act_w1"
+						},
+						"activity_3": {
+							"score": "psfs3_w1",
+							"description": "psfs3_act_w1"
+						}
+					},
+					"work": {
+						"work_ability": "work_ability_w1"
+					}
+				},
+				"w2": {
+					"date_time": "",
+					"status": {
+						"not_completed": {
+							"date_time": ""
+						},
+						"sent": {
+							"date_time": ""
+						},
+						"completed": {
+							"date_time": ""
+						}
+					},
+					"psfs": {
+						"activity_1": {
+							"score": "psfs1_w2",
+							"description": "psfs1_act_w2"
+						},
+						"activity_2": {
+							"score": "psfs2_w2",
+							"description": "psfs2_act_w2"
+						},
+						"activity_3": {
+							"score": "psfs3_w2",
+							"description": "psfs3_act_w2"
+						}
+					},
+					"work": {
+						"work_ability": "work_ability_w2"
+					},
+					"orebro": {
+						"questions": {
+							"q2": 8
+						}
+					},
+					"pain_self_efficacy": {
+						"score": "pseq_score_w2",
+						"questions": {
+							"q1": "pseq_q1_w2",
+							"q2": "pseq_q2_w2"
+						}
+					},
+					"global_perceived_effect": "gpe_w2"
+				},
+				"w3": {
+					"date_time": "",
+					"status": {
+						"not_completed": {
+							"date_time": ""
+						},
+						"sent": {
+							"date_time": ""
+						},
+						"completed": {
+							"date_time": ""
+						}
+					},
+					"psfs": {
+						"activity_1": {
+							"score": "psfs1_w3",
+							"description": "psfs1_act_w3"
+						},
+						"activity_2": {
+							"score": "psfs2_w3",
+							"description": "psfs2_act_w3"
+						},
+						"activity_3": {
+							"score": "psfs3_w3",
+							"description": "psfs3_act_w3"
+						}
+					},
+					"work": {
+						"work_ability": "work_ability_w1"
+					}
+				},
+				"w4": {
+					"date_time": "",
+					"status": {
+						"not_completed": {
+							"date_time": ""
+						},
+						"sent": {
+							"date_time": ""
+						},
+						"completed": {
+							"date_time": ""
+						}
+					},
+					"psfs": {
+						"activity_1": {
+							"score": "psfs1_w4",
+							"description": "psfs1_act_w4"
+						},
+						"activity_2": {
+							"score": "psfs2_w4",
+							"description": "psfs2_act_w4"
+						},
+						"activity_3": {
+							"score": "psfs3_w4",
+							"description": "psfs3_act_w4"
+						}
+					},
+					"work": {
+						"work_ability": "work_ability_w4"
+					},
+					"global_perceived_effect": "gpe_w4"
+				},
+				"w8": {
+					"date_time": "",
+					"status": {
+						"not_completed": {
+							"date_time": ""
+						},
+						"sent": {
+							"date_time": ""
+						},
+						"completed": {
+							"date_time": ""
+						}
+					},
+					"psfs": {
+						"activity_1": {
+							"score": "psfs1_w8",
+							"description": "psfs1_act_w8"
+						},
+						"activity_2": {
+							"score": "psfs2_w8",
+							"description": "psfs2_act_w8"
+						},
+						"activity_3": {
+							"score": "psfs3_w8",
+							"description": "psfs3_act_w8"
+						}
+					},
+					"work": {
+						"work_ability": "work_ability_w8"
+					},
+					"orebro": {
+						"questions": {
+							"q2": 7
+						}
+					},
+					"pain_self_efficacy": {
+						"score": "pseq_score_w8",
+						"questions": {
+							"q1": "pseq_q1_w8",
+							"q2": "pseq_q2_w8"
+						}
+					},
+					"global_perceived_effect": "gpe_w8"
+				}
+			}
+		}
+	}
+}

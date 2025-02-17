@@ -1,0 +1,273 @@
+{
+   "scale_integer_ordinal": {
+      "_version": "0.0.1",
+      "_datatype": ["integer", "decimal", "keywords", "string", "list", "object"],
+      "_statistical_datatype" : ["nominal", "ordinal", "discrete", "continuous"],
+      "_type_of_scale": {
+         "datatype": "integer",
+         "statistical_datatype": "ordinal",
+      },
+      "work_type": {
+         "short_info": "Type of Work",
+         "description": "Description of the type of work,blue or white collar",
+         "min": "1",
+         "max": "4",
+         "mapping":{
+            "1": "mostly seated",
+            "2": "work demanded much walking",
+            "3": "work demanded much walking and lifting",
+            "4": "heavy work using the body"
+         }
+      },
+      "childhood": {
+         "short_info": "Childhood",
+         "description": "Childhood and adolescence experiences",
+         "min": "1",
+         "max": "5",
+         "mapping":{
+            "1": "Very Good",
+            "2": "Good",
+            "3": "Moderate",
+            "4": "difficult",
+            "5": "Very difficult"
+         }
+      },
+      "pain_in_daily_activity": {
+         "short_info": "Pain in Daily Activity Level",
+         "description": "Pain interference in daily activity level",
+         "min": "1",
+         "max": "4",
+         "mapping":{
+            "1": "Very Reduced",
+            "2": "Quite Reduced",
+            "3": "Slightly Reduced",
+            "4": "Not Reduced"
+         }
+      },
+      "education": {
+         "short_info": "Education",
+         "description": "Level of Education",
+         "min": "1",
+         "max": "5",
+         "mapping":{
+            "1": "Primary School",
+            "2": "High School",
+            "3": "Up to 4 Year Higher Education",
+            "4": "More than 4 Year Higher Education",
+            "5": "other"
+         }
+      },
+      "marital_status": {
+         "short_info": "Marital Status",
+         "description": "Marital Status",
+         "min": "1",
+         "max": "4",
+         "mapping":{
+            "1": "married",
+            "2": "divorced",
+            "3": "widow or widower",
+            "4": "single"
+         }
+      },
+      "living_situation": {
+         "short_info": "Living Situation",
+         "description": "Living situation at home",
+         "min": "1",
+         "max": "3",
+         "mapping":{
+            "1": "own home alone",
+            "2": "own home together with others",
+            "3": "institution"
+         }
+      },
+      "treatment_belief": {
+         "short_info": "Treatment beliefs",
+         "description": "Believe that physiotherapy will improve my function",
+         "min": "1",
+         "max": "5",
+         "mapping":{
+            "1": "totally agree",
+            "2": "agree",
+            "3": "neither agree or disagree",
+            "4": "disagree",
+            "5": "totally disagree"
+         }
+      },
+      "health_literacy": {
+         "short_info": "Self Health literacy Level",
+         "description": "Do you think you have a good understanding of your current health situation (possibilities and limitations)?",
+         "min": "1",
+         "max": "5",
+         "mapping":{
+            "1": "very bad",
+            "2": "bad",
+            "3": "neither good or bad",
+            "4": "good",
+            "5": "very good"
+         }
+      },
+      "eq5d5l_walk": {
+         "short_info": "Problem with mobility",
+         "description": "Do you have problems in walking about",
+         "extra_info": "EQ-5D-5L is a standardized instrument for measuring generic health status.",
+         "min": "1",
+         "max": "5",
+         "mapping":{
+            "1": "no",
+            "2": "slight",
+            "3": "moderate",
+            "4": "severe",
+            "5": "unable"
+         }
+      },
+      "eq5d5l_self_care": {
+         "short_info": "Problems with Self-Care",
+         "description": "Do you have problems in washing or dressing yourself",
+         "extra_info": "EQ-5D-5L is a standardized instrument for measuring generic health status.",
+         "min": "1",
+         "max": "5",
+         "mapping":{
+            "1": "no",
+            "2": "slight",
+            "3": "moderate",
+            "4": "severe",
+            "5": "unable"
+         }
+      },
+      "eq5d5l_usual_activities": {
+         "short_info": "Problems with Activity of Daily Living",
+         "description": "Do you have problems in doing your usual activities, like work, study, housework, family or leisure activities",
+         "extra_info": "EQ-5D-5L is a standardized instrument for measuring generic health status.",
+         "min": "1",
+         "max": "5",
+         "mapping":{
+            "1": "no",
+            "2": "slight",
+            "3": "moderate",
+            "4": "severe",
+            "5": "unable"
+         }
+      },
+      "eq5d5l_pain_discomfort": {
+         "short_info": "Pain or Discomfort",
+         "description": "Do you have pain or discomfort",
+         "extra_info": "EQ-5D-5L is a standardized instrument for measuring generic health status.",
+         "min": "1",
+         "max": "5",
+         "mapping":{
+            "1": "no",
+            "2": "slight",
+            "3": "moderate",
+            "4": "severe",
+            "5": "extreme"
+         }
+      },
+      "eq5d5l_anxiety_depression": {
+         "short_info": "Anxiety or Depression",
+         "description": "Do you have anxiety or depression",
+         "extra_info": "EQ-5D-5L is a standardized instrument for measuring generic health status.",
+         "min": "1",
+         "max": "5",
+         "mapping":{
+            "1": "no",
+            "2": "slightly",
+            "3": "moderately",
+            "4": "severely",
+            "5": "extremely"
+         }
+      },
+      "qol15_q5_sleeping": {
+         "short_info": "Problems with Sleeping",
+         "description": "Do you have problems with sleeping",
+         "extra_info": "qol15d is a quality of life questionnaires",
+         "min": "1",
+         "max": "5",
+         "mapping":{
+            "1": "no",
+            "2": "slight",
+            "3": "moderate",
+            "4": "great",
+            "5": "severe"
+         }
+      },
+      "qol15_q14_vitality": {
+         "short_info": "Problems with Vitality",
+         "description": "Description of vitality",
+         "extra_info": "qol15d is a quality of life questionnaires",
+         "min": "1",
+         "max": "5",
+         "mapping":{
+            "1": "healthy_and_energetic",
+            "2": "slightly_weary_tired",
+            "3": "moderate_weary_tired",
+            "4": "very_weary_tired_exhausted",
+            "5": "extremely_weary_tired_exhausted"
+         }
+      },
+      "orebro_q1_pain_duration": {
+         "short_info": "Pain Duration",
+         "description": "How long have you had your current pain problem?",
+         "extra_info": "Orebro Musculoskeletal Pain Screening Questionnaire -  short. The Orebro Musculoskeletal Pain Screening Questionnaire was developed by professor Linton and colleagues in 1997. Since then, it has been used in many different settings and translated to different languages. The Orebro questionnaire has been modified to include only 10 items (as compared to the original version including 25 items).",
+         "min": "1",
+         "max": "10",
+         "mapping":{
+            "1" : "0_to_1_weeks",
+            "2" : "1_to_2_weeks",
+            "3" : "3_to_4_weeks",
+            "4" : "4_to_5_weeks",
+            "5" : "6_to_8_weeks",
+            "6" : "9_to_11_weeks",
+            "7" : "3_to_6_months",
+            "8" : "6_to_9_months",
+            "9" : "9_to_12_months",
+            "10" : "over_1_year"
+         }
+      },
+      "pain_variation_desc": {
+         "short_info": "Description of Pain Variation",
+         "description": "How does the pain vary?",
+         "min": "1",
+         "max": "3",
+         "mapping":{
+            "1": "varies_within_the_day",
+            "2": "varies_from_day_to_day",
+            "3": "other"
+         }
+      },
+      "pain_frequency": {
+         "short_info": "Pain Frequency",
+         "description": "Occurance frequency of the Pain",
+         "min": "1",
+         "max": "4",
+         "mapping":{
+            "1": "every_day",
+            "2": "once_or_several_times_per_week",
+            "3": "once_or_several_times_per_month",
+            "4": "less_than_once_per_month"
+         }
+      },
+      "pain_frequency": {
+         "short_info": "Pain Frequency",
+         "description": "Occurance frequency of the Pain",
+         "min": "1",
+         "max": "4",
+         "mapping":{
+            "1": "every_day",
+            "2": "once_or_several_times_per_week",
+            "3": "once_or_several_times_per_month",
+            "4": "less_than_once_per_month"
+         }
+      },
+      "number_of_medics": {
+         "short_info": "Number of Daily Medications",
+         "description": "Number of medications per day",
+         "min": "0",
+         "max": "2",
+         "mapping":{
+            "0": "0",
+            "1": "1_to_4",
+            "2": "5_or_more",
+         }
+      },
+   }
+}

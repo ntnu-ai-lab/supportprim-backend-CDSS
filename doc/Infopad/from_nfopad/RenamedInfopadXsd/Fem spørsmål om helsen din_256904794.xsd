@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="forms">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="form">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="patient">
+                <xs:complexType>
+                  <xs:attribute name="medicalOffice" type="xs:string" use="required" />
+                  <xs:attribute name="journalId" type="xs:unsignedByte" use="required" />
+                  <xs:attribute name="birthYear" type="xs:unsignedShort" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="scores" />
+              <xs:element name="verdicts">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="verdict" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="groups">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="group">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="question">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element maxOccurs="unbounded" name="answer">
+                                  <xs:complexType>
+                                    <xs:simpleContent>
+                                      <xs:extension base="xs:string">
+                                        <xs:attribute name="selected" type="xs:boolean" use="required" />
+                                      </xs:extension>
+                                    </xs:simpleContent>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                              <xs:attribute name="name" type="xs:string" use="required" />
+                              <xs:attribute name="nameAsGroup" type="xs:boolean" use="required" />
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="name" type="xs:string" use="required" />
+                        <xs:attribute name="nameAsForm" type="xs:boolean" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="Name" type="xs:string" use="required" />
+            <xs:attribute name="Project" type="xs:string" use="required" />
+            <xs:attribute name="projectid" type="xs:unsignedInt" use="required" />
+            <xs:attribute name="taskid" type="xs:unsignedInt" use="required" />
+            <xs:attribute name="id" type="xs:unsignedInt" use="required" />
+            <xs:attribute name="start" type="xs:string" use="required" />
+            <xs:attribute name="end" type="xs:string" use="required" />
+            <xs:attribute name="preweb" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="projectnumber" type="xs:unsignedInt" use="required" />
+      <xs:attribute name="NextToken" type="xs:string" use="required" />
+      <xs:attribute name="firstid" type="xs:unsignedInt" use="required" />
+      <xs:attribute name="lastid" type="xs:unsignedInt" use="required" />
+      <xs:attribute name="totalforms" type="xs:unsignedByte" use="required" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

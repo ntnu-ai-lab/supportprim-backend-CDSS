@@ -1,0 +1,105 @@
+{
+   "config":{
+	   "date": "23.06.2020",
+	   "version": "0.1",
+       "scale": {
+		   "datatype": "integer",
+		   "statistical_datatype": "discrete",
+       },
+	   "scaleRange": {
+	       "datatype": ["integer", "decimal", "keywords", "string", "list", "object"],
+	       "statistical_datatype" : ["nominal", "ordinal", "discrete", "continuous"]
+	   }
+   },
+   "attributes":{   
+      "orebro_q2_pain_last_week": {
+         "short_info": "Pain Level Last Week",
+         "description": "How would you rate the pain that you have had during the past week?",
+         "extra_info": "Orebro Musculoskeletal Pain Screening Questionnaire -  short. The Orebro Musculoskeletal Pain Screening Questionnaire was developed by professor Linton and colleagues in 1997. Since then, it has been used in many different settings and translated to different languages. The Orebro questionnaire has been modified to include only 10 items (as compared to the original version including 25 items).",
+         "min": "0",
+         "max": "10",
+         "min_label": "no_pain",
+         "max_label": "pain_as_bad_as_it_could_be"
+      },
+      "orebro_q3_light_work": {
+         "short_info": "Light Work for an Hour",
+         "description": "I can do light work for an hour.",
+         "extra_info": "Orebro Musculoskeletal Pain Screening Questionnaire -  short. The Orebro Musculoskeletal Pain Screening Questionnaire was developed by professor Linton and colleagues in 1997. Since then, it has been used in many different settings and translated to different languages. The Orebro questionnaire has been modified to include only 10 items (as compared to the original version including 25 items).",
+         "min": "0",
+         "max": "10",
+         "min_label": "cannot_do_due_to_pain",
+         "max_label": "can_do_without_pain_beiing_a_problem"
+      },
+      "orebro_q4_sleep": {
+         "short_info": "Sleep at Night",
+         "description": "I can sleep at night.",
+         "extra_info": "Orebro Musculoskeletal Pain Screening Questionnaire -  short. The Orebro Musculoskeletal Pain Screening Questionnaire was developed by professor Linton and colleagues in 1997. Since then, it has been used in many different settings and translated to different languages. The Orebro questionnaire has been modified to include only 10 items (as compared to the original version including 25 items).",
+         "min": "0",
+         "max": "10",
+         "min_label": "cannot_sleep_due_to_pain",
+         "max_label": "can_sleep_without_pain_beiing_a_problem"
+      },
+      "orebro_q5_anxiety_last_week": {
+         "short_info": "Tense or Anxiety Past Week",
+         "description": "How tense or anxious have you felt in the past week?",
+         "extra_info": "Orebro Musculoskeletal Pain Screening Questionnaire -  short. The Orebro Musculoskeletal Pain Screening Questionnaire was developed by professor Linton and colleagues in 1997. Since then, it has been used in many different settings and translated to different languages. The Orebro questionnaire has been modified to include only 10 items (as compared to the original version including 25 items).",
+         "min": "0",
+         "max": "10",
+         "min_label": "absolutely_calm_and_relaxed",
+         "max_label": "as_tense_and_anxious_as_ever_i_felt"
+      },
+      "orebro_q6_depression_last_week": {
+         "short_info": "Feeling of Depression Last Week",
+         "description": "How much have you been bothered by feeling depressed in the past week?",
+         "extra_info": "Orebro Musculoskeletal Pain Screening Questionnaire -  short. The Orebro Musculoskeletal Pain Screening Questionnaire was developed by professor Linton and colleagues in 1997. Since then, it has been used in many different settings and translated to different languages. The Orebro questionnaire has been modified to include only 10 items (as compared to the original version including 25 items).",
+         "min": "0",
+         "max": "10",
+         "min_label": "not_at_all",
+         "max_label": "extremely"
+      },
+      "orebro_q7_risk_of_pain_persistence": {
+         "short_info": "Opinion on Risk of the Pain Persistence",
+         "description": "In your view, how large is the risk that your current pain may become persistent?",
+         "extra_info": "Orebro Musculoskeletal Pain Screening Questionnaire -  short. The Orebro Musculoskeletal Pain Screening Questionnaire was developed by professor Linton and colleagues in 1997. Since then, it has been used in many different settings and translated to different languages. The Orebro questionnaire has been modified to include only 10 items (as compared to the original version including 25 items).",
+         "min": "0",
+         "max": "10",
+         "min_label": "no_risk",
+         "max_label": "very_large_risk"
+      },
+      "orebro_q8_chance_of_normal_work": {
+         "short_info": "Estimation of chances of Normal Work",
+         "description": "In your estimation, what are the chances you will be working your normal duties in 3 months.",
+         "extra_info": "Orebro Musculoskeletal Pain Screening Questionnaire -  short. The Orebro Musculoskeletal Pain Screening Questionnaire was developed by professor Linton and colleagues in 1997. Since then, it has been used in many different settings and translated to different languages. The Orebro questionnaire has been modified to include only 10 items (as compared to the original version including 25 items).",
+         "min": "0",
+         "max": "10",
+         "min_label": "no_chance",
+         "max_label": "very_large_chance"
+      },
+      "orebro_q9_avoidance_due_to_pain": {
+         "short_info": "Avoidance of Work due to Pain",
+         "description": "An increase in pain is an indication that I should stop what I’m doing until the pain decreases.",
+         "extra_info": "Orebro Musculoskeletal Pain Screening Questionnaire -  short. The Orebro Musculoskeletal Pain Screening Questionnaire was developed by professor Linton and colleagues in 1997. Since then, it has been used in many different settings and translated to different languages. The Orebro questionnaire has been modified to include only 10 items (as compared to the original version including 25 items).",
+         "min": "0",
+         "max": "10",
+         "min_label": "completely_disagree",
+         "max_label": "completely_agree"
+      },
+      "orebro_q10_complete_avoidance": {
+         "short_info": "Not performing normal Work with Current Pain",
+         "description": "I should not do my normal work with my present pain.",
+         "extra_info": "Orebro Musculoskeletal Pain Screening Questionnaire -  short. The Orebro Musculoskeletal Pain Screening Questionnaire was developed by professor Linton and colleagues in 1997. Since then, it has been used in many different settings and translated to different languages. The Orebro questionnaire has been modified to include only 10 items (as compared to the original version including 25 items).",
+         "min": "0",
+         "max": "10",
+         "min_label": "completely_disagree",
+         "max_label": "completely_agree"
+      },
+      "pain_sites": {
+         "short_info": "Number of Pain Site",
+         "description": "Number of pain sites",
+         "min": "0",
+         "max": "10",
+         "min_label": "no_pain_site",
+         "max_label": "10_pain_sites"
+      },
+   }
+}

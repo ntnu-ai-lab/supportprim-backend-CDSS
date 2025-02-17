@@ -1,0 +1,757 @@
+{
+	"patient": {
+		"pid": 0,
+		"date_time": "",
+		"physio_id": "physio_id",
+		"journal_id": "journal_id",
+		"birth_year": "birth_year",
+		"height": "height",
+		"weight": "weight",
+		"bmi": "",
+		"smoking": "smoking",
+		"ethnicity": "ethnicity_1",
+		"marital_status": "marital_1",
+		"sex": "gender",
+		"baseline": {
+			"self": {
+				"date_time": "",
+				"childhood_adolescence_experiences": "childhood_1",
+				"comorbidities": {
+					"defined": [
+						"como_ra_1",
+						"como_heart_1",
+						"como_asthma_1",
+						"como_neuro_1",
+						"como_cancer_1",
+						"como_psych_1",
+						"como_dementhia_1",
+						"como_osteoporosis_1",
+						"como_diabetes_1",
+						"como_stomach_pain_1",
+						"como_headache_1",
+						"como_fatigue_1",
+						"como_other_1"
+					],
+					"other_details": ""
+				},
+				"pain_interference_in_daily_activity": "activity_1",
+				"fear": "fear_1",
+				"treatments_last_year": {
+					"physios": {
+						"defined": [
+							"treat12m_none_1",
+							"treat12m_gp_1",
+							"treat12m_special_1",
+							"treat12m_chiro_1",
+							"treat12m_manp_1",
+							"treat12m_psychp_1",
+							"treat12m_physio_1",
+							"treat12m_psych_1",
+							"treat12m_alt_1",
+							"treat12m_other_1"
+						],
+						"other_details": "treat12m_othersp_1"
+					},
+					"number_of_treatments": "treat12m_othersp_1"
+				},
+				"work": {
+					"work_situation": [
+						"employ_paid_1",
+						"employ_stud_1",
+						"employ_retired_1",
+						"employ_disability_1",
+						"employ_sick_1",
+						"employ_assess_1",
+						"employ_unpaid_1",
+						"employ_unempl_1",
+						"employ_parental_leave_1"
+					],
+					"work_ability": "work_ability_1",
+					"work_type": "work_type_1",
+					"percent_paid_work": "employ_paidp_1",
+					"percent_disability_pension": "employ_disabilityp_1",
+					"percent_sick_leave": "employ_sickp_1"
+				},
+				"education": {
+					"level": "education_1",
+					"other_details": "education_1"
+				},
+				"family": {
+					"living_condition": "family_1",
+					"number_of_children": "family_child_1"
+				},
+				"walking_aid": "walk_aid_1",
+				"treatment_belief": "treat_belief_1",
+				"red_flags": {
+					"night_pain": "red_flag_nightpain_1",
+					"cancer": "red_flag_cancer_1",
+					"weight": "red_flag_weight_1",
+					"urination": "red_flag_weight_1"
+				},
+				"health_literacy_info": "health_lit_info_1",
+				"health_literacy_self": "health_lit_sit_1",
+				"eq5d": {
+					"walk": "eq5d_walk_1",
+					"care": "eq5d_care_1",
+					"adl": "eq5d_ald_1",
+					"pain": "eq5d_pain_1",
+					"anxiety_depression": "eq5d_depr_1"
+				},
+				"quality_of_life_15d": {
+					"q5_sleep": "qol15d_q5_sleep_1",
+					"q14_vital": "qol15d_q14_vital_1"
+				},
+				"orebro": {
+					"score": "oreb_score_1",
+					"questions": {
+						"q1": "oreb_q1_1",
+						"q2": "oreb_q2_1",
+						"q3": "oreb_q3_1",
+						"q4": "oreb_q4_1",
+						"q5": "oreb_q5_1",
+						"q6": "oreb_q6_1",
+						"q7": "oreb_q7_1",
+						"q8": "oreb_q8_1",
+						"q9": "oreb_q9_1",
+						"q10": "oreb_q10_1"
+					}
+				},
+				"pain": {
+					"last_week": {
+						"intensity": "patient.baseline.orebro.questions.q2",
+						"medication": {
+							"used": "medic_1",
+							"details": {
+								"number": "medic_number_1",
+								"defined": [
+									"medic_paracet_1",
+									"medic_albyle_1",
+									"medic_ibux_1",
+									"medic_other_1"
+								],
+								"other_details": "medic_other_spec_1"
+							}
+						},
+						"pain_site": {
+							"number_of_pain_sites": "painsite_number_1",
+							"regions": {
+								"head": "painsite_head_1",
+								"neck": "painsite_neck_1",
+								"shoulder": "painsite_shou_1",
+								"back_upper": "painsite_uback_1",
+								"elbow": "painsite_elbow_1",
+								"hand": "painsite_hand_1",
+								"thigh": "painsite_thigh_1",
+								"back_lower": "painsite_lback_1",
+								"feet": "painsite_feet_1",
+								"knee": "painsite_knee_1"
+							},
+							"site_map": {
+								"front": [{
+									"x": "",
+									"y": ""
+								}],
+								"back": [{
+									"x": "",
+									"y": ""
+								}]
+							}
+						}
+					},
+					"continuous": "pain_continuous_1",
+					"variation": "pain_vary_1",
+					"intensity_variation": "pain_variation_1",
+					"frequency": "pain_freq_1"
+				},
+				"hscl": {
+					"score": "hscl_score_1",
+					"questions": {
+						"q1": "hscl_q1_1",
+						"q2": "hscl_q2_1",
+						"q3": "hscl_q3_1",
+						"q4": "hscl_q4_1",
+						"q5": "hscl_q5_1",
+						"q6": "hscl_q6_1",
+						"q7": "hscl_q7_1",
+						"q8": "hscl_q8_1",
+						"q9": "hscl_q9_1",
+						"q10": "hscl_q10_1"
+					}
+				},
+				"physical_activity": {
+					"sum_score": "pa_sum_1",
+					"frequency": "pa_freq_1",
+					"intensity": "pa_int_1",
+					"duration": "pa_dur_1"
+				},
+				"keele_msk_tool": {
+					"risk": "mskt_risk",
+					"questions": {
+						"q1": "mskt_q1_1",
+						"q2": "mskt_q2_1",
+						"q3": "mskt_q3_1",
+						"q4": "mskt_q4_1",
+						"q5": "mskt_q5_1",
+						"q6": "mskt_q6_1",
+						"q7": "mskt_q7_1",
+						"q8": "mskt_q8_1",
+						"q9": "mskt_q9_1",
+						"q10": "mskt_q10_1"
+					}
+				},
+				"msk_hq": {
+					"score": "mskhq_score_1",
+					"questions": {
+						"q1": "mskhq_q1_1",
+						"q2": "mskhq_q2_1",
+						"q3": "mskhq_q3_1",
+						"q4": "mskhq_q4_1",
+						"q5": "mskhq_q5_1",
+						"q6": "mskhq_q6_1",
+						"q7": "mskhq_q7_1",
+						"q8": "mskhq_q8_1",
+						"q9": "mskhq_q9_1",
+						"q10": "mskhq_q10_1",
+						"q11": "mskhq_q11_1",
+						"q12": "mskhq_q12_1",
+						"q13": "mskhq_q13_1",
+						"q14": "mskhq_q14_1"
+					},
+					"physical_activity": "mskhq_pa_1"
+				},
+				"pain_self_efficacy": {
+					"score": "pseq_score_1",
+					"questions": {
+						"q1": "pseq_q1_1",
+						"q2": "pseq_q2_1"
+					}
+				}
+			},
+			"both": {
+				"date_time": "",
+				"psfs": {
+					"activity_1": {
+						"score": "psfs1_1",
+						"description": "psfs1_act_1"
+					},
+					"activity_2": {
+						"score": "psfs2_1",
+						"description": "psfs2_act_1"
+					},
+					"activity_3": {
+						"score": "psfs3_1",
+						"description": "psfs3_act_1"
+					},
+					"activity_4": {
+						"score": "psfs4_1",
+						"description": "psfs4_act_1"
+					},
+					"activity_5": {
+						"score": "psfs5_1",
+						"description": "psfs5_act_1"
+					}
+				},
+				"treatment_goal": "treat_goal_1",
+				"body_main": "body_main_1",
+				"neck": {
+					"reduced_or_painful_moments": "neck_active_move_1",
+					"reduced_range_of_motion": {
+						"flexion": "neck_active_rom_flex_1",
+						"extention": "neck_active_rom_ext_1",
+						"rotation": "neck_active_rom_rot_1",
+						"lateral_flexion": "neck_active_rom_lat_1",
+						"no_reduced_range_of_motion": "neck_active_rom_not_1"
+					},
+					"pain_with": {
+						"flexion": "neck_active_pain_flex_1",
+						"extention": "neck_active_pain_ext_1",
+						"rotation": "neck_active_pain_rot_1",
+						"lateral_flexion": "neck_active_pain_lat_1",
+						"no_pain_with_active_moment": "neck_active_pain_not_1"
+					},
+					"spurling_test_positive": "neck_spurling_1",
+					"neurological_signs": {
+						"not_applicable": "neck_nevro_not_1",
+						"defined": {
+							"reduced_power": "neck_nevro_pow_1",
+							"reduced_sensibility": "neck_nevro_sens_1",
+							"abnormal_reflexes": "neck_nevro_reflex_1"
+						},
+						"other_details": "neck_nevro_other_1"
+					},
+					"assessment_conclusion": "neck_conclusion_1",
+					"assessment_comments": "neck_comments_1"
+				},
+
+				"icpc_letter": "icpc_letter_1",
+				"icpc_id": "icpc_nr_1",
+				"functional_diagnosis": "diagnose_1"
+			}
+		},
+		"followup": {
+			"month": {
+				"m3": {
+					"self": {
+						"date_time": "",
+						"psfs": {
+							"activity_1": {
+								"score": "psfs1_p_3",
+								"description": "psfs1_act_p_3"
+							},
+							"activity_2": {
+								"score": "psfs2_p_3",
+								"description": "psfs2_act_p_3"
+							},
+							"activity_3": {
+								"score": "psfs3_p_3",
+								"description": "psfs3_act_p_3"
+							},
+							"activity_4": {
+								"score": "psfs4_p_3",
+								"description": "psfs4_act_p_3"
+							},
+							"activity_5": {
+								"score": "psfs5_p_3",
+								"description": "psfs5_act_p_3"
+							}
+						},
+
+						"eq5d": {
+							"walk": "eq5d_walk_3",
+							"care": "eq5d_care_3",
+							"adl": "eq5d_ald_3",
+							"pain": "eq5d_pain_3",
+							"anxiety_depression": "eq5d_depr_3"
+						},
+						"quality_of_life_15d": {
+							"q5_sleep": "qol15d_q5_sleep_3",
+							"q14_vital": "qol15d_q14_vital_3"
+						},
+						"orebro": {
+							"questions": {
+								"q2": "oreb_q2_3"
+							}
+						},
+						"pain": {
+							"last_week": {
+								"intensity": "patient.followup.month.m3.self.orebro.questions.q2",
+								"medication": {
+									"used": "medic_3",
+									"details": {
+										"number": "medic_number_3",
+										"defined": [
+											"medic_paracet_3",
+											"medic_albyle_3",
+											"medic_ibux_3",
+											"medic_other_3"
+										],
+										"other_details": "medic_other_spec_3"
+									}
+								},
+								"pain_site": {
+									"number_of_pain_sites": "painsite_number_3",
+									"regions": {
+										"head": "painsite_head_3",
+										"neck": "painsite_neck_3",
+										"shoulder": "painsite_shou_3",
+										"back_upper": "painsite_uback_3",
+										"elbow": "painsite_elbow_3",
+										"hand": "painsite_hand_3",
+										"thigh": "painsite_thigh_3",
+										"back_lower": "painsite_lback_3",
+										"feet": "painsite_feet_3",
+										"knee": "painsite_knee_3"
+									},
+									"site_map": {
+										"front": [{
+											"x": "",
+											"y": ""
+										}],
+										"back": [{
+											"x": "",
+											"y": ""
+										}]
+									}
+								}
+							},
+							"continuous": "pain_continuous_3",
+							"variation": "pain_vary_3",
+							"intensity_variation": "pain_variation_3",
+							"frequency": "pain_freq_3"
+						},
+						"work": {
+							"work_situation": [
+								"employ_paid_3",
+								"employ_stud_3",
+								"employ_retired_3",
+								"employ_disability_3",
+								"employ_sick_3",
+								"employ_assess_3",
+								"employ_unpaid_3",
+								"employ_unempl_3",
+								"employ_parental_leave_3"
+							],
+							"work_ability": "work_ability_3",
+							"percent_paid_work": "employ_paidp_3",
+							"percent_disability_pension": "employ_disabilityp_3",
+							"percent_sick_leave": "employ_sickp_3"
+						},
+
+						"physical_activity": {
+							"sum_score": "pa_sum_3",
+							"frequency": "pa_freq_3",
+							"intensity": "pa_int_3",
+							"duration": "pa_dur_3"
+						},
+
+						"hscl": {
+							"score": "hscl_score_3",
+							"questions": {
+								"q1": "hscl_q1_3",
+								"q2": "hscl_q2_3",
+								"q3": "hscl_q3_3",
+								"q4": "hscl_q4_3",
+								"q5": "hscl_q5_3",
+								"q6": "hscl_q6_3",
+								"q7": "hscl_q7_3",
+								"q8": "hscl_q8_3",
+								"q9": "hscl_q9_3",
+								"q10": "hscl_q10_3"
+							}
+						},
+
+						"global_percieved_effect": "gpe_3",
+						"treatment_benefit": "treat_benefit_3",
+						"treatment_expectations": "treat_expect_3",
+						"therapist_assesment": {
+							"understood_me": "patient_therapist_q1_3",
+							"faith_in_therapist": "patient_therapist_q2_3",
+							"pleased_with_therapist": "patient_therapist_q3_3"
+						},
+
+						"compliance": "compliance_3",
+
+						"msk_hq": {
+							"score": "mskhq_score_3",
+							"questions": {
+								"q1": "mskhq_q1_3",
+								"q2": "mskhq_q2_3",
+								"q3": "mskhq_q3_3",
+								"q4": "mskhq_q4_3",
+								"q5": "mskhq_q5_3",
+								"q6": "mskhq_q6_3",
+								"q7": "mskhq_q7_3",
+								"q8": "mskhq_q8_3",
+								"q9": "mskhq_q9_3",
+								"q10": "mskhq_q10_3",
+								"q11": "mskhq_q11_3",
+								"q12": "mskhq_q12_3",
+								"q13": "mskhq_q13_3",
+								"q14": "mskhq_q14_3"
+							},
+							"physical_activity": "mskhq_pa_3"
+						},
+
+						"pain_self_efficacy": {
+							"score": "pseq_score_3",
+							"questions": {
+								"q1": "pseq_q1_3",
+								"q2": "pseq_q2_3"
+							}
+						},
+
+						"goal_evaluation": "eval_goal_p_3",
+						"imp_factors_for_treatment": "treatmentfactor_patient_3"
+					},
+					"both": {
+						"psfs": {
+							"activity_1": {
+								"score": "psfs1_3",
+								"description": "psfs1_act_3"
+							},
+							"activity_2": {
+								"score": "psfs2_3",
+								"description": "psfs2_act_3"
+							},
+							"activity_3": {
+								"score": "psfs3_3",
+								"description": "psfs3_act_3"
+							},
+							"activity_4": {
+								"score": "psfs4_3",
+								"description": "psfs4_act_3"
+							},
+							"activity_5": {
+								"score": "psfs5_3",
+								"description": "psfs5_act_3"
+							}
+						},
+						"goal_evaluation": "eval_goal_3",
+						"imp_factors_for_treatment": "treatmentfactor_patient_3",
+						"treatment_termination_cause": {
+							"defined": [
+								"end_patient_3",
+								"end_effect_3",
+								"end_noeffect_3",
+								"end_followup_3",
+								"end_move_3",
+								"end_medic_3",
+								"end_death_3",
+								"end_other_3"
+							],
+							"other_details": ""
+						},
+						"treatment_continue": "treat_contin_3",
+						"number_of_consultations": "consultation_3"
+					}
+				}
+			}
+		},
+		"treatment": {
+			"date_time": "",
+			"advice": {
+				"date_time": "",
+				"1_rest": "treat_advice_rest_3",
+				"2_pa": "treat_advice_pa_3",
+				"3_fear": "treat_advice_fear_3",
+				"4_selfman": "treat_advice_selfman_3",
+				"5_work": "treat_advice_work_3",
+				"6_sleep": "treat_advice_sleep_3",
+				"7_weight": "treat_advice_weight_3",
+				"8_social": "treat_advice_social_3",
+				"9_distress": "treat_advice_distress_3",
+				"10_expect": "treat_advice_expect_3"
+			},
+			"active": {
+				"date_time": "",
+				"1_strength": "treat_active_strength_3",
+				"2_cardio": "treat_active_cardio_3",
+				"3_balance": "treat_active_balance_3",
+				"4_stretch": "treat_active_stretch_3",
+				"5_posture": "treat_active_posture_3",
+				"6_general": "treat_active_general_3"
+			},
+			"homeExercise": "treat_home_3",
+			"passive": {
+				"date_time": "",
+				"1_massage": "treat_passive_massage_3",
+				"2_joint": "treat_passive_joint_3",
+				"3_stretch": "treat_passive_stretch_3",
+				"4_trigger": "treat_passive_trigger_3",
+				"5_shockwave": "treat_passive_shockwave_3"
+			},
+			"performed_as": {
+				"treat_setting_individual": "treat_setting_individual_3",
+				"treat_setting_group": "treat_setting_group_3",
+				"treat_setting_self": "treat_setting_self_3"
+			},
+			"therapist_specification": "treat_physio_3",
+			"other_health_professionals": [
+				"treat_discuss_gp_3",
+				"treat_discuss_specialist_3",
+				"treat_discuss_psycho_3",
+				"treat_discuss_physio_3",
+				"treat_discuss_other_3"
+			],
+			"other_authorities": [
+				"treat_contact_nav_3",
+				"treat_contact_occup_3",
+				"treat_contact_employ_3",
+				"treat_contact_family_3"
+			],
+			"therapistNotes": {
+				"date_time": "",
+				"treatment_reprocucibility_description": "treat_describe_3",
+				"background_info": "treat_describe_important_3",
+				"treatment_administered": "treat_describe_treat_3"
+			}
+		},
+		"sms": {
+			"week": {
+				"w1": {
+					"date_time": "",
+					"status": {
+						"notCompleted": {
+							"dateTime": ""
+						},
+						"sent": {
+							"dateTime": ""
+						},
+						"completed": {
+							"dateTime": ""
+						}
+
+					},
+					"psfs": {
+						"activity_1": {
+							"score": "psfs1_w1",
+							"description": "psfs1_act_w1"
+						},
+						"activity_2": {
+							"score": "psfs2_w1",
+							"description": "psfs2_act_w1"
+						},
+						"activity_3": {
+							"score": "psfs3_w1",
+							"description": "psfs3_act_w1"
+						}
+					},
+					"work": {
+						"work_ability": "work_ability_w1"
+					}
+				},
+				"w2": {
+					"dateTime": "",
+					"status": {
+						"notCompleted": {
+							"dateTime": ""
+						},
+						"sent": {
+							"dateTime": ""
+						},
+						"completed": {
+							"dateTime": ""
+						}
+					},
+					"psfs": {
+						"activity_1": {
+							"score": "psfs1_w2",
+							"description": "psfs1_act_w2"
+						},
+						"activity_2": {
+							"score": "psfs2_w2",
+							"description": "psfs2_act_w2"
+						},
+						"activity_3": {
+							"score": "psfs3_w2",
+							"description": "psfs3_act_w2"
+						}
+					},
+					"work": {
+						"work_ability": "work_ability_w2"
+					},
+					"orebro": {
+						"questions": {
+							"q2": "oreb_q2_w2"
+						}
+					},
+					"pain_self_efficacy": {
+						"score": "pseq_score_w2",
+						"questions": {
+							"q1": "pseq_q1_w2",
+							"q2": "pseq_q2_w2"
+						}
+					},
+					"global_percieved_effect": "gpe_w2"
+				},
+				"w3": {
+					"dateTime": "",
+					"status": {
+						"notCompleted": {
+							"dateTime": ""
+						},
+						"sent": {
+							"dateTime": ""
+						},
+						"completed": {
+							"dateTime": ""
+						}
+					},
+					"psfs": {
+						"activity_1": {
+							"score": "psfs1_w3",
+							"description": "psfs1_act_w3"
+						},
+						"activity_2": {
+							"score": "psfs2_w3",
+							"description": "psfs2_act_w3"
+						},
+						"activity_3": {
+							"score": "psfs3_w3",
+							"description": "psfs3_act_w3"
+						}
+					},
+					"work": {
+						"work_ability": "work_ability_w1"
+					}
+				},
+				"w4": {
+					"dateTime": "",
+					"status": {
+						"notCompleted": {
+							"dateTime": ""
+						},
+						"sent": {
+							"dateTime": ""
+						},
+						"completed": {
+							"dateTime": ""
+						}
+					},
+					"psfs": {
+						"activity_1": {
+							"score": "psfs1_w4",
+							"description": "psfs1_act_w4"
+						},
+						"activity_2": {
+							"score": "psfs2_w4",
+							"description": "psfs2_act_w4"
+						},
+						"activity_3": {
+							"score": "psfs3_w4",
+							"description": "psfs3_act_w4"
+						}
+					},
+					"work": {
+						"work_ability": "work_ability_w4"
+					},
+					"global_percieved_effect": "gpe_w4"
+				},
+				"w8": {
+					"dateTime": "",
+					"status": {
+						"notCompleted": {
+							"dateTime": ""
+						},
+						"sent": {
+							"dateTime": ""
+						},
+						"completed": {
+							"dateTime": ""
+						}
+					},
+					"psfs": {
+						"activity_1": {
+							"score": "psfs1_w8",
+							"description": "psfs1_act_w8"
+						},
+						"activity_2": {
+							"score": "psfs2_w8",
+							"description": "psfs2_act_w8"
+						},
+						"activity_3": {
+							"score": "psfs3_w8",
+							"description": "psfs3_act_w8"
+						}
+					},
+					"work": {
+						"work_ability": "work_ability_w8"
+					},
+					"orebro": {
+						"questions": {
+							"q2": "oreb_q2_w8"
+						}
+					},
+					"pain_self_efficacy": {
+						"score": "pseq_score_w8",
+						"questions": {
+							"q1": "pseq_q1_w8",
+							"q2": "pseq_q2_w8"
+						}
+					},
+					"global_percieved_effect": "gpe_w8"
+				}
+			}
+		}
+	}
+}

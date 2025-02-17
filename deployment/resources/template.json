@@ -1,0 +1,18 @@
+{
+  "patient": {
+    "demographics": {
+      "name": {
+        "first": "<<first_name>>",
+        "middle": "",
+        "last": "<<last_name>>"
+      },
+      "address": {
+        "home": "<<address$home>>",
+        "street": "<<address$street>>"
+      },
+      "contact": {
+        "phone": "<<phone>>"
+      }
+    }
+  }
+}

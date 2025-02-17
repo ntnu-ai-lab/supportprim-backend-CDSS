@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patient>
+    <patient birthYear="1980" journalId="1001" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1002" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1003" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1003" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1002" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1901" journalId="1" medicalOffice="Testinstitutt"/>
+    <patient birthYear="1980" journalId="1001" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1006" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1006" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1006" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1007" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1013" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="2003" journalId="1001" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="2003" journalId="1001" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1975" journalId="9145" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1997" journalId="39151" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1993" journalId="39185" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1973" journalId="17504" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1992" journalId="30160" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1999" journalId="39178" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1999" journalId="39164" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1102" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1970" journalId="1148" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1910" journalId="380" medicalOffice="Ingebrigt Meisingset"/>
+    <patient birthYear="1956" journalId="11730" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1957" journalId="13053" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1968" journalId="8853" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1965" journalId="2" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1963" journalId="1" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1956" journalId="31894" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1959" journalId="16449" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1972" journalId="31903" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1995" journalId="31911" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1971" journalId="31912" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1965" journalId="2" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1968" journalId="31910" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1982" journalId="1" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1950" journalId="3" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1969" journalId="39224" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1992" journalId="5655" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1950" journalId="1001" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1998" journalId="38888" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1995" journalId="31909" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1991" journalId="1152" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1969" journalId="31959" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1999" journalId="1803" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1969" journalId="1808" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1984" journalId="3816" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1984" journalId="101" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1972" journalId="17564" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1961" journalId="31992" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1983" journalId="5" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1992" journalId="39400" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1998" journalId="1" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1965" journalId="32015" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1959" journalId="13082" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1966" journalId="39386" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1969" journalId="32035" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1978" journalId="102" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1968" journalId="5191" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1969" journalId="6245" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1978" journalId="32041" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1993" journalId="25803" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1967" journalId="39465" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1967" journalId="32057" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1995" journalId="39433" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1973" journalId="2000" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1956" journalId="11785" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1984" journalId="1809" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1956" journalId="7" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1958" journalId="6" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1962" journalId="26296" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1999" journalId="32108" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1959" journalId="32110" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1998" journalId="32111" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1977" journalId="39569" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1989" journalId="39442" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1966" journalId="9" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1978" journalId="32132" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1989" journalId="1810" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1982" journalId="8092" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1950" journalId="14470" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1955" journalId="9327" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1967" journalId="8" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1970" journalId="32146" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1997" journalId="32147" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1966" journalId="11" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1992" journalId="36470" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1950" journalId="12" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1964" journalId="10" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1901" journalId="1" medicalOffice="Testinstitutt"/>
+    <patient birthYear="1901" journalId="1" medicalOffice="Testinstitutt"/>
+    <patient birthYear="1980" journalId="18445" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1961" journalId="32177" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1996" journalId="32196" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1987" journalId="32197" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1999" journalId="4724" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1996" journalId="2748" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1977" journalId="13" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1949" journalId="14508" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="2003" journalId="1004" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="2003" journalId="1005" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1980" journalId="150680" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1970" journalId="1" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1959" journalId="32179" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1973" journalId="8017" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1952" journalId="2" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1981" journalId="2002" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1979" journalId="32359" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1981" journalId="1822" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1977" journalId="1499" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1995" journalId="39884" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1957" journalId="39956" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1986" journalId="2004" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1932" journalId="32" medicalOffice="support32"/>
+    <patient birthYear="1933" journalId="33" medicalOffice="support32"/>
+    <patient birthYear="1956" journalId="2005" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1984" journalId="24778" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="150680" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="8289" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1990" journalId="1002" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1994" journalId="1003" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1961" journalId="40051" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="150680" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="150680" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="150680" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1973" journalId="23493" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1986" journalId="1106" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1965" journalId="12776" medicalOffice="Anita Formo Bones"/>
+    <patient birthYear="1988" journalId="32542" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="2002" journalId="29310" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1977" journalId="14503" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="12854" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1985" journalId="32581" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1936" journalId="36" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="2002" journalId="1826" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1957" journalId="2006" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1968" journalId="9292" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1987" journalId="32645" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1992" journalId="32629" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1978" journalId="9609" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1506801" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1506802" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1506803" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1506804" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1506805" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1980" journalId="1506805" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1988" journalId="7446" medicalOffice="Fredrik Granviken"/>
+    <patient birthYear="1964" journalId="31277" medicalOffice="Fredrik Granviken"/>
+</patient>

@@ -1,0 +1,333 @@
+GET /roles/_search
+{
+  "query": {
+    "match_all": {}
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 5,
+    "max_score" : 1.0,
+    "hits" : [
+      {
+        "_index" : "roles",
+        "_type" : "role",
+        "_id" : "0",
+        "_score" : 1.0,
+        "_source" : {
+          "id" : "0",
+          "name" : "ROLE_GUEST"
+        }
+      },
+      {
+        "_index" : "roles",
+        "_type" : "role",
+        "_id" : "2",
+        "_score" : 1.0,
+        "_source" : {
+          "id" : "2",
+          "name" : "ROLE_RESEARCHER"
+        }
+      },
+      {
+        "_index" : "roles",
+        "_type" : "role",
+        "_id" : "4",
+        "_score" : 1.0,
+        "_source" : {
+          "id" : "4",
+          "name" : "ROLE_ADMIN"
+        }
+      },
+      {
+        "_index" : "roles",
+        "_type" : "role",
+        "_id" : "1",
+        "_score" : 1.0,
+        "_source" : {
+          "id" : "1",
+          "name" : "ROLE_PHYSIO"
+        }
+      },
+      {
+        "_index" : "roles",
+        "_type" : "role",
+        "_id" : "3",
+        "_score" : 1.0,
+        "_source" : {
+          "id" : "3",
+          "name" : "ROLE_DEV"
+        }
+      }
+    ]
+  }
+}
+
+
+
+GET /users/_search
+{
+  "query": {
+    "match_all": {}
+  }
+}
+{
+  "took" : 0,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 1.0,
+    "hits" : [
+      {
+        "_index" : "users",
+        "_type" : "user",
+        "_id" : "hZdtNXEBrXss5CU-BLV-",
+        "_score" : 1.0,
+        "_source" : {
+          "id" : null,
+          "username" : "admin",
+          "email" : "admin@admin.nutnu.no",
+          "roles" : [
+            {
+              "id" : "4",
+              "name" : "ROLE_ADMIN"
+            }
+          ],
+          "password" : "$2a$11$S8bjyhK4iW4iODc7Pt4dEua4lZ.GHtI1V0CiBLK8lU9CSWm6X.n/W"
+        }
+      }
+    ]
+  }
+}
+
+
+
+
+
+GET /user-test/_search
+{
+  "query": {
+    "match_all": {}
+  }
+}
+{
+  "took" : 0,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 1.0,
+    "hits" : [
+      {
+        "_index" : "user-test",
+        "_type" : "user",
+        "_id" : "05ba0768-e14b-460d-84e2-6b5750d7233b",
+        "_score" : 1.0,
+        "_source" : {
+          "id" : "05ba0768-e14b-460d-84e2-6b5750d7233b",
+          "username" : "amar",
+          "email" : "amar@amar.com",
+          "password" : "$2a$12$AOiser1Ss37r6NqmjTsTaObEFxRSrBVTx3ru4zaa0Zh.D.IFoaPo6",
+          "roles" : [
+            "ROLE_ADMIN"
+          ]
+        }
+      }
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GET _cluster/elasticsearch
+GET /
+
+GET _cluster/stats/nodes
+
+GET patient
+
+GET _cat/templates?v&s=order:desc,index_patterns
+
+GET /_cat/nodes?h=ip,port,heapPercent,name
+
+GET /employee/index
+
+DELETE /test
+
+DELETE /.kibana_1
+
+DELETE /.kibana_task_manager
+
+DELETE /book
+
+DELETE /roles
+
+DELETE /users
+
+GET /_mapping
+
+
+# Get the elasticsearch instance details
+GET /
+
+
+
+POST /roles/role/0
+{"id":"0",
+"name":"ROLE_GUEST"}
+
+POST /roles/role/1
+{"id":"1",
+"name":"ROLE_PHYSIO"}
+
+POST /roles/role/2
+{"id":"2",
+"name":"ROLE_RESEARCHER"}
+
+POST /roles/role/3
+{"id":"3",
+"name":"ROLE_DEV"}
+
+POST /roles/role/4
+{"id":"4",
+"name":"ROLE_ADMIN"}
+
+
+
+GET /user-test/_search
+{
+"query": {
+"match_all": {}
+}
+}
+
+
+
+
+
+GET /roles/_search
+{
+"query": {
+"match_all": {}
+}
+}
+
+
+GET /users/_search
+{
+"query": {
+"match_all": {}
+}
+}
+
+GET /users/_search
+{
+"query": {
+"match": {
+"username": "amar"
+}
+}
+}
+
+
+
+
+
+GET /_search
+{
+"query" : {
+"match_all" : {}
+}
+}
+
+
+GET /employee/_search
+{
+"query" : {
+"match_all" : {}
+}
+}
+
+DELETE /roles/roles/9r8DI3EBs3kUwnbrSSL1
+
+
+
+PUT .kibana/_settings
+{
+"index": {
+"blocks": {
+"read_only_allow_delete": "false"
+}
+}
+}
+
+
+POST /roles/roles/0
+{"role":"ROLE_GUEST"}
+
+
+POST /users/users/0
+{
+"username": "amar",
+"email": "amar@email.com",
+"password": "000000",
+"roles": ["dev", "admin"]
+}

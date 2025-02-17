@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>no.ntnu.supportprim</groupId>
+    <artifactId>security</artifactId>
+    <version>0.1-SNAPSHOT</version>
+    <description>Authentication and authorization based on spring boot, spring security, elasticsearch, spring boot
+        data, and jwt maven module
+    </description>
+
+    <parent>
+        <groupId>no.ntnu.supportprim</groupId>
+        <artifactId>supportprim-backend</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </parent>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>1.8</java.version>
+        <start-class>no.ntnu.supportprim.security.SecurityApp</start-class>
+    </properties>
+
+    <dependencies>
+
+        <dependency>
+            <!--
+                Spring Boot includes a number of additional features to help you monitor and manage your application
+                when you push it to production. You can choose to manage and monitor your application by using HTTP
+                endpoints or with JMX. Auditing, health, and metrics gathering can also be automatically applied to your
+                application.
+            -->
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
+
+        <dependency>
+            <!--
+                Spring Data for Elasticsearch is part of the umbrella Spring Data project which aims to provide a
+                familiar and consistent Spring-based programming model for for new datastores while retaining
+                store-specific features and capabilities.
+                The Spring Data Elasticsearch project provides integration with the Elasticsearch search engine.
+                Key functional areas of Spring Data Elasticsearch are a POJO centric model for interacting with a
+                Elastichsearch Documents and easily writing a Repository style data access layer.
+            -->
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-elasticsearch</artifactId>
+        </dependency>
+
+        <dependency>
+            <!-- JPA Data (Repositories, Entities, Hibernate, etc..)
+                Spring Data JPA, part of the larger Spring Data family, makes it easy to easily implement JPA based
+                repositories. This module deals with enhanced support for JPA based data access layers. It makes it
+                easier to build Spring-powered applications that use data access technologies.
+                Implementing a data access layer of an application has been cumbersome for quite a while.
+                Too much boilerplate code has to be written to execute simple queries as well as perform pagination,
+                and auditing. Spring Data JPA aims to significantly improve the implementation of data access layers
+                by reducing the effort to the amount that’s actually needed. As a developer you write your repository
+                interfaces, including custom finder methods, and Spring will provide the implementation automatically.
+            -->
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+        </dependency>
+
+        <dependency>
+            <!-- Starter for using Spring Security
+                Spring Security is a powerful and highly customizable authentication and access-control framework.
+                It is the de-facto standard for securing Spring-based applications.
+                Spring Security is a framework that focuses on providing both authentication and authorization to
+                Java applications. Like all Spring projects, the real power of Spring Security is found in how easily
+                it can be extended to meet custom requirements
+            -->
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>
+
+
+        <dependency>
+            <!--
+                Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.
+            -->
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
+            <!-- Make method based security testing easier -->
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.junit.vintage</groupId>
+                    <artifactId>junit-vintage-engine</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+
+        <dependency>
+            <!--
+                https://docs.spring.io/spring-security/site/docs/5.0.x/reference/html/test-method.html
+            -->
+            <groupId>org.springframework.security</groupId>
+            <artifactId>spring-security-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+
+
+        <!-- Used for development -->
+        <dependency>
+            <!-- Automatically restart whenever files on the classpath change
+                 Spring Boot includes an additional set of tools that can make the application development experience a
+                 little more pleasant. The spring-boot-devtools module can be included in any project to provide
+                 additional development-time features.
+                 https://docs.spring.io/spring-boot/docs/current/reference/html/using-spring-boot.html#using-boot-devtools
+            -->
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+            <scope>runtime</scope>
+            <optional>true</optional>
+        </dependency>
+
+        <dependency>
+            <!-- Use MySQL Connector-J -->
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
+
+        <!-- Adding individual dependencies that are not included in the Spring Boot -->
+        <dependency>
+            <groupId>org.passay</groupId>
+            <artifactId>passay</artifactId>
+            <version>1.4.0</version>
+        </dependency>
+
+        <dependency>
+            <!-- JSON Web Token Support
+                JJWT aims to be the easiest to use and understand library for creating and verifying JSON Web Tokens (JWTs) on the JVM and Android.
+                https://github.com/jwtk/jjwt
+            -->
+            <groupId>io.jsonwebtoken</groupId>
+            <artifactId>jjwt</artifactId>
+            <version>0.7.0</version>
+        </dependency>
+
+        <dependency>
+            <!-- Model Mapper http://modelmapper.org/ -->
+            <groupId>org.modelmapper</groupId>
+            <artifactId>modelmapper</artifactId>
+            <version>1.1.0</version>
+        </dependency>
+
+        <dependency>
+            <!-- Automated JSON API documentation for API's built with Spring -->
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger2</artifactId>
+            <version>2.7.0</version>
+        </dependency>
+        <dependency>
+            <!-- Generate beautiful documentation from a Swagger-compliant API. -->
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger-ui</artifactId>
+            <version>2.7.0</version>
+        </dependency>
+
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

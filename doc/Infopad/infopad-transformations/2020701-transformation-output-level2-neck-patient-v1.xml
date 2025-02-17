@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patient>
+   <projectId>249961487</projectId>
+   <taskId>249961490</taskId>
+   <taskName>SupportPRIM - Baseline Pasient</taskName>
+   <clinicName>Fredrik Granviken</clinicName>
+   <journalId>1506801</journalId>
+   <birthYear>1980</birthYear>
+   <startDate>19-06-2020</startDate>
+   <startTime>08:25:31</startTime>
+   <work_type_1>For det meste stillesittende arbeid (f.eks skrivebordsarbeid, montering)</work_type_1>
+   <activity_1>Svært redusert</activity_1>
+   <work_ability_1>7</work_ability_1>
+   <fear_1>2</fear_1>
+   <treat12m_othersp_1>soneterapi</treat12m_othersp_1>
+   <treat12m_numb_1>Mer enn 10</treat12m_numb_1>
+   <como_ra_1>true</como_ra_1>
+   <como_heart_1>true</como_heart_1>
+   <como_asthma_1>true</como_asthma_1>
+   <como_neuro_1>false</como_neuro_1>
+   <como_cancer_1>false</como_cancer_1>
+   <como_psych_1>false</como_psych_1>
+   <como_dementhia_1>false</como_dementhia_1>
+   <como_osteoporosis_1>false</como_osteoporosis_1>
+   <como_diabetes_1>false</como_diabetes_1>
+   <como_stomach_pain_1>false</como_stomach_pain_1>
+   <como_headache_1>false</como_headache_1>
+   <como_fatigue_1>false</como_fatigue_1>
+   <como_other_1>true</como_other_1>
+   <employ_paid_1>true</employ_paid_1>
+   <employ_stud_1>true</employ_stud_1>
+   <employ_retired_1>true</employ_retired_1>
+   <employ_disability_1>true</employ_disability_1>
+   <employ_sick_1>true</employ_sick_1>
+   <employ_assess_1>true</employ_assess_1>
+   <employ_unpaid_1>true</employ_unpaid_1>
+   <employ_unempl_1>true</employ_unempl_1>
+   <employ_parentleave_1>true</employ_parentleave_1>
+   <gender_1>Kvinne</gender_1>
+   <height_1>170</height_1>
+   <weight_1>78</weight_1>
+   <smoking_1>Ja</smoking_1>
+   <education_1>Annet</education_1>
+   <education_othersp_1>Livets skole</education_othersp_1>
+   <ethnicity_1>Europa med i EU eller EØS</ethnicity_1>
+   <marital_1>Gift / Samboer</marital_1>
+   <family_1>Eget hjem sammen med andre</family_1>
+   <family_child_1>1</family_child_1>
+   <walk_aid_1>Ja</walk_aid_1>
+   <treat_belief_1>Helt enig</treat_belief_1>
+   <red_flag_nightpain_1>Ja</red_flag_nightpain_1>
+   <red_flag_cancer_1>Ja</red_flag_cancer_1>
+   <health_lit_sit_1>Meget dårlig</health_lit_sit_1>
+   <eq5d_walk_1>Jeg har ingen problemer med å gå omkring</eq5d_walk_1>
+   <eq5d_care_1>Jeg har ingen problemer med å vaske meg eller kle meg</eq5d_care_1>
+   <eq5d_adl_1>Jeg har ingen problemer med å utføre mine vanlige gjøremål</eq5d_adl_1>
+   <eq5d_pain_1>Jeg har verken smerter eller ubehag</eq5d_pain_1>
+   <eq5d_depr_1>Jeg er verken engstelig eller deprimert</eq5d_depr_1>
+   <qol15d_q5_sleep_1>Jeg har lette søvnproblemer, f.eks. vanskelig for å falle i søvn eller våkner av og til om natten.</qol15d_q5_sleep_1>
+   <qol15d_q14_vital_1>Jeg føler meg frisk og energisk.</qol15d_q14_vital_1>
+   <oreb_q1_1>1 - 2 uker</oreb_q1_1>
+   <oreb_q2_1>3</oreb_q2_1>
+   <oreb_q3_1>5</oreb_q3_1>
+   <oreb_q4_1>5</oreb_q4_1>
+   <oreb_q5_1>5</oreb_q5_1>
+   <oreb_q6_1>5</oreb_q6_1>
+   <oreb_q7_1>5</oreb_q7_1>
+   <oreb_q10_1>7</oreb_q10_1>
+   <pain_vary_1>Ja</pain_vary_1>
+   <pain_variation_1>Den varierer innenfor døgnet</pain_variation_1>
+   <pain_freq_1>_unknown_</pain_freq_1>
+   <medic_1>Ja</medic_1>
+   <medic_type>Paracetamol, Paracet, Panodil, Pimol, Pinex eller Perfalgan</medic_type>
+   <medic_type_other_1>false</medic_type_other_1>
+   <hscl_q1_1>En god del</hscl_q1_1>
+   <hscl_q2_1>En god del</hscl_q2_1>
+   <hscl_q3_1>En god del</hscl_q3_1>
+   <hscl_q4_1>En god del</hscl_q4_1>
+   <hscl_q5_1>En god del</hscl_q5_1>
+   <hscl_q6_1>En god del</hscl_q6_1>
+   <hscl_q7_1>En god del</hscl_q7_1>
+   <hscl_q8_1>En god del</hscl_q8_1>
+   <hscl_q9_1>En god del</hscl_q9_1>
+   <hscl_q10_1>En god del</hscl_q10_1>
+   <pa_freq_1>Sjeldnere enn en gang i uken</pa_freq_1>
+   <pa_int_1>Tar det rolig uten å bli andpusten eller svett</pa_int_1>
+   <pa_dur_1>15 - 29 minutter</pa_dur_1>
+   <mskt_q2_1>Nei</mskt_q2_1>
+   <mskt_q3_1>Ja</mskt_q3_1>
+   <mskt_q4_1>Ja</mskt_q4_1>
+   <mskt_q5_1>Nei</mskt_q5_1>
+   <mskt_q6_1>Ja</mskt_q6_1>
+   <mskt_q7_1>Ja</mskt_q7_1>
+   <mskt_q8_1>Ja</mskt_q8_1>
+   <mskt_q10_1>Nei</mskt_q10_1>
+   <mskhq_q1_1>Ganske intense</mskhq_q1_1>
+   <mskhq_q2_1>Ganske intense</mskhq_q2_1>
+   <mskhq_q3_1>Veldig</mskhq_q3_1>
+   <mskhq_q4_1>Moderat</mskhq_q4_1>
+   <mskhq_q5_1>Moderat</mskhq_q5_1>
+   <mskhq_q6_1>Veldig</mskhq_q6_1>
+   <mskhq_q7_1>Veldig</mskhq_q7_1>
+   <mskhq_q8_1>Ofte</mskhq_q8_1>
+   <mskhq_q9_1>Noen ganger</mskhq_q9_1>
+   <mskhq_q10_1>Veldig</mskhq_q10_1>
+   <mskhq_q11_1>Moderat</mskhq_q11_1>
+   <mskhq_q12_1>Moderat</mskhq_q12_1>
+   <mskhq_q13_1>Moderat</mskhq_q13_1>
+   <mskhq_q14_1>Veldig mye</mskhq_q14_1>
+   <mskhq_pa_1>4 dager</mskhq_pa_1>
+   <treat_goal_1>Å kunne leke med barna</treat_goal_1>
+   <body_main_1>Nakke</body_main_1>
+   <neck_move_1>Ja</neck_move_1>
+   <neck_neuro_other_1>utsråling venstre arm</neck_neuro_other_1>
+   <neck_conclusion_1>Ingen tegn på alvorlige patologiske forandringer, men med sikker nedsettelse av dagliglivets funksjon</neck_conclusion_1>
+   <neck_comment_1>nakkeproblemer etter trafikkulykke</neck_comment_1>
+   <neck_move_rom_flex_1>true</neck_move_rom_flex_1>
+   <neck_move_rom_ext_1>true</neck_move_rom_ext_1>
+   <neck_move_rom_rot_1>true</neck_move_rom_rot_1>
+   <neck_move_rom_lat_1>true</neck_move_rom_lat_1>
+   <neck_move_rom_not_1>true</neck_move_rom_not_1>
+   <neck_move_pain_flex_1>true</neck_move_pain_flex_1>
+   <neck_move_pain_ext_1>true</neck_move_pain_ext_1>
+   <neck_move_pain_rot_1>true</neck_move_pain_rot_1>
+   <neck_move_pain_lat_1>true</neck_move_pain_lat_1>
+   <neck_neuro_not_1>true</neck_neuro_not_1>
+   <neck_neuro_pow_1>true</neck_neuro_pow_1>
+   <neck_neuro_sens_1>true</neck_neuro_sens_1>
+   <neck_neuro_reflex_1>true</neck_neuro_reflex_1>
+   <icpc_letter_1>L</icpc_letter_1>
+   <icpc_nr_1>80</icpc_nr_1>
+   <diagnose_1>Nakkesyndrom</diagnose_1>
+   <oreb_q2_w2>8</oreb_q2_w2>
+   <oreb_q2_w8>7</oreb_q2_w8>
+   <eq5d_walk_3>Jeg har ingen problemer med å gå omkring</eq5d_walk_3>
+   <eq5d_care_3>Jeg har middels store problemer med å vaske meg eller kle meg</eq5d_care_3>
+   <eq5d_adl_3>Jeg har ingen problemer med å utføre mine vanlige gjøremål</eq5d_adl_3>
+   <eq5d_pain_3>Jeg har verken smerter eller ubehag</eq5d_pain_3>
+   <eq5d_depr_3>Jeg er verken engstelig eller deprimert</eq5d_depr_3>
+   <qol15D_q5_sleep_3>Jeg har lette søvnproblemer, f.eks. vanskelig for å falle i søvn eller våkner av og til om natten.</qol15D_q5_sleep_3>
+   <qol15D_q14_vital_3>Jeg føler meg frisk og energisk.</qol15D_q14_vital_3>
+   <oreb_q2_3>2</oreb_q2_3>
+   <pain_continuous_3>Ja, jeg kjenner den hele tiden</pain_continuous_3>
+   <pain_vary_3>Ja</pain_vary_3>
+   <pain_variation_3>Den varierer innenfor døgnet</pain_variation_3>
+   <pain_freq_3>_unknown_</pain_freq_3>
+   <medic_number_3>1- 4</medic_number_3>
+   <pa_freq_3>Sjeldnere enn en gang i uken</pa_freq_3>
+   <pa_int_3>Tar det så hardt at jeg blir andpusten og svett</pa_int_3>
+   <pa_dur_3>30 minutter - 1 time</pa_dur_3>
+   <hscl10_q1_3>Litt</hscl10_q1_3>
+   <hscl10_q2_3>Litt</hscl10_q2_3>
+   <hscl10_q3_3>En god del</hscl10_q3_3>
+   <hscl10_q4_3>En god del</hscl10_q4_3>
+   <hscl10_q5_3>En god del</hscl10_q5_3>
+   <hscl10_q6_3>En god del</hscl10_q6_3>
+   <hscl10_q7_3>En god del</hscl10_q7_3>
+   <hscl10_q8_3>En god del</hscl10_q8_3>
+   <hscl10_q9_3>Svært mye</hscl10_q9_3>
+   <hscl10_q10_3>Svært mye</hscl10_q10_3>
+   <treat_expect_3>I svært stor grad</treat_expect_3>
+   <treat_benefit_3>I stor grad</treat_benefit_3>
+   <patient_physio_q1_3>Nøytral </patient_physio_q1_3>
+   <patient_physio_q2_3>Sterkt uenig </patient_physio_q2_3>
+   <patient_physio_q3_3>Sterkt uenig </patient_physio_q3_3>
+   <compliance_3>Noe</compliance_3>
+   <mskhq_q1_3>Veldig intense</mskhq_q1_3>
+   <mskhq_q2_3>Veldig intense</mskhq_q2_3>
+   <mskhq_q3_3>Har ikke kunnet gå</mskhq_q3_3>
+   <mskhq_q4_3>Veldig</mskhq_q4_3>
+   <mskhq_q5_3>Veldig</mskhq_q5_3>
+   <mskhq_q6_3>Veldig</mskhq_q6_3>
+   <mskhq_q7_3>Veldig</mskhq_q7_3>
+   <mskhq_q8_3>Ofte</mskhq_q8_3>
+   <mskhq_q9_3>Ofte</mskhq_q9_3>
+   <mskhq_q10_3>Moderat</mskhq_q10_3>
+   <mskhq_q11_3>Veldig</mskhq_q11_3>
+   <mskhq_q12_3>Moderat</mskhq_q12_3>
+   <mskhq_q13_3>Litt</mskhq_q13_3>
+   <mskhq_q14_3>Veldig mye</mskhq_q14_3>
+   <mskhq_pa_3>4 dager</mskhq_pa_3>
+   <treatmentfactor_patient_3>fysioterapi</treatmentfactor_patient_3>
+   <eval_goal_3>Delvis oppnådd</eval_goal_3>
+   <treat_contin_3>Nei</treat_contin_3>
+   <ism_var_not_defined>5</ism_var_not_defined>
+   <end_cause_patient_3>true</end_cause_patient_3>
+   <end_cause_effect_3>true</end_cause_effect_3>
+   <end_cause_noeffect_3>true</end_cause_noeffect_3>
+   <end_cause_followup_3>true</end_cause_followup_3>
+   <end_cause_move_3>true</end_cause_move_3>
+   <end_cause_medic_3>true</end_cause_medic_3>
+   <end_cause_death_3>true</end_cause_death_3>
+   <end_cause_other_3>true</end_cause_other_3>
+   <treat_advice_rest_3>Ikke</treat_advice_rest_3>
+   <treat_advice_pa_3>Noe</treat_advice_pa_3>
+   <treat_advice_fear_3>Noe</treat_advice_fear_3>
+   <treat_advice_selfman_3>Noe</treat_advice_selfman_3>
+   <treat_advice_work_3>Noe</treat_advice_work_3>
+   <treat_advice_sleep_3>Noe</treat_advice_sleep_3>
+   <treat_advice_weight_3>Noe</treat_advice_weight_3>
+   <treat_advice_social_3>Noe</treat_advice_social_3>
+   <treat_advice_distress_3>Noe</treat_advice_distress_3>
+   <treat_advice_expect_3>Mye</treat_advice_expect_3>
+   <treat_active_strength_3>Noe</treat_active_strength_3>
+   <treat_active_cardio_3>Noe</treat_active_cardio_3>
+   <treat_active_balance_3>Mye</treat_active_balance_3>
+   <treat_active_stretch_3>Noe</treat_active_stretch_3>
+   <treat_active_posture_3>Noe</treat_active_posture_3>
+   <treat_active_general_3>Mye</treat_active_general_3>
+   <treat_home_3>Noe</treat_home_3>
+   <treat_passive_massage_3>Noe</treat_passive_massage_3>
+   <treat_passive_joint_3>Noe</treat_passive_joint_3>
+   <treat_passive_stretch_3>Noe</treat_passive_stretch_3>
+   <treat_passive_trigger_3>Noe</treat_passive_trigger_3>
+   <treat_passive_shockwave_3>Noe</treat_passive_shockwave_3>
+   <treat_setting_individual_3>Mye</treat_setting_individual_3>
+   <treat_setting_group_3>Mye</treat_setting_group_3>
+   <treat_setting_self_3>Mye</treat_setting_self_3>
+   <treat_physio_3>Allmenn fysioterapeut 	</treat_physio_3>
+   <treat_discuss_gp_3>Ja</treat_discuss_gp_3>
+   <treat_discuss_specialist_3>Ja</treat_discuss_specialist_3>
+   <treat_discuss_psycho_3>Ja</treat_discuss_psycho_3>
+   <treat_discuss_physio_3>Ja</treat_discuss_physio_3>
+   <treat_discuss_other_3>Ja</treat_discuss_other_3>
+   <treat_contact_nav_3>Ja</treat_contact_nav_3>
+   <treat_contact_occup_3>Ja</treat_contact_occup_3>
+   <treat_contact_employ_3>Ja</treat_contact_employ_3>
+   <treat_contact_family_3>Ja</treat_contact_family_3>
+   <treat_describe_important_3>Å lytte til pasienten</treat_describe_important_3>
+   <ism_var_not_defined>samtale og trening</ism_var_not_defined>
+   <treat_describe_3>Å lytte til pasienten</treat_describe_3>
+   <treat_describe_3>samtale og trening</treat_describe_3>
+</patient>

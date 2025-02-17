@@ -1,0 +1,12 @@
+{
+  "patient": {
+    "address": {
+      "street": "ntnu",
+      "home": "99B"
+    },
+    "name": {
+      "firstName": "amar",
+      "lastName": "jaiswal"
+    }
+  }
+}

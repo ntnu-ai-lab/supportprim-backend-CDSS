@@ -1,0 +1,119 @@
+{
+  "activity_1": {
+    "Svært redusert": "very reduced",
+    "Ganske redusert": "quite reduced",
+    "Litt redusert": "slightly reduced",
+    "Ikke redusert": "not reduced"
+  },
+  "education_1": {
+    "Grunnskole eller lavere": "primary school",
+    "Videregående skole": "high school",
+    "Inntil 4 år høyere utdanning": "up to 4 years higher education",
+    "Mer enn 4 år høyere utdanning": "more than 4 years higher education",
+    "Annet" : "other"
+  },
+  "body_main_1": {
+    "Nakke" : "neck",
+    "Skulder" : "shoulder",
+    "Rygg" : "back",
+    "Hofte" : "hip",
+    "Kne" : "knee",
+    "Utbredte plager/ sammensatt" : "multisite"
+  },
+  "eq5d_care_1": {
+    "Jeg har ingen problemer med å vaske meg eller kle meg": "no problem",
+    "Jeg har litt problemer med å vaske meg eller kle meg": "slight problem",
+    "Jeg har middels store problemer med å vaske meg eller kle meg": "moderate problems",
+    "Jeg har store problemer med å vaske meg eller kle meg": "severe problems",
+    "Jeg er ute av stand til å vaske meg eller kle meg": "unable"
+  },
+  "eq5d_depr_1": {
+    "Jeg er verken engstelig eller deprimert": "not",
+    "Jeg er litt engstelig eller deprimert": "slightly",
+    "Jeg er middels engstelig eller deprimert": "moderately",
+    "Jeg er svært engstelig eller deprimert": "severely",
+    "Jeg er ekstremt engstelig eller deprimert": "extremely"
+  },
+  "eq5d_walk_1": {
+    "Jeg har ingen problemer med å gå omkring": "no problem",
+    "Jeg har litt problemer med å gå omkring": "slight problem",
+    "Jeg har middels store problemer med å gå omkring": "moderate problems",
+    "Jeg har store problemer med å gå omkring": "severe problems",
+    "Jeg er ute av stand til å gå omkring": "unable"
+  },
+  "gender_1": {
+    "Mann": "male",
+    "Kvinne": "female"
+  },
+  "medic_number_1": {
+  "0" : "0",
+  "1- 4" : "1 to 4",
+  "5 eller flere" : "5 or more"
+  },
+  "medic_number_3": {
+    "0" : "0",
+    "1- 4" : "1 to 4",
+    "5 eller flere" : "5 or more"
+  },
+  "mskhq_pa_1": {
+    "Ingen dager": "none",
+    "1 dag": "1 day",
+    "2 dager": "2 days",
+    "3 dager": "3 days",
+    "4 dager": "4 days",
+    "5 dager": "5 days",
+    "6 dager": "6 days",
+    "7 dager": "7 days"
+  },
+  "mskhq_q7_1": {
+    "Ikke i det hele tatt": "not at all",
+    "Litt": "slightly",
+    "Moderat": "moderately",
+    "Veldig": "severely",
+    "Ekstremt": "extremely"
+  },
+  "oreb_q1_1": {
+    "0 - 1 uker": "0 to 1 week",
+    "1 - 2 uker": "1 to 2 weeks",
+    "3 - 4 uker": "3 to 4 weeks",
+    "4 - 5 uker": "4 to 5 weeks",
+    "6 - 8 uker": "6 to 8 weeks",
+    "9 - 11 uker": "9 to 11 weeks",
+    "3 - 6 måneder": "3 to 6 months",
+    "6 - 9 måneder": "6 to 9 months",
+    "9 - 12 måneder": "9 to 12 months",
+    "Over ett år": "more than 12 months"
+  },
+  "pain_continuous_1": {
+    "Ja, jeg kjenner den hele tiden": "yes",
+    "Nei, den er av og på": "no"
+  },
+  "qol15d_q14_vital_1": {
+    "Jeg føler meg frisk og energisk.": "healthy and energetic",
+    "Jeg føler meg litt sliten, trett eller svak.": "slightly weary",
+    "Jeg føler meg middels sliten, trett eller svak.": "moderately weary",
+    "Jeg føler meg svært sliten, trett eller svak, nesten utslitt.": "very weary",
+    "Jeg føler meg ekstremt sliten, trett eller svak, totalt utslitt.": "extremely weary"
+  },
+  "qol15d_q5_sleep_1": {
+    "Jeg er i stand til å sove normalt, dvs. jeg har ingen problemer med å sove.": "sleep normally",
+    "Jeg har lette søvnproblemer, f.eks. vanskelig for å falle i søvn eller våkner av og til om natten.": "slight problem",
+    "Jeg har moderate søvnproblemer, f.eks. forstyrret søvn eller føler jeg ikke har sovet nok.": "moderate problems",
+    "Jeg har store søvnproblemer, f.eks.må bruke sovemedisiner ofte eller rutinemessig, eller våkner om natten og/ eller for tidlig om morgenen.": "great problems",
+    "Jeg lider av alvorlig søvnløshet, f.eks. er søvn nesten umulig selv med bruk av sovemedisiner, eller jeg forblir våken det meste av natten.": "severe problems"
+  },
+  "smoking_1": {
+    "Nei": "no",
+    "Ja": "yes"
+  },
+  "walk_aid_1": {
+    "Nei": "no",
+    "Ja": "yes"
+  },
+  "work_type_1": {
+    "For det meste stillesittende arbeid (f.eks skrivebordsarbeid, montering)": "mostly seated",
+    "Arbeid som krever at du går mye (f.eks ekspeditørarbeid, lett industriarbeid, undervisning)": "much walking",
+    "Arbeid hvor du går og løfter mye (f.eks postbud, pleier, bygningsarbeider)": "much walking and lifting",
+    "Tungt kroppsarbeid (f.eks skogsarbeider, tungt jordbruksarbeid, tungt bygningsarbeid)": "heavy work using the body"
+  }
+}

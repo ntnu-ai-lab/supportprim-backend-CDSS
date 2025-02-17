@@ -1,0 +1,37 @@
+{
+   "config":{
+	   "date": "23.06.2020",
+	   "version": "0.1",
+       "scale": {
+          "datatype": "integer",
+          "statistical_datatype": "nominal",
+       },
+	   "scaleRange": {
+	       "datatype": ["integer", "decimal", "keywords", "string", "list", "object"],
+	       "statistical_datatype" : ["nominal", "ordinal", "discrete", "continuous"]
+	   }
+   },
+   "attributes":{      
+      "smoking": {
+         "short_info": "Smoking",
+         "description": "Smoking",
+         "min": "0",
+         "max": "1",
+         "mapping":{
+            "0": "No",
+            "1": "Yes"
+         }
+      },
+      "sex": {
+         "short_info": "Sex",
+         "description": "Sex of the patient",
+         "min": "0",
+         "max": "3",
+         "mapping":{
+            "0": "unknown",
+            "1": "female",
+            "2": "male",
+         }
+      }
+   }
+}
