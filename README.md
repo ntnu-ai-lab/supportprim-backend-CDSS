@@ -61,10 +61,10 @@ supportprim-cdss/
     - Supports advanced search and analytics with Elasticsearch.
 7. **UI Integration**
     - A front-end (not included in this repo) calls these services via REST.
+
 For a visual representation, see the supportprim-backend-subsystems_v3.pdf included in this repository.
 
-
-![alt text](https://github.com/ntnu-ai-lab/supportprim-backend-CDSS/main/doc/supportprim-backend-subsystems-2023-11-06.pdf?raw=true)
+<img src="./doc/supportprim-backend-subsystems-2023-11-06.pdf" alt="SupportPrim CDSS Backend Architecture" width="300"/>
 
 ## 5. Deployment Scripts
   - start-backend.sh : 
