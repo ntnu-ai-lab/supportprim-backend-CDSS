@@ -64,7 +64,7 @@ supportprim-cdss/
 
 For a visual representation, see the supportprim-backend-subsystems_v3.pdf included in this repository.
 
-<img src="./doc/supportprim-backend-subsystems-2023-11-06.pdf" alt="SupportPrim CDSS Backend Architecture" width="300"/>
+<img src="./doc/supportprim-backend-subsystems-2023-11-06.png" alt="SupportPrim CDSS Backend Architecture" width="300"/>
 
 ## 5. Deployment Scripts
   - start-backend.sh : 
